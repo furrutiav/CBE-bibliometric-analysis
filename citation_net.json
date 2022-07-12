@@ -1,0 +1,5137 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "alm k. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>alm k.; beery t.h.; eiblmeier d.; fahmy t.</td></tr><tr><td>Title:</td><td>students’ learning sustainability – implicit, explicit or non-existent: a case study approach on students’ key competencies addressing the sdgs in hei program</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 23(8), 60-84</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-12-2020-0484",
+				"x": 0.7611,
+				"y": -0.0492,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8333
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8333
+				}
+			},
+			{
+				"id": 7,
+				"label": "škrinjarić b. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>škrinjarić b.</td></tr><tr><td>Title:</td><td>competence-based approaches in organizational and individual context</td></tr><tr><td>Source:</td><td>humanities and social sciences communications, 9(1)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1057/s41599-022-01047-1",
+				"x": 0.6201,
+				"y": 0.2079,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 10,
+				"label": "leal m.s. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>leal m.s.; gómez m.l.o.; toma r.b.</td></tr><tr><td>Title:</td><td>conceptual construction of global competence in education</td></tr><tr><td>Source:</td><td>teoria de la educacion, 34(1), 83-103</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.14201/teri.25394",
+				"x": -0.3718,
+				"y": 0.2822,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 11,
+				"label": "birdman j. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>birdman j.; wiek a.; lang d.j.</td></tr><tr><td>Title:</td><td>developing key competencies in sustainability through project-based learning in graduate sustainability programs</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 23(5), 1139-1157</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-12-2020-0506",
+				"x": 0.8060,
+				"y": -0.1802,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8333
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8333
+				}
+			},
+			{
+				"id": 12,
+				"label": "venn r. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>venn r.; perez p.; vandenbussche v.</td></tr><tr><td>Title:</td><td>competencies of sustainability professionals: an empirical study on key competencies for sustainability</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 14(9)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.3390/su14094916",
+				"x": 0.7053,
+				"y": -0.0819,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 13,
+				"label": "van der baan n. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>van der baan n.; gast i.; gijselaers w.; beausaert s.</td></tr><tr><td>Title:</td><td>coaching to prepare students for their school-to-work transition: conceptualizing core coaching competences</td></tr><tr><td>Source:</td><td>education and training, 64(3), 398-415</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1108/et-11-2020-0341",
+				"x": -0.2233,
+				"y": -0.1196,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 15,
+				"label": "ryan b. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>ryan b.; johnston k.; taylor m.</td></tr><tr><td>Title:</td><td>recognising and measuring competency in natural hazard preparation: a preparedness competency index</td></tr><tr><td>Source:</td><td>international journal of disaster risk reduction, 73</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.ijdrr.2022.102882",
+				"x": 0.7996,
+				"y": -0.0699,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 17,
+				"label": "nissilä s.-p. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>nissilä s.-p.; karjalainen a.; koukkari m.</td></tr><tr><td>Title:</td><td>it is the shared aims, trust and compassion that allow people to prosper: teacher educators´ lifelong learning in competence-based education</td></tr><tr><td>Source:</td><td>european journal of educational research, 11(2), 965-980</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.12973/eu-jer.11.2.965",
+				"x": -1.2668,
+				"y": -0.0861,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 20,
+				"label": "zwolińska k. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>zwolińska k.; lorenc s.; pomykała r.</td></tr><tr><td>Title:</td><td>sustainable development in education from students’ perspective—implementation of sustainable development in curricula</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 14(6)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.3390/su14063398",
+				"x": 0.7253,
+				"y": -0.0198,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 23,
+				"label": "aleksić a. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>aleksić a.; nestić s.; huber m.; ljepava n.</td></tr><tr><td>Title:</td><td>the assessment of the key competences for lifelong learning—the fuzzy model approach for sustainable education</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 14(5)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.3390/su14052686",
+				"x": 0.9044,
+				"y": 0.1485,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 31,
+				"label": "de la torre e.m. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>de la torre e.m.; perez-encinas a.; gomez-mediavilla g.</td></tr><tr><td>Title:</td><td>fostering sustainability through mobility knowledge, skills, and attitudes</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 14(3)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.3390/su14031349",
+				"x": 0.8831,
+				"y": 0.0946,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 8.5000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 8.5000
+				}
+			},
+			{
+				"id": 33,
+				"label": "platts e.j. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>platts e.j.; kerner b.; adams n.; archer j.-m.</td></tr><tr><td>Title:</td><td>few and far between: rebalancing research and training priorities at the food-energy-water nexus</td></tr><tr><td>Source:</td><td>science and education</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1007/s11191-022-00344-0",
+				"x": 0.9661,
+				"y": -0.1510,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 35,
+				"label": "tarekegne c. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>tarekegne c.; wesselink r.; biemans h.j.a.; mulder m.</td></tr><tr><td>Title:</td><td>effectiveness of a competence-based planting support training programme for development agents in ethiopia</td></tr><tr><td>Source:</td><td>international journal of training and development</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1111/ijtd.12265",
+				"x": -0.9112,
+				"y": -0.1514,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 36,
+				"label": "xiang x. (2022)",
+				"description": "<table><tr><td>Authors:</td><td>xiang x.; chen y.; fang y.; zhang q.</td></tr><tr><td>Title:</td><td>how key competencies progress across school terms? a study of “activities” in geography textbooks for secondary schools</td></tr><tr><td>Source:</td><td>journal of geography, 121(2), 67-76</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/00221341.2022.2052936",
+				"x": 0.4968,
+				"y": 0.0727,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 57,
+				"label": "bükki e. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>bükki e.; fehérvári a.</td></tr><tr><td>Title:</td><td>how do teachers collaborate in hungarian vet schools? a quantitative study of forms, perceptions of impact and related individual and organisational factors</td></tr><tr><td>Source:</td><td>empirical research in vocational education and training, 13(1)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1186/s40461-020-00108-6",
+				"x": -1.2635,
+				"y": -0.0762,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 61,
+				"label": "redman a. (2021a)",
+				"description": "<table><tr><td>Authors:</td><td>redman a.; wiek a.</td></tr><tr><td>Title:</td><td>competencies for advancing transformations towards sustainability</td></tr><tr><td>Source:</td><td>frontiers in education, 6</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3389/feduc.2021.785163",
+				"x": 0.9624,
+				"y": -0.1964,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.8303
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.8303
+				}
+			},
+			{
+				"id": 63,
+				"label": "imara k. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>imara k.; altinay f.</td></tr><tr><td>Title:</td><td>integrating education for sustainable development competencies in teacher education</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(22)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su132212555",
+				"x": 1.0229,
+				"y": -0.0013,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				}
+			},
+			{
+				"id": 64,
+				"label": "brauer s. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>brauer s.</td></tr><tr><td>Title:</td><td>towards competence-oriented higher education: a systematic literature review of the different perspectives on successful exit profiles</td></tr><tr><td>Source:</td><td>education and training, 63(9), 1376-1390</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1108/et-07-2020-0216",
+				"x": -0.6840,
+				"y": -0.0548,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 68,
+				"label": "redman a. (2021b)",
+				"description": "<table><tr><td>Authors:</td><td>redman a.; rowe d.; brundiers k.; brock a.</td></tr><tr><td>Title:</td><td>what motivates students to be sustainability change agents in the face of adversity?</td></tr><tr><td>Source:</td><td>sustainability and climate change, 14(5), 313-322</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1089/scc.2021.0024",
+				"x": 0.9550,
+				"y": -0.2389,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 69,
+				"label": "curtis h.l. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>curtis h.l.; gabriel l.c.; sahakian m.; cattacin s.</td></tr><tr><td>Title:</td><td>practice-based program evaluation in higher education for sustainability: a student participatory approach</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(19)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su131910816",
+				"x": 0.6594,
+				"y": -0.0808,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 74,
+				"label": "konrad t. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>konrad t.; wiek a.; barth m.</td></tr><tr><td>Title:</td><td>learning to collaborate from diverse interactions in project-based sustainability courses</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(17)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13179884",
+				"x": 0.8969,
+				"y": -0.2029,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 79,
+				"label": "pálsdóttir a. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>pálsdóttir a.; jóhannsdóttir l.</td></tr><tr><td>Title:</td><td>key competencies for sustainability in university of iceland curriculum</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(16)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13168945",
+				"x": 0.9114,
+				"y": 0.0072,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				}
+			},
+			{
+				"id": 89,
+				"label": "teresa fuertes‐camacho m. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>teresa fuertes‐camacho m.; dulsat‐ortiz c.; álvarez‐cánovas i.</td></tr><tr><td>Title:</td><td>reflective practice in times of covid‐19: a tool to improve education for sustainable development in pre‐service teacher training</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(11)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13116261",
+				"x": 0.8685,
+				"y": 0.0204,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.8303
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.8303
+				}
+			},
+			{
+				"id": 90,
+				"label": "kwon i.-s. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>kwon i.-s.</td></tr><tr><td>Title:</td><td>analysis of key competencies and curriculum expertise of korean dance programs to assist in their long-term sustainability</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(11)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13115801",
+				"x": 1.0691,
+				"y": -0.1874,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 100,
+				"label": "guitert m. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>guitert m.; romeu t.; baztán p.</td></tr><tr><td>Title:</td><td>the digital competence framework for primary and secondary schools in europe</td></tr><tr><td>Source:</td><td>european journal of education, 56(1), 133-149</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1111/ejed.12430",
+				"x": -0.3921,
+				"y": 0.3239,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				}
+			},
+			{
+				"id": 110,
+				"label": "merma-molina g. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>merma-molina g.; gavilán-martín d.; álvarez-herrero j.-f.</td></tr><tr><td>Title:</td><td>education for sustainable development: the impact of the values in mobile phone addiction</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(3), 1-17</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13031479",
+				"x": 0.7999,
+				"y": 0.0134,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				}
+			},
+			{
+				"id": 113,
+				"label": "birdman j. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>birdman j.; redman a.; lang d.j.</td></tr><tr><td>Title:</td><td>pushing the boundaries: experience-based learning in early phases of graduate sustainability curricula</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 22(1), 237-253</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-08-2019-0242",
+				"x": 0.8658,
+				"y": -0.2140,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				}
+			},
+			{
+				"id": 116,
+				"label": "sumter d. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>sumter d.; de koning j.; bakker c.; balkenende r.</td></tr><tr><td>Title:</td><td>key competencies for design in a circular economy: exploring gaps in design knowledge and skills for a circular economy</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(2), 1-15</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13020776",
+				"x": 0.8086,
+				"y": 0.0017,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 5.0332
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 5.0332
+				}
+			},
+			{
+				"id": 117,
+				"label": "mróz a. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>mróz a.; ocetkiewicz i.</td></tr><tr><td>Title:</td><td>creativity for sustainability: how do polish teachers develop students’ creativity competence? analysis of research results</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 13(2), 1-22</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13020571",
+				"x": 1.0032,
+				"y": -0.0520,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.8303
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.8303
+				}
+			},
+			{
+				"id": 128,
+				"label": "misbah z. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>misbah z.; gulikers j.; widhiarso w.; mulder m.</td></tr><tr><td>Title:</td><td>exploring connections between teacher interpersonal behaviour, student motivation and competency level in competence-based learning environments</td></tr><tr><td>Source:</td><td>learning environments research</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10984-021-09395-6",
+				"x": -1.0429,
+				"y": -0.2267,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 130,
+				"label": "lozano r. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>lozano r.; barreiro-gen m.; pietikäinen j.; gago-cortes c.; favi c.; jimenez munguia m.t.; monus f.; simão j.; benayas j.; desha c.; bostanci s.; djekic i.; moneva j.m.; sáenz o.; awuzie b.; gladysz b.</td></tr><tr><td>Title:</td><td>adopting sustainability competence-based education in academic disciplines: insights from 13 higher education institutions</td></tr><tr><td>Source:</td><td>sustainable development</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1002/sd.2253",
+				"x": 0.9775,
+				"y": -0.0202,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				}
+			},
+			{
+				"id": 132,
+				"label": "kononiuk a. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>kononiuk a.; sacio-szymańska a.; ollenburg s.; trivelli l.</td></tr><tr><td>Title:</td><td>teaching foresight and futures literacy and its integration into university curriculum</td></tr><tr><td>Source:</td><td>foresight and sti governance, 15(3), 105-121</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.17323/2500-2597.2021.3.105.121",
+				"x": 0.8354,
+				"y": 0.1080,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 133,
+				"label": "tahirsylaj a. (2021a)",
+				"description": "<table><tr><td>Authors:</td><td>tahirsylaj a.; fazliu f.</td></tr><tr><td>Title:</td><td>from content- to competence-based curricula–an educational account of curriculum policy in kosovo</td></tr><tr><td>Source:</td><td>european education, 53(1), 1-14</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1080/10564934.2021.1971541",
+				"x": -0.2229,
+				"y": 0.4320,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 135,
+				"label": "chen p. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>chen p.; goncharova a.; pilz m.; frommberger d.; li j.; romanova o.; lin y.</td></tr><tr><td>Title:</td><td>international curriculum comparison in vocational education and training: a collaborative development of an analysis instrument</td></tr><tr><td>Source:</td><td>international journal for research in vocational education and training, 8(4), 16-43</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.13152/ijrvet.8.4.2",
+				"x": -0.9709,
+				"y": -0.1648,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 138,
+				"label": "alm k. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>alm k.; melén m.; aggestam-pontoppidan c.</td></tr><tr><td>Title:</td><td>advancing sdg competencies in higher education: exploring an interdisciplinary pedagogical approach</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 22(6), 1450-1466</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-10-2020-0417",
+				"x": 0.8278,
+				"y": -0.2020,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				}
+			},
+			{
+				"id": 143,
+				"label": "wilson-daily a.e. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>wilson-daily a.e.; feliu-torruella m.; romero serra m.</td></tr><tr><td>Title:</td><td>key competencies: developing an instrument for assessing trainee teachers’ understanding and views</td></tr><tr><td>Source:</td><td>teacher development, 25(4), 478-493</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1080/13664530.2021.1930127",
+				"x": -0.7877,
+				"y": 0.2034,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 149,
+				"label": "ortiz-revilla j. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>ortiz-revilla j.; greca i.m.; meneses-villagrá j.-á.</td></tr><tr><td>Title:</td><td>effects of an integrated steam approach on the development of competence in primary education students (efectos de una propuesta steam integrada en el desarrollo competencial del alumnado de educación primaria)</td></tr><tr><td>Source:</td><td>infancia y aprendizaje, 44(4), 838-870</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1080/02103702.2021.1925473",
+				"x": -0.6596,
+				"y": 0.3668,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4576
+				}
+			},
+			{
+				"id": 161,
+				"label": "diego-mantecón j.-m. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>diego-mantecón j.-m.; blanco t.-f.; ortiz-laso z.; lavicza z.</td></tr><tr><td>Title:</td><td>steam projects with kiks format for developing key competences [proyectos steam con formato kiks para el desarrollo de competencias clave]</td></tr><tr><td>Source:</td><td>comunicar, 29(66), 34-43</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3916/c66-2021-03",
+				"x": -1.2222,
+				"y": -0.2393,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 3.2030
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 3.2030
+				}
+			},
+			{
+				"id": 162,
+				"label": "clément p. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>clément p.</td></tr><tr><td>Title:</td><td>the introduction of competence-based education into the compulsory school curriculum in france (2002–2017): hybridity and polysemy as conditions for change</td></tr><tr><td>Source:</td><td>comparative education, 57(1), 35-50</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1080/03050068.2020.1845062",
+				"x": 0.0195,
+				"y": 0.3580,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.9151
+				}
+			},
+			{
+				"id": 163,
+				"label": "tahirsylaj a. (2021b)",
+				"description": "<table><tr><td>Authors:</td><td>tahirsylaj a.</td></tr><tr><td>Title:</td><td>what kind of citizens? constructing ‘young europeans’ through loud borrowing in curriculum policy-making in kosovo</td></tr><tr><td>Source:</td><td>comparative education, 57(1), 115-129</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1080/03050068.2020.1845066",
+				"x": -0.2709,
+				"y": 0.4291,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.3727
+				}
+			},
+			{
+				"id": 170,
+				"label": "brundiers k. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>brundiers k.; barth m.; cebrián g.; cohen m.; diaz l.; doucette-remington s.; dripps w.; habron g.; harré n.; jarchow m.; losch k.; michel j.; mochizuki y.; rieckmann m.; parnell r.; walker p.; zint m.</td></tr><tr><td>Title:</td><td>key competencies in sustainability in higher education—toward an agreed-upon reference framework</td></tr><tr><td>Source:</td><td>sustainability science, 16(1), 13-29</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1007/s11625-020-00838-2",
+				"x": 1.0018,
+				"y": -0.1542,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 28.8266
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 28.8266
+				}
+			},
+			{
+				"id": 177,
+				"label": "gonzález‐salamanca j.c. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>gonzález‐salamanca j.c.; agudelo o.l.; salinas j.</td></tr><tr><td>Title:</td><td>key competences, education for sustainable development and strategies for the development of 21st century skills. a systematic literature review</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 12(24), 1-17</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.3390/su122410366",
+				"x": 0.8211,
+				"y": -0.0491,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 2.0172
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 2.0172
+				}
+			},
+			{
+				"id": 188,
+				"label": "lópez l.m.g. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>lópez l.m.g.; gutiérrez d.; fernández b.g.; gómez j.l.l.; romo-perez v.; nemiña r.e.; jiménez a.m.</td></tr><tr><td>Title:</td><td>2007-2017: a decade of key competences in spain [2007-2017: una década de competencias clave en españa]</td></tr><tr><td>Source:</td><td>profesorado, 24(3), 381-399</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.30827/profesorado.v24i3.8236",
+				"x": -0.4386,
+				"y": 0.3974,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.5043
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.5043
+				}
+			},
+			{
+				"id": 202,
+				"label": "tahirsylaj a. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>tahirsylaj a.; sundberg d.</td></tr><tr><td>Title:</td><td>the unfinished business of defining competences for 21st century curricula—a systematic research review</td></tr><tr><td>Source:</td><td>curriculum perspectives, 40(2), 131-145</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1007/s41297-020-00112-6",
+				"x": -0.3590,
+				"y": 0.2991,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 2.0172
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 2.0172
+				}
+			},
+			{
+				"id": 205,
+				"label": "fernández-martín f.-d. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>fernández-martín f.-d.; arco-tirado j.-l.; carrillo-rosúa f.-j.; hervás-torres m.; ruiz-hidalgo j.-f.; romero-lópez c.</td></tr><tr><td>Title:</td><td>making stem education objectives sustainable through a tutoring program</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 12(16)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.3390/su12166653",
+				"x": -0.2676,
+				"y": 0.3683,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.7565
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.7565
+				}
+			},
+			{
+				"id": 208,
+				"label": "ravenscroft a. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>ravenscroft a.; dellow j.; brites m.j.; jorge a.; catalão d.</td></tr><tr><td>Title:</td><td>radioactive101-learning through radio, learning for life: an international approach to the inclusion and non-formal learning of socially excluded young people</td></tr><tr><td>Source:</td><td>international journal of inclusive education, 24(9), 997-1018</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/13603116.2018.1503739",
+				"x": -0.2853,
+				"y": 0.3829,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.7565
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.7565
+				}
+			},
+			{
+				"id": 212,
+				"label": "mishra d. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>mishra d.; mishra a.</td></tr><tr><td>Title:</td><td>sustainability inclusion in informatics curriculum development</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 12(14), 1-16</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.3390/su12145769",
+				"x": 1.0439,
+				"y": -0.0653,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.5043
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.5043
+				}
+			},
+			{
+				"id": 213,
+				"label": "ayers j. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>ayers j.</td></tr><tr><td>Title:</td><td>competence literate but context lacking? investigating the potential of study abroad programs to promote sustainability competence acquisition in students</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 12(13)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.3390/su12135389",
+				"x": 0.8885,
+				"y": -0.1889,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.5216
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.5216
+				}
+			},
+			{
+				"id": 218,
+				"label": "seo e. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>seo e.; ryu j.; hwang s.</td></tr><tr><td>Title:</td><td>building key competencies into an environmental education curriculum using a modified delphi approach in south korea</td></tr><tr><td>Source:</td><td>environmental education research, 26(6), 890-914</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/13504622.2020.1733493",
+				"x": 0.8237,
+				"y": 0.0011,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.2608
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.2608
+				}
+			},
+			{
+				"id": 219,
+				"label": "kepanen p. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>kepanen p.; määttä k.; uusiautti s.</td></tr><tr><td>Title:</td><td>how do students describe their study processes in the competence-based vocational special education teacher training?</td></tr><tr><td>Source:</td><td>human arenas, 3(2), 247-263</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1007/s42087-019-00080-y",
+				"x": -1.0737,
+				"y": -0.0598,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 227,
+				"label": "salovaara j.j. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>salovaara j.j.; soini k.; pietikäinen j.</td></tr><tr><td>Title:</td><td>sustainability science in education: analysis of master’s programmes’ curricula</td></tr><tr><td>Source:</td><td>sustainability science, 15(3), 901-915</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1007/s11625-019-00745-1",
+				"x": 0.9482,
+				"y": -0.1557,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.7651
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.7651
+				}
+			},
+			{
+				"id": 231,
+				"label": "napal m. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>napal m.; mendióroz-lacambra a.m.; peñalva a.</td></tr><tr><td>Title:</td><td>sustainability teaching tools in the digital age</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 12(8)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.3390/su12083366",
+				"x": 0.6788,
+				"y": -0.1308,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 3.2780
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 3.2780
+				}
+			},
+			{
+				"id": 235,
+				"label": "placklé i. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>placklé i.; könings k.d.; struyven k.; libotton a.; van merriënboer j.j.g.; engels n.</td></tr><tr><td>Title:</td><td>powerful learning environments in secondary vocational education: towards a shared understanding</td></tr><tr><td>Source:</td><td>european journal of teacher education, 43(2), 224-242</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/02619768.2019.1681965",
+				"x": -1.2455,
+				"y": -0.1650,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0086
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0086
+				}
+			},
+			{
+				"id": 246,
+				"label": "konrad t. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>konrad t.; wiek a.; barth m.</td></tr><tr><td>Title:</td><td>embracing conflicts for interpersonal competence development in project-based sustainability courses</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 21(1), 76-96</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-06-2019-0190",
+				"x": 0.8608,
+				"y": -0.2449,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 3.7823
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 3.7823
+				}
+			},
+			{
+				"id": 247,
+				"label": "fokdal j. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>fokdal j.; čolić r.; milovanović rodić d.</td></tr><tr><td>Title:</td><td>integrating sustainability in higher planning education through international cooperation: assessment of a pedagogical model and learning outcomes from the students’ perspective</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 21(1), 1-17</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-01-2019-0045",
+				"x": 0.9246,
+				"y": -0.2793,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0086
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0086
+				}
+			},
+			{
+				"id": 254,
+				"label": "mahfud t. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>mahfud t.; nugraheni m.; pardjono, lastariwati b.</td></tr><tr><td>Title:</td><td>validation of the chefs’ key competencies questionnaire: a culinary student perspective</td></tr><tr><td>Source:</td><td>journal of technical education and training, 12(4), 27-38</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.30880/jtet.2020.12.04.003",
+				"x": 0.6256,
+				"y": 0.3350,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 259,
+				"label": "palsa l. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>palsa l.; mertala p.</td></tr><tr><td>Title:</td><td>disciplinary contextualisation of transversal competence in finnish local curricula: the case of multiliteracy, mathematics, and social studies</td></tr><tr><td>Source:</td><td>education inquiry</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/20004508.2020.1855827",
+				"x": -0.2740,
+				"y": 0.3782,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0086
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0086
+				}
+			},
+			{
+				"id": 263,
+				"label": "van griethuijsen r.a.l.f. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>van griethuijsen r.a.l.f.; kunst e.m.; van woerkom m.; wesselink r.; poell r.f.</td></tr><tr><td>Title:</td><td>does implementation of competence-based education mediate the impact of team learning on student satisfaction?</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 72(4), 516-535</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820.2019.1644364",
+				"x": -1.0056,
+				"y": -0.0567,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.2608
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.2608
+				}
+			},
+			{
+				"id": 277,
+				"label": "virkkula e. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>virkkula e.</td></tr><tr><td>Title:</td><td>student teachers’ views of competence goals in vocational teacher education</td></tr><tr><td>Source:</td><td>european journal of teacher education</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/02619768.2020.1806229",
+				"x": -1.0179,
+				"y": -0.0900,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 291,
+				"label": "misbah z. (2020)",
+				"description": "<table><tr><td>Authors:</td><td>misbah z.; gulikers j.; dharma s.; mulder m.</td></tr><tr><td>Title:</td><td>evaluating competence-based vocational education in indonesia</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 72(4), 488-515</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820.2019.1635634",
+				"x": -1.1110,
+				"y": -0.2031,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.2608
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.2608
+				}
+			},
+			{
+				"id": 304,
+				"label": "soini k. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>soini k.; korhonen-kurki k.; asikainen h.</td></tr><tr><td>Title:</td><td>transactional learning and sustainability co-creation in a university – business collaboration</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 20(6), 965-984</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-11-2018-0215",
+				"x": 0.7783,
+				"y": -0.0853,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 2.0577
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 2.0577
+				}
+			},
+			{
+				"id": 305,
+				"label": "frank p. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>frank p.; sundermann a.; fischer d.</td></tr><tr><td>Title:</td><td>how mindfulness training cultivates introspection and competence development for sustainable consumption</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 20(6), 1002-1021</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-12-2018-0239",
+				"x": 1.1047,
+				"y": -0.0893,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.5829
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.5829
+				}
+			},
+			{
+				"id": 308,
+				"label": "tahirsylaj a. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>tahirsylaj a.; wahlström n.</td></tr><tr><td>Title:</td><td>role of transnational and national education policies in realisation of critical thinking: the cases of sweden and kosovo</td></tr><tr><td>Source:</td><td>curriculum journal, 30(4), 484-503</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1080/09585176.2019.1615523",
+				"x": -0.2503,
+				"y": 0.4447,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.2663
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.2663
+				}
+			},
+			{
+				"id": 315,
+				"label": "saadvandi m. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>saadvandi m.; abbasi e.; farhadian h.; zarafshani k.; biemans h.</td></tr><tr><td>Title:</td><td>teachers and students’ perception of competence-based education in the agricultural higher education system (case of a student cooperative in iran)</td></tr><tr><td>Source:</td><td>journal of agricultural education and extension, 25(4), 307-322</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1080/1389224x.2019.1627225",
+				"x": -0.9259,
+				"y": -0.0703,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4749
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4749
+				}
+			},
+			{
+				"id": 317,
+				"label": "misbah z. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>misbah z.; gulikers j.; mulder m.</td></tr><tr><td>Title:</td><td>competence and knowledge development in competence-based vocational education in indonesia</td></tr><tr><td>Source:</td><td>learning environments research, 22(2), 253-274</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10984-018-9276-y",
+				"x": -0.9177,
+				"y": -0.2102,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6331
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6331
+				}
+			},
+			{
+				"id": 326,
+				"label": "escalié g. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>escalié g.; recoules n.; chaliès s.; legrain p.</td></tr><tr><td>Title:</td><td>helping students build competences in physical education: theoretical proposals and illustrations</td></tr><tr><td>Source:</td><td>sport, education and society, 24(4), 390-403</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1080/13573322.2017.1397507",
+				"x": -0.8298,
+				"y": -0.0078,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.7412
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.7412
+				}
+			},
+			{
+				"id": 328,
+				"label": "giangrande n. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>giangrande n.; white r.m.; east m.; jackson r.; clarke t.; coste m.s.; penha-lopes g.</td></tr><tr><td>Title:</td><td>a competency framework to assess and activate education for sustainable development: addressing the un sustainable development goals 4.7 challenge</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 11(10)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.3390/su11102832",
+				"x": 1.0063,
+				"y": -0.0811,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 8.8641
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 8.8641
+				}
+			},
+			{
+				"id": 329,
+				"label": "lópez-alcarria a. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>lópez-alcarria a.; olivares-vicente a.; poza-vilches f.</td></tr><tr><td>Title:</td><td>a systematic review of the use of agile methodologies in education to foster sustainability competencies</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 11(10)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.3390/su11102915",
+				"x": 0.9277,
+				"y": -0.0418,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 3.7989
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 3.7989
+				}
+			},
+			{
+				"id": 332,
+				"label": "carrascal s. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>carrascal s.; magro m.; anguita j.m.; espada m.</td></tr><tr><td>Title:</td><td>acquisition of competences for sustainable development through visual thinking. a study in rural schools in mixco, guatemala</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 11(8)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.3390/su11082317",
+				"x": 0.8398,
+				"y": 0.0009,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.1080
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.1080
+				}
+			},
+			{
+				"id": 333,
+				"label": "eizaguirre a. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>eizaguirre a.; garcía-feijoo m.; laka j.p.</td></tr><tr><td>Title:</td><td>defining sustainability core competencies in business and management studies based on multinational stakeholders' perceptions</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 11(8)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.3390/su11082303",
+				"x": 0.9196,
+				"y": -0.1102,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 4.9069
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 4.9069
+				}
+			},
+			{
+				"id": 335,
+				"label": "vare p. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>vare p.; arro g.; de hamer a.; gobbo g.d.; de vries g.; farioli f.; kadji-beltran c.; kangur m.; mayer m.; millican r.; nijdam c.; réti m.; zachariou a.</td></tr><tr><td>Title:</td><td>devising a competence-based training program for educators of sustainable development: lessons learned</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 11(7)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.3390/su11071890",
+				"x": 1.0303,
+				"y": -0.0433,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 5.5400
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 5.5400
+				}
+			},
+			{
+				"id": 360,
+				"label": "geitz g. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>geitz g.; de geus j.</td></tr><tr><td>Title:</td><td>design-based education, sustainable teaching, and learning</td></tr><tr><td>Source:</td><td>cogent education, 6(1)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1080/2331186x.2019.1647919",
+				"x": -0.8384,
+				"y": -0.2016,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.7914
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.7914
+				}
+			},
+			{
+				"id": 361,
+				"label": "meroño l. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>meroño l.; calderón a.; arias-estero j.l.; méndez-giménez a.</td></tr><tr><td>Title:</td><td>prediction model for the inclusion of key competences in the primary school curriculum through the teachers’ perceptions in the region de murcia [modelo de predicción para la inclusión de las competencias en el currículo de educación primaria según la percepción del profesorado de la región de murcia]</td></tr><tr><td>Source:</td><td>cultura y educacion, 31(1), 31-66</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1080/11356405.2018.1561108",
+				"x": -0.2348,
+				"y": 0.3544,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3166
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3166
+				}
+			},
+			{
+				"id": 378,
+				"label": "singer-brodowski m. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>singer-brodowski m.; grossmann k.; bartke s.; huning s.; weinsziehr t.; hagemann n.</td></tr><tr><td>Title:</td><td>competency-oriented education for sustainable development: lessons from five courses on energy poverty</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 19(7), 1299-1316</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-12-2017-0223",
+				"x": 0.7905,
+				"y": -0.1598,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.7074
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.7074
+				}
+			},
+			{
+				"id": 380,
+				"label": "kater-wettstädt l. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>kater-wettstädt l.</td></tr><tr><td>Title:</td><td>how secondary-school students deal with issues of sustainable development in class *</td></tr><tr><td>Source:</td><td>environmental education research, 24(11), 1565-1580</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1080/13504622.2017.1373068",
+				"x": 0.7910,
+				"y": -0.2909,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5895
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5895
+				}
+			},
+			{
+				"id": 381,
+				"label": "garrecht c. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>garrecht c.; bruckermann t.; harms u.</td></tr><tr><td>Title:</td><td>students' decision-making in education for sustainability-related extracurricular activities-a systematic review of empirical studies</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 10(11)</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.3390/su10113876",
+				"x": 0.7802,
+				"y": -0.2879,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 2.1223
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 2.1223
+				}
+			},
+			{
+				"id": 382,
+				"label": "colás-bravo p. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>colás-bravo p.; magnoler p.; conde-jiménez j.</td></tr><tr><td>Title:</td><td>identification of levels of sustainable consciousness of teachers in training through an e-portfolio</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 10(10)</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.3390/su10103700",
+				"x": 0.8986,
+				"y": -0.0047,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.5328
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.5328
+				}
+			},
+			{
+				"id": 384,
+				"label": "straková z. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>straková z.; cimermanová i.</td></tr><tr><td>Title:</td><td>critical thinking development-a necessary step in higher education transformation towards sustainability</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 10(10)</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.3390/su10103366",
+				"x": 0.9153,
+				"y": -0.0536,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 4.1266
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 4.1266
+				}
+			},
+			{
+				"id": 389,
+				"label": "morselli d. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>morselli d.</td></tr><tr><td>Title:</td><td>how do italian vocational teachers educate for a sense of initiative and entrepreneurship? development and initial application of the sie questionnaire</td></tr><tr><td>Source:</td><td>education and training, 60(7-8), 800-818</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1108/et-03-2017-0046",
+				"x": -0.3903,
+				"y": 0.0054,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.9432
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.9432
+				}
+			},
+			{
+				"id": 397,
+				"label": "bautista-mesa r. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>bautista-mesa r.; molina sánchez h.; ramírez sobrino j.n.</td></tr><tr><td>Title:</td><td>audit workplace simulations as a methodology to increase undergraduates’ awareness of competences</td></tr><tr><td>Source:</td><td>accounting education, 27(3), 234-258</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1080/09639284.2018.1476895",
+				"x": -0.0589,
+				"y": -0.1554,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.1790
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.1790
+				}
+			},
+			{
+				"id": 400,
+				"label": "maruna m. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>maruna m.; milovanovic rodic d.; colic r.</td></tr><tr><td>Title:</td><td>remodelling urban planning education for sustainable development: the case of serbia</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 19(4), 658-680</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-07-2017-0102",
+				"x": 0.9516,
+				"y": -0.3345,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.6507
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.6507
+				}
+			},
+			{
+				"id": 401,
+				"label": "kudo s. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>kudo s.; mursaleen h.; ness b.; nagao m.</td></tr><tr><td>Title:</td><td>exercise on transdisciplinarity: lessons from a field-based course on rural sustainability in an aging society</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 10(4)</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.3390/su10041155",
+				"x": 0.5433,
+				"y": -0.0891,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4716
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4716
+				}
+			},
+			{
+				"id": 402,
+				"label": "schuler s. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>schuler s.; fanta d.; rosenkraenzer f.; riess w.</td></tr><tr><td>Title:</td><td>systems thinking within the scope of education for sustainable development (esd)–a heuristic competence model as a basis for (science) teacher education</td></tr><tr><td>Source:</td><td>journal of geography in higher education, 42(2), 192-204</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1080/03098265.2017.1339264",
+				"x": 1.0706,
+				"y": -0.1064,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 3.8908
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 3.8908
+				}
+			},
+			{
+				"id": 431,
+				"label": "garcía-lópez l.m. (2018)",
+				"description": "<table><tr><td>Authors:</td><td>garcía-lópez l.m.; gutiérrez d.; pastor j.c.; romo v.</td></tr><tr><td>Title:</td><td>validity and reliability of a questionnaire on primary and secondary school teachers' perception of teaching a competence-based curriculum model</td></tr><tr><td>Source:</td><td>journal of new approaches in educational research, 7(1), 46-51</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.7821/naer.2018.1.255",
+				"x": -0.3859,
+				"y": 0.3931,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.8253
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.8253
+				}
+			},
+			{
+				"id": 435,
+				"label": "quiroz-niño c. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>quiroz-niño c.; murga-menoyo m.</td></tr><tr><td>Title:</td><td>social and solidarity economy, sustainable development goals, and community development: the mission of adult education & training</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 9(12)</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.3390/su9122164",
+				"x": 0.9764,
+				"y": 0.0965,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.7738
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.7738
+				}
+			},
+			{
+				"id": 436,
+				"label": "ojala m. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>ojala m.</td></tr><tr><td>Title:</td><td>hope and anticipation in education for a sustainable future</td></tr><tr><td>Source:</td><td>futures, 94, 76-84</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.futures.2016.10.004",
+				"x": 1.0256,
+				"y": -0.1296,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 5.4321
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 5.4321
+				}
+			},
+			{
+				"id": 442,
+				"label": "keeler l.w. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>keeler l.w.; gabriele a.; kay b.r.; wiek a.</td></tr><tr><td>Title:</td><td>future shocks and city resilience: building organizational capacity for resilience and sustainability through game play and ways of thinking</td></tr><tr><td>Source:</td><td>sustainability (united states), 10(5), 282-292</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1089/sus.2017.0011",
+				"x": 0.7950,
+				"y": -0.1054,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.8869
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.8869
+				}
+			},
+			{
+				"id": 447,
+				"label": "chang w.-h. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>chang w.-h.; liu y.-c.; huang t.-h.</td></tr><tr><td>Title:</td><td>perceptions of learning effectiveness in m-learning: scale development and student awareness</td></tr><tr><td>Source:</td><td>journal of computer assisted learning, 33(5), 461-472</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1111/jcal.12192",
+				"x": 0.3215,
+				"y": 0.2984,
+				"cluster": 5,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.1086
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.1086
+				}
+			},
+			{
+				"id": 450,
+				"label": "jayakumar t. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>jayakumar t.; joshi r.k.</td></tr><tr><td>Title:</td><td>rethinking the role of management education in developing a “new” locus of csr responsibility: an indian case study</td></tr><tr><td>Source:</td><td>journal of work-applied management, 9(1), 51-69</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1108/jwam-02-2017-0004",
+				"x": 0.8559,
+				"y": 0.0066,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3326
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3326
+				}
+			},
+			{
+				"id": 458,
+				"label": "buscà donet f. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>buscà donet f.; ambròs pallares a.; burset burillo s.</td></tr><tr><td>Title:</td><td>bibliometric characteristics of articles on key competences indexed in eric from 1990 to 2013</td></tr><tr><td>Source:</td><td>european journal of teacher education, 40(2), 144-156</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1080/02619768.2017.1281908",
+				"x": -0.1540,
+				"y": 0.3402,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4434
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4434
+				}
+			},
+			{
+				"id": 470,
+				"label": "tziganuk a. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>tziganuk a.; gliedt t.</td></tr><tr><td>Title:</td><td>comparing faculty perceptions of sustainability teaching at two us universities</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 18(7), 1191-1211</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-01-2016-0006",
+				"x": 0.7593,
+				"y": -0.1894,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5543
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5543
+				}
+			},
+			{
+				"id": 476,
+				"label": "meroño l. (2017)",
+				"description": "<table><tr><td>Authors:</td><td>meroño l.; calderón a.; arias-estero j.l.; méndez-giménez a.</td></tr><tr><td>Title:</td><td>questionnaire on perceived competency-based learning for primary school students (#icompri1) [cuestionario del aprendizaje percibido basado en competencias para el alumnado de educación primaria (#icompri1)]</td></tr><tr><td>Source:</td><td>cultura y educacion, 29(2), 279-323</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1080/11356405.2017.1318470",
+				"x": -0.0721,
+				"y": 0.3651,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5543
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5543
+				}
+			},
+			{
+				"id": 486,
+				"label": "lleixà t. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>lleixà t.; gonzález-arévalo c.; braz-vieira m.</td></tr><tr><td>Title:</td><td>integrating key competences in school physical education programmes</td></tr><tr><td>Source:</td><td>european physical education review, 22(4), 506-525</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1177/1356336x15621497",
+				"x": -0.3173,
+				"y": 0.3871,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.1124
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.1124
+				}
+			},
+			{
+				"id": 490,
+				"label": "cremers p.h.m. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>cremers p.h.m.; wals a.e.j.; wesselink r.; mulder m.</td></tr><tr><td>Title:</td><td>design principles for hybrid learning configurations at the interface between school and workplace</td></tr><tr><td>Source:</td><td>learning environments research, 19(3), 309-334</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10984-016-9209-6",
+				"x": -0.8190,
+				"y": -0.0139,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.8540
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.8540
+				}
+			},
+			{
+				"id": 496,
+				"label": "morselli d. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>morselli d.; ajello a.</td></tr><tr><td>Title:</td><td>assessing the sense of initiative and entrepreneurship in vocational students using the european qualification framework</td></tr><tr><td>Source:</td><td>education and training, 58(7-8), 797-814</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1108/et-02-2016-0038",
+				"x": 0.2731,
+				"y": -0.0966,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.7416
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.7416
+				}
+			},
+			{
+				"id": 503,
+				"label": "jerez o. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>jerez o.; valenzuela l.; pizarro v.; hasbun b.; valenzuela g.; orsini c.</td></tr><tr><td>Title:</td><td>evaluation criteria for competency-based syllabi: a chilean case study applying mixed methods</td></tr><tr><td>Source:</td><td>teachers and teaching: theory and practice, 22(4), 519-534</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1080/13540602.2015.1082728",
+				"x": -0.6636,
+				"y": -0.0459,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3708
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3708
+				}
+			},
+			{
+				"id": 506,
+				"label": "wijnia l. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>wijnia l.; kunst e.m.; van woerkom m.; poell r.f.</td></tr><tr><td>Title:</td><td>team learning and its association with the implementation of competence-based education</td></tr><tr><td>Source:</td><td>teaching and teacher education, 56, 115-126</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tate.2016.02.006",
+				"x": -0.9693,
+				"y": -0.1007,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 2.1321
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 2.1321
+				}
+			},
+			{
+				"id": 517,
+				"label": "migliorini p. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>migliorini p.; lieblein g.</td></tr><tr><td>Title:</td><td>facilitating transformation and competence development in sustainable agriculture university education: an experiential and action oriented approach</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 8(12)</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.3390/su8121243",
+				"x": 0.8075,
+				"y": -0.0573,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.0197
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.0197
+				}
+			},
+			{
+				"id": 519,
+				"label": "nikitina n.i. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>nikitina n.i.; romanova e.y.; nikishina i.n.; grebennikova v.m.; avtionova n.; danilova m.</td></tr><tr><td>Title:</td><td>theoretical and methodical foundations for the process of forming professional logistics competences of spa managers at the higher educational institution</td></tr><tr><td>Source:</td><td>mathematics education, 11(9), 3313-3328</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"x": -0.6774,
+				"y": -0.2257,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 527,
+				"label": "de-juanas oliva á. (2016)",
+				"description": "<table><tr><td>Authors:</td><td>de-juanas oliva á.; martín del pozo r.; pesquero franco e.</td></tr><tr><td>Title:</td><td>teaching competences necessary for developing key competences of primary education students in spain: teacher assessments</td></tr><tr><td>Source:</td><td>teacher development, 20(1), 123-145</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1080/13664530.2015.1101390",
+				"x": -0.3236,
+				"y": 0.4253,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.2051
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.2051
+				}
+			},
+			{
+				"id": 534,
+				"label": "mcgibbon c. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>mcgibbon c.; van belle j.-p.</td></tr><tr><td>Title:</td><td>integrating environmental sustainability issues into the curriculum through problem-based and project-based learning: a case study at the university of cape town</td></tr><tr><td>Source:</td><td>current opinion in environmental sustainability, 16, 81-88</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.cosust.2015.07.013",
+				"x": 0.7605,
+				"y": -0.1595,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.3786
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.3786
+				}
+			},
+			{
+				"id": 538,
+				"label": "bergsmann e. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>bergsmann e.; schultes m.-t.; winter p.; schober b.; spiel c.</td></tr><tr><td>Title:</td><td>evaluation of competence-based teaching in higher education: from theory to practice</td></tr><tr><td>Source:</td><td>evaluation and program planning, 52, 1-9</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.evalprogplan.2015.03.001",
+				"x": -0.2308,
+				"y": -0.0896,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 3.9978
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 3.9978
+				}
+			},
+			{
+				"id": 544,
+				"label": "misbah z. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>misbah z.; gulikers j.; maulana r.; mulder m.</td></tr><tr><td>Title:</td><td>teacher interpersonal behaviour and student motivation in competence-based vocational education: evidence from indonesia</td></tr><tr><td>Source:</td><td>teaching and teacher education, 50, 79-89</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tate.2015.04.007",
+				"x": -1.0535,
+				"y": -0.1500,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 2.3435
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 2.3435
+				}
+			},
+			{
+				"id": 545,
+				"label": "koenen a.-k. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>koenen a.-k.; dochy f.; berghmans i.</td></tr><tr><td>Title:</td><td>a phenomenographic analysis of the implementation of competence-based education in higher education</td></tr><tr><td>Source:</td><td>teaching and teacher education, 50, 1-12</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tate.2015.04.001",
+				"x": -0.7442,
+				"y": -0.1328,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 48.0000,
+					"Norm. citations": 3.3085
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 48.0000,
+					"Norm. citations": 3.3085
+				}
+			},
+			{
+				"id": 546,
+				"label": "hernandez-linares r. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>hernandez-linares r.; agudo j.e.; rico m.; sánchez h.</td></tr><tr><td>Title:</td><td>transversal competences of university students of engineering [transverzalne kompetencije studenata strojarstva]</td></tr><tr><td>Source:</td><td>croatian journal of education, 17(2), 383-409</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.15516/cje.v17i2.1062",
+				"x": -0.4869,
+				"y": 0.0827,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4136
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4136
+				}
+			},
+			{
+				"id": 548,
+				"label": "remington-doucette s. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>remington-doucette s.; musgrove s.</td></tr><tr><td>Title:</td><td>variation in sustainability competency development according to age, gender, and disciplinary affiliation: implications for teaching practice and overall program structure</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 16(4), 537-575</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-01-2013-0005",
+				"x": 0.7586,
+				"y": -0.2265,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6543
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6543
+				}
+			},
+			{
+				"id": 551,
+				"label": "gordon j. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>gordon j.; o’toole l.</td></tr><tr><td>Title:</td><td>learning for well-being: creativity and inner diversity</td></tr><tr><td>Source:</td><td>cambridge journal of education, 45(3), 333-346</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1080/0305764x.2014.904275",
+				"x": -0.4874,
+				"y": 0.3419,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4825
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4825
+				}
+			},
+			{
+				"id": 553,
+				"label": "nissilä s.-p. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>nissilä s.-p.; karjalainen a.; koukkari m.; kepanen p.</td></tr><tr><td>Title:</td><td>towards competence-based practices in vocational education – what will the process require from teacher education and teacher identities? [proti kompetenčnemu sistemu poklicnega izobraževanja – kaj bo proces zahteval od izobraževanja učiteljev in učiteljevih vlog?]</td></tr><tr><td>Source:</td><td>center for educational policy studies journal, 5(2), 13-34</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"x": -0.9266,
+				"y": 0.0598,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8271
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8271
+				}
+			},
+			{
+				"id": 555,
+				"label": "van dinther m. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>van dinther m.; dochy f.; segers m.</td></tr><tr><td>Title:</td><td>the contribution of assessment experiences to student teachers' self-efficacy in competence-based education</td></tr><tr><td>Source:</td><td>teaching and teacher education, 49, 45-55</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tate.2015.02.013",
+				"x": -1.0104,
+				"y": 0.1106,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1718
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1718
+				}
+			},
+			{
+				"id": 561,
+				"label": "contreras l.e.v. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>contreras l.e.v.; vega n.e.m.; pulgarin a.g.h.; palencia e.p.</td></tr><tr><td>Title:</td><td>designing a distance learning sustainability bachelor’s degree</td></tr><tr><td>Source:</td><td>environment, development and sustainability, 17(2), 365-377</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10668-015-9622-5",
+				"x": 0.2370,
+				"y": 0.0908,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 566,
+				"label": "soparat s. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>soparat s.; arnold s.r.; klaysom s.</td></tr><tr><td>Title:</td><td>the development of thai learners’ key competencies by project-based learning using ict</td></tr><tr><td>Source:</td><td>international journal of research in education and science, 1(1), 11-22</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.21890/ijres.01778",
+				"x": 0.3133,
+				"y": 0.3234,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.8961
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.8961
+				}
+			},
+			{
+				"id": 567,
+				"label": "wesselink r. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>wesselink r.; giaffredo s.</td></tr><tr><td>Title:</td><td>competence-based education to develop digital competence</td></tr><tr><td>Source:</td><td>encyclopaideia, 19(42), 25-42</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.6092/issn.1825-8670/5537",
+				"x": -1.1664,
+				"y": -0.2162,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1379
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1379
+				}
+			},
+			{
+				"id": 571,
+				"label": "ronchetti m. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>ronchetti m.; chiozzi g.; gris r.</td></tr><tr><td>Title:</td><td>eschooling: an ict-based approach to competence-based education</td></tr><tr><td>Source:</td><td>encyclopaideia, 19(42), 43-65</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.6092/issn.1825-8670/5572",
+				"x": -1.1399,
+				"y": -0.1829,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2068
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2068
+				}
+			},
+			{
+				"id": 580,
+				"label": "gardiner s. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>gardiner s.; rieckmann m.</td></tr><tr><td>Title:</td><td>pedagogies of preparedness: use of reflective journals in the operationalisation and development of anticipatory competence</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 7(8), 10554-10575</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.3390/su70810554",
+				"x": 0.8783,
+				"y": -0.1510,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1718
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1718
+				}
+			},
+			{
+				"id": 612,
+				"label": "caena f. (2014)",
+				"description": "<table><tr><td>Authors:</td><td>caena f.</td></tr><tr><td>Title:</td><td>teacher competence frameworks europe: policy-as-discourse and policy-as-practice</td></tr><tr><td>Source:</td><td>european journal of education, 49(3), 311-331</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.1111/ejed.12088",
+				"x": -0.4622,
+				"y": 0.4314,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 3.0184
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 3.0184
+				}
+			},
+			{
+				"id": 617,
+				"label": "khaled a.e. (2014)",
+				"description": "<table><tr><td>Authors:</td><td>khaled a.e.; gulikers j.t.m.; tobi h.; biemans h.j.a.; oonk c.; mulder m.</td></tr><tr><td>Title:</td><td>exploring the validity and robustness of a competency self-report instrument for vocational and higher competence-based education</td></tr><tr><td>Source:</td><td>journal of psychoeducational assessment, 32(5), 429-440</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.1177/0734282914523913",
+				"x": -1.0197,
+				"y": -0.1775,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.7244
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.7244
+				}
+			},
+			{
+				"id": 618,
+				"label": "murga-menoyo m.a. (2014)",
+				"description": "<table><tr><td>Authors:</td><td>murga-menoyo m.a.</td></tr><tr><td>Title:</td><td>learning for a sustainable economy: teaching of green competencies in the university</td></tr><tr><td>Source:</td><td>sustainability (switzerland), 6(5), 2974-2992</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.3390/su6052974",
+				"x": 0.9385,
+				"y": 0.0458,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.7507
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.7507
+				}
+			},
+			{
+				"id": 624,
+				"label": "van dinther m. (2014)",
+				"description": "<table><tr><td>Authors:</td><td>van dinther m.; dochy f.; segers m.; braeken j.</td></tr><tr><td>Title:</td><td>student perceptions of assessment and student self-efficacy in competence-based education</td></tr><tr><td>Source:</td><td>educational studies, 40(3), 330-351</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.1080/03055698.2014.898577",
+				"x": -1.0342,
+				"y": 0.0857,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.2677
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.2677
+				}
+			},
+			{
+				"id": 628,
+				"label": "boahin p. (2014)",
+				"description": "<table><tr><td>Authors:</td><td>boahin p.; hofman w.h.a.</td></tr><tr><td>Title:</td><td>perceived effects of competency-based training on the acquisition of professional skills</td></tr><tr><td>Source:</td><td>international journal of educational development, 36, 81-89</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.ijedudev.2013.11.003",
+				"x": -0.9810,
+				"y": -0.3495,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 1.5696
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 1.5696
+				}
+			},
+			{
+				"id": 635,
+				"label": "gonzalez j.m.g. (2014)",
+				"description": "<table><tr><td>Authors:</td><td>gonzalez j.m.g.; arquero montaño j.l.; hassall t.</td></tr><tr><td>Title:</td><td>the change towards a teaching methodology based on competences: a case study in a spanish university</td></tr><tr><td>Source:</td><td>research papers in education, 29(1), 111-130</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.1080/02671522.2012.745895",
+				"x": -0.1116,
+				"y": -0.1081,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.7848
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.7848
+				}
+			},
+			{
+				"id": 644,
+				"label": "cubero l.n. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>cubero l.n.; pérez c.r.</td></tr><tr><td>Title:</td><td>promoting emotional, social and civic competencies: educational policies in spain</td></tr><tr><td>Source:</td><td>kedi journal of educational policy, (spec. issue), 65-80</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"x": -0.3640,
+				"y": 0.4670,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1394
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1394
+				}
+			},
+			{
+				"id": 647,
+				"label": "remington-doucette s.m. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>remington-doucette s.m.; connell k.y.h.; armstrong c.m.; musgrove s.l.</td></tr><tr><td>Title:</td><td>assessing sustainability education in a transdisciplinary undergraduate course focused on real-world problem solving: a case for disciplinary grounding</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 14(4), 404-433</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1108/ijshe-01-2012-0001",
+				"x": 0.6937,
+				"y": -0.1608,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 5.2265
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 5.2265
+				}
+			},
+			{
+				"id": 648,
+				"label": "van dinther m. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>van dinther m.; dochy f.; segers m.; braeken j.</td></tr><tr><td>Title:</td><td>the construct validity and predictive validity of a self-efficacy measure for student teachers in competence-based education</td></tr><tr><td>Source:</td><td>studies in educational evaluation, 39(3), 169-179</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.stueduc.2013.05.001",
+				"x": -0.9971,
+				"y": 0.1055,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1847
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1847
+				}
+			},
+			{
+				"id": 649,
+				"label": "kamphorst j.c. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>kamphorst j.c.; hofman w.h.a.; jansen e.p.w.a.; terlouw c.</td></tr><tr><td>Title:</td><td>the relationship between perceived competence and earned credits in competence-based higher education</td></tr><tr><td>Source:</td><td>assessment and evaluation in higher education, 38(6), 646-661</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1080/02602938.2012.680015",
+				"x": -1.1235,
+				"y": -0.2334,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8362
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8362
+				}
+			},
+			{
+				"id": 652,
+				"label": "olmos rueda p. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>olmos rueda p.; mas torelló o.</td></tr><tr><td>Title:</td><td>youth, academic failure and second chance training programmes</td></tr><tr><td>Source:</td><td>revista espanola de orientacion y psicopedagogia, 24(1), 78-92</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"x": -0.3789,
+				"y": 0.4624,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8362
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8362
+				}
+			},
+			{
+				"id": 653,
+				"label": "runhaar p. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>runhaar p.; sanders k.</td></tr><tr><td>Title:</td><td>implementing human resources management (hrm) within dutch vet institutions: examining the fostering and hindering factors</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 65(2), 236-255</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820.2013.783612",
+				"x": -1.0687,
+				"y": -0.3213,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.0453
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.0453
+				}
+			},
+			{
+				"id": 658,
+				"label": "takayama k. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>takayama k.</td></tr><tr><td>Title:</td><td>oecd, 'key competencies' and the new challenges of educational inequality</td></tr><tr><td>Source:</td><td>journal of curriculum studies, 45(1), 67-80</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1080/00220272.2012.755711",
+				"x": 0.0045,
+				"y": 0.3399,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6725
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6725
+				}
+			},
+			{
+				"id": 662,
+				"label": "valle j. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>valle j.; manso j.</td></tr><tr><td>Title:</td><td>key competences as a trend in the supranational educational policies of the european union [competencias clave como tendencia de la política educative supranacional de la unión europea]</td></tr><tr><td>Source:</td><td>revista de educacion, (extra 2013), 12-33</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.4438/1988-592x-re-2013-ext-255",
+				"x": -0.6426,
+				"y": 0.3418,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6725
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6725
+				}
+			},
+			{
+				"id": 664,
+				"label": "bentham h. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>bentham h.</td></tr><tr><td>Title:</td><td>clearing the path that has been laid: a conceptualisation of education for sustainable development</td></tr><tr><td>Source:</td><td>journal of teacher education for sustainability, 15(2), 25-41</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.2478/jtes-2013-0009",
+				"x": 1.0802,
+				"y": 0.0330,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5575
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5575
+				}
+			},
+			{
+				"id": 666,
+				"label": "byrne j. (2013a)",
+				"description": "<table><tr><td>Authors:</td><td>byrne j.; downey c.; souza a.</td></tr><tr><td>Title:</td><td>teaching and learning in a competence-based curriculum: the case of four secondary schools in england</td></tr><tr><td>Source:</td><td>curriculum journal, 24(3), 351-368</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1080/09585176.2012.731008",
+				"x": -0.4836,
+				"y": 0.2574,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0697
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0697
+				}
+			},
+			{
+				"id": 667,
+				"label": "downey c. (2013a)",
+				"description": "<table><tr><td>Authors:</td><td>downey c.; byrne j.; souza a.</td></tr><tr><td>Title:</td><td>researching the competence-based curriculum: preface to a case study of four urban secondary schools</td></tr><tr><td>Source:</td><td>curriculum journal, 24(3), 321-334</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1080/09585176.2012.731012",
+				"x": -0.2720,
+				"y": 0.4053,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2091
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2091
+				}
+			},
+			{
+				"id": 669,
+				"label": "byrne j. (2013b)",
+				"description": "<table><tr><td>Authors:</td><td>byrne j.; downey c.; souza a.</td></tr><tr><td>Title:</td><td>planning a competence-based curriculum: the case of four secondary schools in england</td></tr><tr><td>Source:</td><td>curriculum journal, 24(3), 335-350</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1080/09585176.2012.731007",
+				"x": -0.3734,
+				"y": 0.4711,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2787
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2787
+				}
+			},
+			{
+				"id": 673,
+				"label": "rieckmann m. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>rieckmann m.</td></tr><tr><td>Title:</td><td>the global perspective of education for sustainable development: a european-latin american study about key competencies for thinking and acting in the world society</td></tr><tr><td>Source:</td><td>environmental education research, 19(2), 257-258</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1080/13504622.2012.697547",
+				"x": 0.1289,
+				"y": 0.3478,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4878
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4878
+				}
+			},
+			{
+				"id": 676,
+				"label": "truijen k.j.p. (2013)",
+				"description": "<table><tr><td>Authors:</td><td>truijen k.j.p.; sleegers p.j.c.; meelissen m.r.m.; nieuwenhuis a.f.m.</td></tr><tr><td>Title:</td><td>what makes teacher teams in a vocational education context effective?: a qualitative study of managers' view on team working</td></tr><tr><td>Source:</td><td>journal of workplace learning, 25(1), 58-73</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1108/13665621311288485",
+				"x": -0.9815,
+				"y": -0.1770,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4634
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4634
+				}
+			},
+			{
+				"id": 677,
+				"label": "leat d. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>leat d.; thomas u.; reid a.</td></tr><tr><td>Title:</td><td>the epistemological fog in realising learning to learn in european curriculum policies</td></tr><tr><td>Source:</td><td>european educational research journal, 11(3), 400-412</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.2304/eerj.2012.11.3.400",
+				"x": -0.3492,
+				"y": 0.3546,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.5301
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.5301
+				}
+			},
+			{
+				"id": 683,
+				"label": "de bruijn e. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>de bruijn e.</td></tr><tr><td>Title:</td><td>teaching in innovative vocational education in the netherlands</td></tr><tr><td>Source:</td><td>teachers and teaching: theory and practice, 18(6), 637-653</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1080/13540602.2012.746499",
+				"x": -1.2108,
+				"y": -0.0928,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.2233
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.2233
+				}
+			},
+			{
+				"id": 696,
+				"label": "winters a. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>winters a.; meijers f.; kuijpers m.; baert h.</td></tr><tr><td>Title:</td><td>can training teachers stimulate career learning conversations? analysis of vocational training conversations in dutch secondary vocational education</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 64(3), 333-350</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820.2012.691536",
+				"x": -0.9045,
+				"y": -0.2886,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2447
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2447
+				}
+			},
+			{
+				"id": 697,
+				"label": "mulder m. (2012a)",
+				"description": "<table><tr><td>Authors:</td><td>mulder m.</td></tr><tr><td>Title:</td><td>competence-based education and training-about frequently asked questions</td></tr><tr><td>Source:</td><td>journal of agricultural education and extension, 18(4), 319-327</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1080/1389224x.2012.692527",
+				"x": -1.1075,
+				"y": -0.0686,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.2854
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.2854
+				}
+			},
+			{
+				"id": 698,
+				"label": "bronkhorst l.h. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>bronkhorst l.h.; baartman l.k.j.; stokking k.m.</td></tr><tr><td>Title:</td><td>the explication of quality standards in self-evaluation</td></tr><tr><td>Source:</td><td>assessment in education: principles, policy and practice, 19(3), 357-378</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1080/0969594x.2011.570731",
+				"x": 0.2344,
+				"y": -0.1373,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1223
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1223
+				}
+			},
+			{
+				"id": 700,
+				"label": "mulder m. (2012b)",
+				"description": "<table><tr><td>Authors:</td><td>mulder m.</td></tr><tr><td>Title:</td><td>competence-based education and training</td></tr><tr><td>Source:</td><td>journal of agricultural education and extension, 18(3), 305-314</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1080/1389224x.2012.670048",
+				"x": -0.8311,
+				"y": -0.0995,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 1.2641
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 1.2641
+				}
+			},
+			{
+				"id": 704,
+				"label": "malone k. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>malone k.; supri s.</td></tr><tr><td>Title:</td><td>a critical time for medical education: the perils of competence-based reform of the curriculum</td></tr><tr><td>Source:</td><td>advances in health sciences education, 17(2), 241-246</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10459-010-9247-2",
+				"x": -0.6940,
+				"y": -0.0960,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 59.0000,
+					"Norm. citations": 2.4058
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 59.0000,
+					"Norm. citations": 2.4058
+				}
+			},
+			{
+				"id": 705,
+				"label": "azevedo a. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>azevedo a.; apfelthaler g.; hurst d.</td></tr><tr><td>Title:</td><td>competency development in business graduates: an industry-driven approach for examining the alignment of undergraduate business education with industry requirements</td></tr><tr><td>Source:</td><td>international journal of management education, 10(1), 12-28</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.ijme.2012.02.002",
+				"x": 0.4349,
+				"y": 0.0880,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 108.0000,
+					"Norm. citations": 4.4039
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 108.0000,
+					"Norm. citations": 4.4039
+				}
+			},
+			{
+				"id": 709,
+				"label": "rieckmann m. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>rieckmann m.</td></tr><tr><td>Title:</td><td>future-oriented higher education: which key competencies should be fostered through university teaching and learning?</td></tr><tr><td>Source:</td><td>futures, 44(2), 127-135</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.futures.2011.09.005",
+				"x": 0.8336,
+				"y": 0.0437,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Citations": 359.0000,
+					"Norm. citations": 14.6388
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 359.0000,
+					"Norm. citations": 14.6388
+				}
+			},
+			{
+				"id": 718,
+				"label": "wals a.e.j. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>wals a.e.j.; schwarzin l.</td></tr><tr><td>Title:</td><td>fostering organizational sustainability through dialogical interaction</td></tr><tr><td>Source:</td><td>learning organization, 19(1), 11-27</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1108/09696471211190338",
+				"x": 1.0011,
+				"y": -0.1125,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 2.4874
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 2.4874
+				}
+			},
+			{
+				"id": 726,
+				"label": "koopman m. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>koopman m.; teune p.; beijaard d.</td></tr><tr><td>Title:</td><td>development of student knowledge in competence-based pre-vocational secondary education</td></tr><tr><td>Source:</td><td>learning environments research, 14(3), 205-227</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10984-011-9092-0",
+				"x": -0.9166,
+				"y": -0.2457,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.2076
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.2076
+				}
+			},
+			{
+				"id": 729,
+				"label": "dabrowski m. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>dabrowski m.; wiśniewski j.</td></tr><tr><td>Title:</td><td>translating key competences into the school curriculum: lessons from the polish experience</td></tr><tr><td>Source:</td><td>european journal of education, 46(3), 323-334</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01483.x",
+				"x": -0.2080,
+				"y": 0.3308,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 0.3460
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 0.3460
+				}
+			},
+			{
+				"id": 730,
+				"label": "tiana a. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>tiana a.; moya j.; luengo f.</td></tr><tr><td>Title:</td><td>implementing key competences in basic education: reflections on curriculum design and development in spain</td></tr><tr><td>Source:</td><td>european journal of education, 46(3), 307-322</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01482.x",
+				"x": -0.3607,
+				"y": 0.4216,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 0.5882
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 0.5882
+				}
+			},
+			{
+				"id": 731,
+				"label": "pepper d. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>pepper d.</td></tr><tr><td>Title:</td><td>assessing key competences across the curriculum - and europe</td></tr><tr><td>Source:</td><td>european journal of education, 46(3), 335-353</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01484.x",
+				"x": -0.2939,
+				"y": 0.3510,
+				"cluster": 3,
+				"weights": {
+					"Links": 15.0000,
+					"Citations": 64.0000,
+					"Norm. citations": 1.1071
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 64.0000,
+					"Norm. citations": 1.1071
+				}
+			},
+			{
+				"id": 732,
+				"label": "halász g. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>halász g.; michel a.</td></tr><tr><td>Title:</td><td>key competences in europe: interpretation, policy formulation and implementation</td></tr><tr><td>Source:</td><td>european journal of education, 46(3), 289-306</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01491.x",
+				"x": -0.4567,
+				"y": 0.2846,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 121.0000,
+					"Norm. citations": 2.0932
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 121.0000,
+					"Norm. citations": 2.0932
+				}
+			},
+			{
+				"id": 734,
+				"label": "baartman l.k.j. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>baartman l.k.j.; prins f.j.; kirschner p.a.; van der vleuten c.p.m.</td></tr><tr><td>Title:</td><td>self-evaluation of assessment programs: a cross-case analysis</td></tr><tr><td>Source:</td><td>evaluation and program planning, 34(3), 206-216</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.evalprogplan.2011.03.001",
+				"x": 0.2493,
+				"y": -0.1210,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.2595
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.2595
+				}
+			},
+			{
+				"id": 736,
+				"label": "wiek a. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>wiek a.; withycombe l.; redman c.l.</td></tr><tr><td>Title:</td><td>key competencies in sustainability: a reference framework for academic program development</td></tr><tr><td>Source:</td><td>sustainability science, 6(2), 203-218</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1007/s11625-011-0132-6",
+				"x": 0.8453,
+				"y": -0.0944,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Citations": 1007.0000,
+					"Norm. citations": 17.4202
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 1007.0000,
+					"Norm. citations": 17.4202
+				}
+			},
+			{
+				"id": 738,
+				"label": "de bruijn e. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>de bruijn e.; leeman y.</td></tr><tr><td>Title:</td><td>authentic and self-directed learning in vocational education: challenges to vocational educators</td></tr><tr><td>Source:</td><td>teaching and teacher education, 27(4), 694-702</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tate.2010.11.007",
+				"x": -1.1846,
+				"y": -0.1581,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 98.0000,
+					"Norm. citations": 1.6953
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 98.0000,
+					"Norm. citations": 1.6953
+				}
+			},
+			{
+				"id": 740,
+				"label": "gekara v.o. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>gekara v.o.; bloor m.; sampson h.</td></tr><tr><td>Title:</td><td>computer-based assessment in safety-critical industries: the case of shipping</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 63(1), 87-100</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820.2010.536850",
+				"x": 0.2651,
+				"y": -0.0808,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.2249
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.2249
+				}
+			},
+			{
+				"id": 741,
+				"label": "seezink a. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>seezink a.; poell r.</td></tr><tr><td>Title:</td><td>the role of schools' perceived human resource policies in teachers' professional development activities: a comparative study of innovations toward competence-based education</td></tr><tr><td>Source:</td><td>asia pacific education review, 12(1), 149-160</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1007/s12564-010-9115-z",
+				"x": -1.1139,
+				"y": -0.3140,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.1903
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.1903
+				}
+			},
+			{
+				"id": 751,
+				"label": "wesselink r. (2010a)",
+				"description": "<table><tr><td>Authors:</td><td>wesselink r.; dekker-groen a.m.; biemans h.j.a.; mulder m.</td></tr><tr><td>Title:</td><td>using an instrument to analyse competence-based study programmes: experiences of teachers in dutch vocational education and training</td></tr><tr><td>Source:</td><td>journal of curriculum studies, 42(6), 813-829</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1080/00220271003759249",
+				"x": -0.8407,
+				"y": -0.0464,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 1.0378
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 1.0378
+				}
+			},
+			{
+				"id": 752,
+				"label": "struyven k. (2010)",
+				"description": "<table><tr><td>Authors:</td><td>struyven k.; de meyst m.</td></tr><tr><td>Title:</td><td>competence-based teacher education: illusion or reality? an assessment of the implementation status in flanders from teachers' and students' points of view</td></tr><tr><td>Source:</td><td>teaching and teacher education, 26(8), 1495-1510</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tate.2010.05.006",
+				"x": -0.9174,
+				"y": 0.0168,
+				"cluster": 6,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 1.6268
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 1.6268
+				}
+			},
+			{
+				"id": 755,
+				"label": "brundiers k. (2010)",
+				"description": "<table><tr><td>Authors:</td><td>brundiers k.; wiek a.; redman c.l.</td></tr><tr><td>Title:</td><td>real-world learning opportunities in sustainability: from classroom into the real world</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 11(4), 308-324</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1108/14676371011077540",
+				"x": 0.7969,
+				"y": -0.2239,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Citations": 312.0000,
+					"Norm. citations": 8.7508
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 312.0000,
+					"Norm. citations": 8.7508
+				}
+			},
+			{
+				"id": 763,
+				"label": "seezink a. (2010)",
+				"description": "<table><tr><td>Authors:</td><td>seezink a.; poell r.f.</td></tr><tr><td>Title:</td><td>continuing professional development needs of teachers in schools for competence-based vocational education: a case study from the netherlands</td></tr><tr><td>Source:</td><td>journal of european industrial training, 34(5), 455-474</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1108/03090591011049819",
+				"x": -1.0575,
+				"y": -0.2630,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.4207
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.4207
+				}
+			},
+			{
+				"id": 768,
+				"label": "hoskins b. (2010)",
+				"description": "<table><tr><td>Authors:</td><td>hoskins b.; crick r.</td></tr><tr><td>Title:</td><td>competences for learning to learn and active citizenship: different currencies or two sides of the same coin?</td></tr><tr><td>Source:</td><td>european journal of education, 45(1), 121-137</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1111/j.1465-3435.2009.01419.x",
+				"x": -0.4624,
+				"y": 0.3230,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 54.0000,
+					"Norm. citations": 1.5146
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 54.0000,
+					"Norm. citations": 1.5146
+				}
+			},
+			{
+				"id": 774,
+				"label": "wesselink r. (2010b)",
+				"description": "<table><tr><td>Authors:</td><td>wesselink r.; de jong c.; biemans h.j.a.</td></tr><tr><td>Title:</td><td>aspects of competence-based education as footholds to improve the connectivity between learning in school and in the workplace</td></tr><tr><td>Source:</td><td>vocations and learning, 3(1), 19-38</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1007/s12186-009-9027-4",
+				"x": -0.9908,
+				"y": -0.1434,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.3743
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.3743
+				}
+			},
+			{
+				"id": 776,
+				"label": "mulder m. (2009)",
+				"description": "<table><tr><td>Authors:</td><td>mulder m.; gulikers j.; biemans h.; wesselink r.</td></tr><tr><td>Title:</td><td>the new competence concept in higher education: error or enrichment?</td></tr><tr><td>Source:</td><td>journal of european industrial training, 33(8), 755-770</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1108/03090590910993616",
+				"x": -0.5173,
+				"y": -0.1213,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 95.0000,
+					"Norm. citations": 4.7868
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 95.0000,
+					"Norm. citations": 4.7868
+				}
+			},
+			{
+				"id": 783,
+				"label": "schaeper h. (2009)",
+				"description": "<table><tr><td>Authors:</td><td>schaeper h.</td></tr><tr><td>Title:</td><td>development of competencies and teaching-learning arrangements in higher education: findings from germany</td></tr><tr><td>Source:</td><td>studies in higher education, 34(6), 677-697</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1080/03075070802669207",
+				"x": 0.3982,
+				"y": -0.1664,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.5116
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.5116
+				}
+			},
+			{
+				"id": 795,
+				"label": "zehrer a. (2009)",
+				"description": "<table><tr><td>Authors:</td><td>zehrer a.; mössenlechner c.</td></tr><tr><td>Title:</td><td>key competencies of tourism graduates: the employers' point of view</td></tr><tr><td>Source:</td><td>journal of teaching in travel and tourism, 9(3-4), 266-287</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1080/15313220903445215",
+				"x": 0.6234,
+				"y": 0.3020,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 73.0000,
+					"Norm. citations": 3.6783
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 73.0000,
+					"Norm. citations": 3.6783
+				}
+			},
+			{
+				"id": 796,
+				"label": "winters a. (2009)",
+				"description": "<table><tr><td>Authors:</td><td>winters a.; meijers f.; kuijpers m.; baert h.</td></tr><tr><td>Title:</td><td>what are vocational training conversations about? analysis of vocational training conversations in dutch vocational education from a career learning perspective</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 61(3), 247-266</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820903194690",
+				"x": -0.8543,
+				"y": -0.2517,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.4612
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.4612
+				}
+			},
+			{
+				"id": 797,
+				"label": "seezink a. (2009)",
+				"description": "<table><tr><td>Authors:</td><td>seezink a.; poell r.f.; kirschner p.a.</td></tr><tr><td>Title:</td><td>teachers’ individual action theories about competence-based education: the value of the cognitive apprenticeship model</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 61(2), 203-215</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820902904586",
+				"x": -1.1989,
+				"y": -0.2681,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.5039
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.5039
+				}
+			},
+			{
+				"id": 798,
+				"label": "biemans h. (2009)",
+				"description": "<table><tr><td>Authors:</td><td>biemans h.; wesselink r.; gulikers j.; schaafsma s.; verstegen j.; mulder m.</td></tr><tr><td>Title:</td><td>towards competence-based vet: dealing with the pitfalls</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 61(3), 267-286</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820903194682",
+				"x": -1.0923,
+				"y": -0.1225,
+				"cluster": 2,
+				"weights": {
+					"Links": 20.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 3.7791
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 3.7791
+				}
+			},
+			{
+				"id": 805,
+				"label": "crick r.d. (2008)",
+				"description": "<table><tr><td>Authors:</td><td>crick r.d.</td></tr><tr><td>Title:</td><td>key competencies for education in a european context: narratives of accountability or care</td></tr><tr><td>Source:</td><td>european educational research journal, 7(3), 311-318</td></tr><tr><td>Year:</td><td>2008</td></tr></table>",
+				"url": "https://doi.org/10.2304/eerj.2008.7.3.311",
+				"x": 1.0152,
+				"y": -0.2482,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 42.0000,
+					"Norm. citations": 1.5796
+				},
+				"scores": {
+					"Pub. year": 2008.0000,
+					"Citations": 42.0000,
+					"Norm. citations": 1.5796
+				}
+			},
+			{
+				"id": 808,
+				"label": "biesma r.g. (2008)",
+				"description": "<table><tr><td>Authors:</td><td>biesma r.g.; pavlova m.; vaatstra r.; van merode g.g.; czabanowska k.; smith t.; groot w.</td></tr><tr><td>Title:</td><td>generic versus specific competencies of entry-level public health graduates: employers' perceptions in poland, the uk, and the netherlands</td></tr><tr><td>Source:</td><td>advances in health sciences education, 13(3), 325-343</td></tr><tr><td>Year:</td><td>2008</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10459-006-9044-0",
+				"x": 0.6112,
+				"y": 0.2395,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 0.9779
+				},
+				"scores": {
+					"Pub. year": 2008.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 0.9779
+				}
+			},
+			{
+				"id": 823,
+				"label": "schleicher a. (2007)",
+				"description": "<table><tr><td>Authors:</td><td>schleicher a.</td></tr><tr><td>Title:</td><td>can competencies assessed by pisa be considered the fundamental school knowledge 15-year-olds should possess?</td></tr><tr><td>Source:</td><td>journal of educational change, 8(4), 349-357</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10833-007-9042-x",
+				"x": 0.0107,
+				"y": 0.3639,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 46.0000,
+					"Norm. citations": 0.6163
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 46.0000,
+					"Norm. citations": 0.6163
+				}
+			},
+			{
+				"id": 824,
+				"label": "barth m. (2007)",
+				"description": "<table><tr><td>Authors:</td><td>barth m.; godemann j.; rieckmann m.; stoltenberg u.</td></tr><tr><td>Title:</td><td>developing key competencies for sustainable development in higher education</td></tr><tr><td>Source:</td><td>international journal of sustainability in higher education, 8(4), 416-430</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/10.1108/14676370710823582",
+				"x": 0.9488,
+				"y": -0.0832,
+				"cluster": 1,
+				"weights": {
+					"Links": 27.0000,
+					"Citations": 534.0000,
+					"Norm. citations": 7.1541
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 534.0000,
+					"Norm. citations": 7.1541
+				}
+			},
+			{
+				"id": 827,
+				"label": "moon y.-l. (2007)",
+				"description": "<table><tr><td>Authors:</td><td>moon y.-l.</td></tr><tr><td>Title:</td><td>education reform and competency-based education</td></tr><tr><td>Source:</td><td>asia pacific education review, 8(2), 337-341</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/10.1007/bf03029267",
+				"x": 0.1703,
+				"y": 0.2155,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 0.4019
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 0.4019
+				}
+			},
+			{
+				"id": 828,
+				"label": "biesma r.g. (2007)",
+				"description": "<table><tr><td>Authors:</td><td>biesma r.g.; pavlova m.; van merode g.g.; groot w.</td></tr><tr><td>Title:</td><td>using conjoint analysis to estimate employers preferences for key competencies of master level dutch graduates entering the public health field</td></tr><tr><td>Source:</td><td>economics of education review, 26(3), 375-386</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.econedurev.2006.01.004",
+				"x": 0.6214,
+				"y": 0.2418,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 0.5761
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 0.5761
+				}
+			},
+			{
+				"id": 829,
+				"label": "mulder m. (2007)",
+				"description": "<table><tr><td>Authors:</td><td>mulder m.; weigel t.; collins k.</td></tr><tr><td>Title:</td><td>the concept of competence in the development of vocational education and training in selected eu member states: a critical analysis</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 59(1), 67-88</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820601145630",
+				"x": -1.0756,
+				"y": -0.1919,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Citations": 87.0000,
+					"Norm. citations": 1.1656
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 87.0000,
+					"Norm. citations": 1.1656
+				}
+			},
+			{
+				"id": 832,
+				"label": "baartman l.k.j. (2007)",
+				"description": "<table><tr><td>Authors:</td><td>baartman l.k.j.; bastiaens t.j.; kirschner p.a.; van der vleuten c.p.m.</td></tr><tr><td>Title:</td><td>evaluating assessment quality in competence-based education: a qualitative comparison of two frameworks</td></tr><tr><td>Source:</td><td>educational research review, 2(2), 114-129</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.edurev.2007.06.001",
+				"x": 0.2914,
+				"y": -0.0778,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 151.0000,
+					"Norm. citations": 2.0230
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 151.0000,
+					"Norm. citations": 2.0230
+				}
+			},
+			{
+				"id": 847,
+				"label": "mansfield b. (2004)",
+				"description": "<table><tr><td>Authors:</td><td>mansfield b.</td></tr><tr><td>Title:</td><td>competence in transition</td></tr><tr><td>Source:</td><td>journal of european industrial training, 28, 296-309</td></tr><tr><td>Year:</td><td>2004</td></tr></table>",
+				"url": "https://doi.org/10.1108/03090590410527672",
+				"x": -1.1500,
+				"y": -0.1009,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.1843
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.1843
+				}
+			},
+			{
+				"id": 849,
+				"label": "biemans h. (2004)",
+				"description": "<table><tr><td>Authors:</td><td>biemans h.; nieuwenhuis l.; poell r.; mulder m.; wesselink r.</td></tr><tr><td>Title:</td><td>competence-based vet in the netherlands: background and pitfalls</td></tr><tr><td>Source:</td><td>journal of vocational education and training, 56(4), 523-538</td></tr><tr><td>Year:</td><td>2004</td></tr></table>",
+				"url": "https://doi.org/10.1080/13636820400200268",
+				"x": -0.9769,
+				"y": -0.2250,
+				"cluster": 2,
+				"weights": {
+					"Links": 26.0000,
+					"Citations": 169.0000,
+					"Norm. citations": 4.0846
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 169.0000,
+					"Norm. citations": 4.0846
+				}
+			},
+			{
+				"id": 852,
+				"label": "kosbab d.j. (2003)",
+				"description": "<table><tr><td>Authors:</td><td>kosbab d.j.</td></tr><tr><td>Title:</td><td>dispositional and maturational development through competency-based training</td></tr><tr><td>Source:</td><td>education + training, 45, 526-541</td></tr><tr><td>Year:</td><td>2003</td></tr></table>",
+				"url": "https://doi.org/10.1108/00400910310508919",
+				"x": -1.0400,
+				"y": -0.5020,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.5455
+				},
+				"scores": {
+					"Pub. year": 2003.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.5455
+				}
+			},
+			{
+				"id": 854,
+				"label": "matlay h. (2002)",
+				"description": "<table><tr><td>Authors:</td><td>matlay h.; addis m.</td></tr><tr><td>Title:</td><td>competence-based training, vocational qualifications and learning targets: some lessons for the learning and skills council</td></tr><tr><td>Source:</td><td>education + training, 44(6), 250-260</td></tr><tr><td>Year:</td><td>2002</td></tr></table>",
+				"url": "https://doi.org/10.1108/00400910210441383",
+				"x": -1.0244,
+				"y": -0.4641,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7143
+				},
+				"scores": {
+					"Pub. year": 2002.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7143
+				}
+			},
+			{
+				"id": 860,
+				"label": "thompson t. (2001)",
+				"description": "<table><tr><td>Authors:</td><td>thompson t.; craft c.</td></tr><tr><td>Title:</td><td>bsw students' perceptions of key competencies, values, and practitioner skills implications for social work education</td></tr><tr><td>Source:</td><td>australian social work, 54(4), 51-62</td></tr><tr><td>Year:</td><td>2001</td></tr></table>",
+				"url": "https://doi.org/10.1080/03124070108414345",
+				"x": 0.3218,
+				"y": 0.3299,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4565
+				},
+				"scores": {
+					"Pub. year": 2001.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4565
+				}
+			},
+			{
+				"id": 872,
+				"label": "lum g. (1999)",
+				"description": "<table><tr><td>Authors:</td><td>lum g.</td></tr><tr><td>Title:</td><td>where's the competence in competence-based education and training?</td></tr><tr><td>Source:</td><td>journal of philosophy of education, 33(3), 403-418</td></tr><tr><td>Year:</td><td>1999</td></tr></table>",
+				"url": "https://doi.org/10.1111/1467-9752.00145",
+				"x": -0.9536,
+				"y": -0.1507,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 3.5000
+				},
+				"scores": {
+					"Pub. year": 1999.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 3.5000
+				}
+			},
+			{
+				"id": 873,
+				"label": "hattam r. (1998)",
+				"description": "<table><tr><td>Authors:</td><td>hattam r.; smyth j.</td></tr><tr><td>Title:</td><td>competing logics in the key competencies: a sociological reading of post-compulsory education and training in australia</td></tr><tr><td>Source:</td><td>research in post-compulsory education, 3(2), 133-151</td></tr><tr><td>Year:</td><td>1998</td></tr></table>",
+				"url": "https://doi.org/10.1080/13596749800200032",
+				"x": 0.3303,
+				"y": 0.3238,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2500
+				},
+				"scores": {
+					"Pub. year": 1998.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2500
+				}
+			},
+			{
+				"id": 875,
+				"label": "hyland t. (1998)",
+				"description": "<table><tr><td>Authors:</td><td>hyland t.</td></tr><tr><td>Title:</td><td>exporting failure: the strange case of nvqs and overseas markets</td></tr><tr><td>Source:</td><td>educational studies, 24(3), 369-380</td></tr><tr><td>Year:</td><td>1998</td></tr></table>",
+				"url": "https://doi.org/10.1080/0305569980240309",
+				"x": 1.4080,
+				"y": -0.0954,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.5000
+				},
+				"scores": {
+					"Pub. year": 1998.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.5000
+				}
+			},
+			{
+				"id": 880,
+				"label": "hyland t. (1997)",
+				"description": "<table><tr><td>Authors:</td><td>hyland t.</td></tr><tr><td>Title:</td><td>reconsidering competence</td></tr><tr><td>Source:</td><td>journal of philosophy of education, 31(3), 491-503</td></tr><tr><td>Year:</td><td>1997</td></tr></table>",
+				"url": "https://doi.org/10.1111/1467-9752.00070",
+				"x": 1.2992,
+				"y": -0.0930,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 2.3707
+				},
+				"scores": {
+					"Pub. year": 1997.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 2.3707
+				}
+			},
+			{
+				"id": 882,
+				"label": "foot s. (1996)",
+				"description": "<table><tr><td>Authors:</td><td>foot s.; megginson d.</td></tr><tr><td>Title:</td><td>competence–based vocational training: ten years on and still down the wrong path?</td></tr><tr><td>Source:</td><td>education + training, 38(3), 17-27</td></tr><tr><td>Year:</td><td>1996</td></tr></table>",
+				"url": "https://doi.org/10.1108/00400919610117380",
+				"x": -1.0877,
+				"y": -0.3091,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2569
+				},
+				"scores": {
+					"Pub. year": 1996.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2569
+				}
+			},
+			{
+				"id": 885,
+				"label": "bridges d. (1996)",
+				"description": "<table><tr><td>Authors:</td><td>bridges d.</td></tr><tr><td>Title:</td><td>competence-based education and training: progress or villainy?</td></tr><tr><td>Source:</td><td>journal of philosophy of education, 30(3), 361-376</td></tr><tr><td>Year:</td><td>1996</td></tr></table>",
+				"url": "https://doi.org/10.1111/j.1467-9752.1996.tb00406.x",
+				"x": 0.4219,
+				"y": 0.1045,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.1560
+				},
+				"scores": {
+					"Pub. year": 1996.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.1560
+				}
+			},
+			{
+				"id": 898,
+				"label": "hyland t. (1994b)",
+				"description": "<table><tr><td>Authors:</td><td>hyland t.</td></tr><tr><td>Title:</td><td>tilting at windmills: the problems of challenging the national council for vocational qualifications</td></tr><tr><td>Source:</td><td>educational studies, 20(2), 251-265</td></tr><tr><td>Year:</td><td>1994</td></tr></table>",
+				"url": "https://doi.org/10.1080/0305569940200208",
+				"x": 1.4452,
+				"y": -0.0962,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4337
+				},
+				"scores": {
+					"Pub. year": 1994.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4337
+				}
+			},
+			{
+				"id": 901,
+				"label": "everwijn s.e.m. (1993)",
+				"description": "<table><tr><td>Authors:</td><td>everwijn s.e.m.; bomers g.b.j.; knubben j.a.</td></tr><tr><td>Title:</td><td>ability- or competence-based education: bridging the gap between knowledge acquisition and ability to apply</td></tr><tr><td>Source:</td><td>higher education, 25(4), 425-438</td></tr><tr><td>Year:</td><td>1993</td></tr></table>",
+				"url": "https://doi.org/10.1007/bf01383845",
+				"x": -0.6939,
+				"y": -0.2007,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 0.7742
+				},
+				"scores": {
+					"Pub. year": 1993.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 0.7742
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 20
+			},
+			{
+				"source_id": 1,
+				"target_id": 709
+			},
+			{
+				"source_id": 1,
+				"target_id": 736
+			},
+			{
+				"source_id": 1,
+				"target_id": 755
+			},
+			{
+				"source_id": 7,
+				"target_id": 705
+			},
+			{
+				"source_id": 7,
+				"target_id": 709
+			},
+			{
+				"source_id": 7,
+				"target_id": 795
+			},
+			{
+				"source_id": 7,
+				"target_id": 808
+			},
+			{
+				"source_id": 7,
+				"target_id": 828
+			},
+			{
+				"source_id": 10,
+				"target_id": 202
+			},
+			{
+				"source_id": 11,
+				"target_id": 246
+			},
+			{
+				"source_id": 11,
+				"target_id": 548
+			},
+			{
+				"source_id": 11,
+				"target_id": 709
+			},
+			{
+				"source_id": 11,
+				"target_id": 736
+			},
+			{
+				"source_id": 11,
+				"target_id": 755
+			},
+			{
+				"source_id": 12,
+				"target_id": 69
+			},
+			{
+				"source_id": 12,
+				"target_id": 246
+			},
+			{
+				"source_id": 12,
+				"target_id": 709
+			},
+			{
+				"source_id": 12,
+				"target_id": 736
+			},
+			{
+				"source_id": 12,
+				"target_id": 824
+			},
+			{
+				"source_id": 12,
+				"target_id": 832
+			},
+			{
+				"source_id": 13,
+				"target_id": 545
+			},
+			{
+				"source_id": 13,
+				"target_id": 832
+			},
+			{
+				"source_id": 15,
+				"target_id": 736
+			},
+			{
+				"source_id": 17,
+				"target_id": 683
+			},
+			{
+				"source_id": 23,
+				"target_id": 31
+			},
+			{
+				"source_id": 31,
+				"target_id": 709
+			},
+			{
+				"source_id": 31,
+				"target_id": 736
+			},
+			{
+				"source_id": 33,
+				"target_id": 170
+			},
+			{
+				"source_id": 33,
+				"target_id": 736
+			},
+			{
+				"source_id": 35,
+				"target_id": 700
+			},
+			{
+				"source_id": 35,
+				"target_id": 726
+			},
+			{
+				"source_id": 35,
+				"target_id": 751
+			},
+			{
+				"source_id": 35,
+				"target_id": 798
+			},
+			{
+				"source_id": 35,
+				"target_id": 849
+			},
+			{
+				"source_id": 36,
+				"target_id": 736
+			},
+			{
+				"source_id": 36,
+				"target_id": 827
+			},
+			{
+				"source_id": 57,
+				"target_id": 683
+			},
+			{
+				"source_id": 61,
+				"target_id": 68
+			},
+			{
+				"source_id": 61,
+				"target_id": 170
+			},
+			{
+				"source_id": 61,
+				"target_id": 227
+			},
+			{
+				"source_id": 61,
+				"target_id": 246
+			},
+			{
+				"source_id": 61,
+				"target_id": 328
+			},
+			{
+				"source_id": 61,
+				"target_id": 402
+			},
+			{
+				"source_id": 61,
+				"target_id": 436
+			},
+			{
+				"source_id": 61,
+				"target_id": 580
+			},
+			{
+				"source_id": 61,
+				"target_id": 647
+			},
+			{
+				"source_id": 61,
+				"target_id": 709
+			},
+			{
+				"source_id": 61,
+				"target_id": 736
+			},
+			{
+				"source_id": 61,
+				"target_id": 755
+			},
+			{
+				"source_id": 61,
+				"target_id": 805
+			},
+			{
+				"source_id": 61,
+				"target_id": 824
+			},
+			{
+				"source_id": 63,
+				"target_id": 328
+			},
+			{
+				"source_id": 63,
+				"target_id": 402
+			},
+			{
+				"source_id": 63,
+				"target_id": 664
+			},
+			{
+				"source_id": 63,
+				"target_id": 709
+			},
+			{
+				"source_id": 63,
+				"target_id": 736
+			},
+			{
+				"source_id": 63,
+				"target_id": 824
+			},
+			{
+				"source_id": 64,
+				"target_id": 503
+			},
+			{
+				"source_id": 64,
+				"target_id": 704
+			},
+			{
+				"source_id": 64,
+				"target_id": 752
+			},
+			{
+				"source_id": 64,
+				"target_id": 776
+			},
+			{
+				"source_id": 68,
+				"target_id": 170
+			},
+			{
+				"source_id": 68,
+				"target_id": 246
+			},
+			{
+				"source_id": 68,
+				"target_id": 736
+			},
+			{
+				"source_id": 69,
+				"target_id": 328
+			},
+			{
+				"source_id": 69,
+				"target_id": 538
+			},
+			{
+				"source_id": 69,
+				"target_id": 709
+			},
+			{
+				"source_id": 69,
+				"target_id": 736
+			},
+			{
+				"source_id": 69,
+				"target_id": 755
+			},
+			{
+				"source_id": 69,
+				"target_id": 824
+			},
+			{
+				"source_id": 74,
+				"target_id": 213
+			},
+			{
+				"source_id": 74,
+				"target_id": 736
+			},
+			{
+				"source_id": 74,
+				"target_id": 755
+			},
+			{
+				"source_id": 74,
+				"target_id": 824
+			},
+			{
+				"source_id": 79,
+				"target_id": 709
+			},
+			{
+				"source_id": 79,
+				"target_id": 736
+			},
+			{
+				"source_id": 79,
+				"target_id": 824
+			},
+			{
+				"source_id": 89,
+				"target_id": 709
+			},
+			{
+				"source_id": 89,
+				"target_id": 736
+			},
+			{
+				"source_id": 90,
+				"target_id": 170
+			},
+			{
+				"source_id": 100,
+				"target_id": 731
+			},
+			{
+				"source_id": 100,
+				"target_id": 732
+			},
+			{
+				"source_id": 110,
+				"target_id": 709
+			},
+			{
+				"source_id": 110,
+				"target_id": 736
+			},
+			{
+				"source_id": 113,
+				"target_id": 246
+			},
+			{
+				"source_id": 113,
+				"target_id": 548
+			},
+			{
+				"source_id": 113,
+				"target_id": 736
+			},
+			{
+				"source_id": 113,
+				"target_id": 824
+			},
+			{
+				"source_id": 116,
+				"target_id": 709
+			},
+			{
+				"source_id": 116,
+				"target_id": 736
+			},
+			{
+				"source_id": 117,
+				"target_id": 824
+			},
+			{
+				"source_id": 128,
+				"target_id": 544
+			},
+			{
+				"source_id": 128,
+				"target_id": 849
+			},
+			{
+				"source_id": 130,
+				"target_id": 170
+			},
+			{
+				"source_id": 130,
+				"target_id": 335
+			},
+			{
+				"source_id": 130,
+				"target_id": 709
+			},
+			{
+				"source_id": 130,
+				"target_id": 736
+			},
+			{
+				"source_id": 130,
+				"target_id": 824
+			},
+			{
+				"source_id": 132,
+				"target_id": 709
+			},
+			{
+				"source_id": 133,
+				"target_id": 163
+			},
+			{
+				"source_id": 133,
+				"target_id": 308
+			},
+			{
+				"source_id": 133,
+				"target_id": 729
+			},
+			{
+				"source_id": 135,
+				"target_id": 291
+			},
+			{
+				"source_id": 135,
+				"target_id": 751
+			},
+			{
+				"source_id": 135,
+				"target_id": 849
+			},
+			{
+				"source_id": 138,
+				"target_id": 736
+			},
+			{
+				"source_id": 138,
+				"target_id": 755
+			},
+			{
+				"source_id": 143,
+				"target_id": 662
+			},
+			{
+				"source_id": 143,
+				"target_id": 752
+			},
+			{
+				"source_id": 149,
+				"target_id": 662
+			},
+			{
+				"source_id": 161,
+				"target_id": 567
+			},
+			{
+				"source_id": 162,
+				"target_id": 658
+			},
+			{
+				"source_id": 163,
+				"target_id": 202
+			},
+			{
+				"source_id": 163,
+				"target_id": 308
+			},
+			{
+				"source_id": 170,
+				"target_id": 328
+			},
+			{
+				"source_id": 170,
+				"target_id": 335
+			},
+			{
+				"source_id": 170,
+				"target_id": 580
+			},
+			{
+				"source_id": 170,
+				"target_id": 709
+			},
+			{
+				"source_id": 170,
+				"target_id": 736
+			},
+			{
+				"source_id": 170,
+				"target_id": 755
+			},
+			{
+				"source_id": 170,
+				"target_id": 824
+			},
+			{
+				"source_id": 177,
+				"target_id": 736
+			},
+			{
+				"source_id": 188,
+				"target_id": 431
+			},
+			{
+				"source_id": 188,
+				"target_id": 486
+			},
+			{
+				"source_id": 188,
+				"target_id": 612
+			},
+			{
+				"source_id": 188,
+				"target_id": 662
+			},
+			{
+				"source_id": 188,
+				"target_id": 730
+			},
+			{
+				"source_id": 188,
+				"target_id": 731
+			},
+			{
+				"source_id": 188,
+				"target_id": 732
+			},
+			{
+				"source_id": 202,
+				"target_id": 658
+			},
+			{
+				"source_id": 202,
+				"target_id": 677
+			},
+			{
+				"source_id": 202,
+				"target_id": 730
+			},
+			{
+				"source_id": 202,
+				"target_id": 731
+			},
+			{
+				"source_id": 202,
+				"target_id": 751
+			},
+			{
+				"source_id": 205,
+				"target_id": 731
+			},
+			{
+				"source_id": 208,
+				"target_id": 731
+			},
+			{
+				"source_id": 212,
+				"target_id": 328
+			},
+			{
+				"source_id": 212,
+				"target_id": 335
+			},
+			{
+				"source_id": 212,
+				"target_id": 736
+			},
+			{
+				"source_id": 213,
+				"target_id": 736
+			},
+			{
+				"source_id": 218,
+				"target_id": 709
+			},
+			{
+				"source_id": 218,
+				"target_id": 736
+			},
+			{
+				"source_id": 219,
+				"target_id": 683
+			},
+			{
+				"source_id": 219,
+				"target_id": 751
+			},
+			{
+				"source_id": 219,
+				"target_id": 774
+			},
+			{
+				"source_id": 219,
+				"target_id": 798
+			},
+			{
+				"source_id": 227,
+				"target_id": 736
+			},
+			{
+				"source_id": 227,
+				"target_id": 824
+			},
+			{
+				"source_id": 231,
+				"target_id": 736
+			},
+			{
+				"source_id": 231,
+				"target_id": 755
+			},
+			{
+				"source_id": 231,
+				"target_id": 824
+			},
+			{
+				"source_id": 231,
+				"target_id": 832
+			},
+			{
+				"source_id": 235,
+				"target_id": 738
+			},
+			{
+				"source_id": 246,
+				"target_id": 736
+			},
+			{
+				"source_id": 246,
+				"target_id": 755
+			},
+			{
+				"source_id": 247,
+				"target_id": 400
+			},
+			{
+				"source_id": 247,
+				"target_id": 736
+			},
+			{
+				"source_id": 254,
+				"target_id": 795
+			},
+			{
+				"source_id": 259,
+				"target_id": 731
+			},
+			{
+				"source_id": 263,
+				"target_id": 506
+			},
+			{
+				"source_id": 263,
+				"target_id": 544
+			},
+			{
+				"source_id": 263,
+				"target_id": 545
+			},
+			{
+				"source_id": 263,
+				"target_id": 624
+			},
+			{
+				"source_id": 263,
+				"target_id": 738
+			},
+			{
+				"source_id": 263,
+				"target_id": 751
+			},
+			{
+				"source_id": 263,
+				"target_id": 752
+			},
+			{
+				"source_id": 263,
+				"target_id": 798
+			},
+			{
+				"source_id": 263,
+				"target_id": 829
+			},
+			{
+				"source_id": 263,
+				"target_id": 849
+			},
+			{
+				"source_id": 277,
+				"target_id": 506
+			},
+			{
+				"source_id": 277,
+				"target_id": 544
+			},
+			{
+				"source_id": 277,
+				"target_id": 697
+			},
+			{
+				"source_id": 277,
+				"target_id": 700
+			},
+			{
+				"source_id": 277,
+				"target_id": 738
+			},
+			{
+				"source_id": 277,
+				"target_id": 751
+			},
+			{
+				"source_id": 277,
+				"target_id": 752
+			},
+			{
+				"source_id": 277,
+				"target_id": 798
+			},
+			{
+				"source_id": 277,
+				"target_id": 849
+			},
+			{
+				"source_id": 277,
+				"target_id": 872
+			},
+			{
+				"source_id": 291,
+				"target_id": 738
+			},
+			{
+				"source_id": 291,
+				"target_id": 798
+			},
+			{
+				"source_id": 291,
+				"target_id": 829
+			},
+			{
+				"source_id": 291,
+				"target_id": 849
+			},
+			{
+				"source_id": 304,
+				"target_id": 709
+			},
+			{
+				"source_id": 304,
+				"target_id": 736
+			},
+			{
+				"source_id": 304,
+				"target_id": 755
+			},
+			{
+				"source_id": 305,
+				"target_id": 736
+			},
+			{
+				"source_id": 305,
+				"target_id": 824
+			},
+			{
+				"source_id": 305,
+				"target_id": 880
+			},
+			{
+				"source_id": 308,
+				"target_id": 731
+			},
+			{
+				"source_id": 315,
+				"target_id": 506
+			},
+			{
+				"source_id": 315,
+				"target_id": 700
+			},
+			{
+				"source_id": 315,
+				"target_id": 751
+			},
+			{
+				"source_id": 315,
+				"target_id": 798
+			},
+			{
+				"source_id": 317,
+				"target_id": 544
+			},
+			{
+				"source_id": 317,
+				"target_id": 617
+			},
+			{
+				"source_id": 317,
+				"target_id": 628
+			},
+			{
+				"source_id": 317,
+				"target_id": 726
+			},
+			{
+				"source_id": 317,
+				"target_id": 751
+			},
+			{
+				"source_id": 317,
+				"target_id": 763
+			},
+			{
+				"source_id": 317,
+				"target_id": 776
+			},
+			{
+				"source_id": 317,
+				"target_id": 798
+			},
+			{
+				"source_id": 317,
+				"target_id": 849
+			},
+			{
+				"source_id": 317,
+				"target_id": 872
+			},
+			{
+				"source_id": 326,
+				"target_id": 751
+			},
+			{
+				"source_id": 328,
+				"target_id": 335
+			},
+			{
+				"source_id": 328,
+				"target_id": 736
+			},
+			{
+				"source_id": 328,
+				"target_id": 824
+			},
+			{
+				"source_id": 329,
+				"target_id": 736
+			},
+			{
+				"source_id": 329,
+				"target_id": 824
+			},
+			{
+				"source_id": 332,
+				"target_id": 709
+			},
+			{
+				"source_id": 332,
+				"target_id": 736
+			},
+			{
+				"source_id": 333,
+				"target_id": 736
+			},
+			{
+				"source_id": 333,
+				"target_id": 824
+			},
+			{
+				"source_id": 335,
+				"target_id": 436
+			},
+			{
+				"source_id": 335,
+				"target_id": 709
+			},
+			{
+				"source_id": 335,
+				"target_id": 736
+			},
+			{
+				"source_id": 335,
+				"target_id": 824
+			},
+			{
+				"source_id": 360,
+				"target_id": 545
+			},
+			{
+				"source_id": 360,
+				"target_id": 849
+			},
+			{
+				"source_id": 361,
+				"target_id": 729
+			},
+			{
+				"source_id": 361,
+				"target_id": 731
+			},
+			{
+				"source_id": 378,
+				"target_id": 647
+			},
+			{
+				"source_id": 378,
+				"target_id": 736
+			},
+			{
+				"source_id": 378,
+				"target_id": 755
+			},
+			{
+				"source_id": 378,
+				"target_id": 824
+			},
+			{
+				"source_id": 380,
+				"target_id": 755
+			},
+			{
+				"source_id": 381,
+				"target_id": 755
+			},
+			{
+				"source_id": 382,
+				"target_id": 709
+			},
+			{
+				"source_id": 382,
+				"target_id": 736
+			},
+			{
+				"source_id": 382,
+				"target_id": 824
+			},
+			{
+				"source_id": 384,
+				"target_id": 736
+			},
+			{
+				"source_id": 384,
+				"target_id": 824
+			},
+			{
+				"source_id": 389,
+				"target_id": 545
+			},
+			{
+				"source_id": 389,
+				"target_id": 700
+			},
+			{
+				"source_id": 389,
+				"target_id": 731
+			},
+			{
+				"source_id": 389,
+				"target_id": 832
+			},
+			{
+				"source_id": 397,
+				"target_id": 776
+			},
+			{
+				"source_id": 397,
+				"target_id": 783
+			},
+			{
+				"source_id": 401,
+				"target_id": 736
+			},
+			{
+				"source_id": 401,
+				"target_id": 832
+			},
+			{
+				"source_id": 431,
+				"target_id": 731
+			},
+			{
+				"source_id": 435,
+				"target_id": 618
+			},
+			{
+				"source_id": 436,
+				"target_id": 580
+			},
+			{
+				"source_id": 436,
+				"target_id": 718
+			},
+			{
+				"source_id": 436,
+				"target_id": 736
+			},
+			{
+				"source_id": 436,
+				"target_id": 824
+			},
+			{
+				"source_id": 442,
+				"target_id": 736
+			},
+			{
+				"source_id": 447,
+				"target_id": 566
+			},
+			{
+				"source_id": 447,
+				"target_id": 658
+			},
+			{
+				"source_id": 447,
+				"target_id": 673
+			},
+			{
+				"source_id": 447,
+				"target_id": 709
+			},
+			{
+				"source_id": 447,
+				"target_id": 860
+			},
+			{
+				"source_id": 447,
+				"target_id": 873
+			},
+			{
+				"source_id": 450,
+				"target_id": 709
+			},
+			{
+				"source_id": 450,
+				"target_id": 736
+			},
+			{
+				"source_id": 458,
+				"target_id": 729
+			},
+			{
+				"source_id": 458,
+				"target_id": 730
+			},
+			{
+				"source_id": 458,
+				"target_id": 731
+			},
+			{
+				"source_id": 458,
+				"target_id": 827
+			},
+			{
+				"source_id": 470,
+				"target_id": 534
+			},
+			{
+				"source_id": 470,
+				"target_id": 736
+			},
+			{
+				"source_id": 470,
+				"target_id": 755
+			},
+			{
+				"source_id": 476,
+				"target_id": 673
+			},
+			{
+				"source_id": 476,
+				"target_id": 731
+			},
+			{
+				"source_id": 486,
+				"target_id": 729
+			},
+			{
+				"source_id": 486,
+				"target_id": 731
+			},
+			{
+				"source_id": 490,
+				"target_id": 751
+			},
+			{
+				"source_id": 496,
+				"target_id": 832
+			},
+			{
+				"source_id": 506,
+				"target_id": 544
+			},
+			{
+				"source_id": 506,
+				"target_id": 545
+			},
+			{
+				"source_id": 506,
+				"target_id": 676
+			},
+			{
+				"source_id": 506,
+				"target_id": 751
+			},
+			{
+				"source_id": 506,
+				"target_id": 752
+			},
+			{
+				"source_id": 506,
+				"target_id": 763
+			},
+			{
+				"source_id": 506,
+				"target_id": 798
+			},
+			{
+				"source_id": 506,
+				"target_id": 829
+			},
+			{
+				"source_id": 517,
+				"target_id": 736
+			},
+			{
+				"source_id": 519,
+				"target_id": 901
+			},
+			{
+				"source_id": 527,
+				"target_id": 730
+			},
+			{
+				"source_id": 527,
+				"target_id": 731
+			},
+			{
+				"source_id": 534,
+				"target_id": 736
+			},
+			{
+				"source_id": 538,
+				"target_id": 751
+			},
+			{
+				"source_id": 538,
+				"target_id": 776
+			},
+			{
+				"source_id": 544,
+				"target_id": 683
+			},
+			{
+				"source_id": 544,
+				"target_id": 738
+			},
+			{
+				"source_id": 544,
+				"target_id": 751
+			},
+			{
+				"source_id": 544,
+				"target_id": 763
+			},
+			{
+				"source_id": 544,
+				"target_id": 798
+			},
+			{
+				"source_id": 544,
+				"target_id": 849
+			},
+			{
+				"source_id": 545,
+				"target_id": 700
+			},
+			{
+				"source_id": 545,
+				"target_id": 704
+			},
+			{
+				"source_id": 545,
+				"target_id": 752
+			},
+			{
+				"source_id": 545,
+				"target_id": 774
+			},
+			{
+				"source_id": 545,
+				"target_id": 776
+			},
+			{
+				"source_id": 545,
+				"target_id": 796
+			},
+			{
+				"source_id": 545,
+				"target_id": 849
+			},
+			{
+				"source_id": 545,
+				"target_id": 901
+			},
+			{
+				"source_id": 546,
+				"target_id": 732
+			},
+			{
+				"source_id": 546,
+				"target_id": 776
+			},
+			{
+				"source_id": 548,
+				"target_id": 647
+			},
+			{
+				"source_id": 548,
+				"target_id": 736
+			},
+			{
+				"source_id": 548,
+				"target_id": 755
+			},
+			{
+				"source_id": 551,
+				"target_id": 768
+			},
+			{
+				"source_id": 553,
+				"target_id": 752
+			},
+			{
+				"source_id": 555,
+				"target_id": 624
+			},
+			{
+				"source_id": 555,
+				"target_id": 648
+			},
+			{
+				"source_id": 555,
+				"target_id": 752
+			},
+			{
+				"source_id": 561,
+				"target_id": 647
+			},
+			{
+				"source_id": 561,
+				"target_id": 729
+			},
+			{
+				"source_id": 567,
+				"target_id": 738
+			},
+			{
+				"source_id": 567,
+				"target_id": 798
+			},
+			{
+				"source_id": 567,
+				"target_id": 829
+			},
+			{
+				"source_id": 567,
+				"target_id": 849
+			},
+			{
+				"source_id": 571,
+				"target_id": 738
+			},
+			{
+				"source_id": 571,
+				"target_id": 798
+			},
+			{
+				"source_id": 571,
+				"target_id": 849
+			},
+			{
+				"source_id": 580,
+				"target_id": 709
+			},
+			{
+				"source_id": 580,
+				"target_id": 736
+			},
+			{
+				"source_id": 580,
+				"target_id": 783
+			},
+			{
+				"source_id": 580,
+				"target_id": 824
+			},
+			{
+				"source_id": 617,
+				"target_id": 774
+			},
+			{
+				"source_id": 617,
+				"target_id": 798
+			},
+			{
+				"source_id": 618,
+				"target_id": 709
+			},
+			{
+				"source_id": 618,
+				"target_id": 736
+			},
+			{
+				"source_id": 618,
+				"target_id": 824
+			},
+			{
+				"source_id": 624,
+				"target_id": 648
+			},
+			{
+				"source_id": 628,
+				"target_id": 849
+			},
+			{
+				"source_id": 628,
+				"target_id": 854
+			},
+			{
+				"source_id": 635,
+				"target_id": 776
+			},
+			{
+				"source_id": 635,
+				"target_id": 832
+			},
+			{
+				"source_id": 644,
+				"target_id": 730
+			},
+			{
+				"source_id": 647,
+				"target_id": 736
+			},
+			{
+				"source_id": 647,
+				"target_id": 755
+			},
+			{
+				"source_id": 648,
+				"target_id": 752
+			},
+			{
+				"source_id": 649,
+				"target_id": 829
+			},
+			{
+				"source_id": 652,
+				"target_id": 730
+			},
+			{
+				"source_id": 653,
+				"target_id": 741
+			},
+			{
+				"source_id": 653,
+				"target_id": 849
+			},
+			{
+				"source_id": 658,
+				"target_id": 823
+			},
+			{
+				"source_id": 666,
+				"target_id": 729
+			},
+			{
+				"source_id": 666,
+				"target_id": 730
+			},
+			{
+				"source_id": 666,
+				"target_id": 751
+			},
+			{
+				"source_id": 666,
+				"target_id": 768
+			},
+			{
+				"source_id": 667,
+				"target_id": 729
+			},
+			{
+				"source_id": 667,
+				"target_id": 730
+			},
+			{
+				"source_id": 669,
+				"target_id": 730
+			},
+			{
+				"source_id": 676,
+				"target_id": 849
+			},
+			{
+				"source_id": 677,
+				"target_id": 729
+			},
+			{
+				"source_id": 677,
+				"target_id": 730
+			},
+			{
+				"source_id": 677,
+				"target_id": 731
+			},
+			{
+				"source_id": 677,
+				"target_id": 768
+			},
+			{
+				"source_id": 683,
+				"target_id": 738
+			},
+			{
+				"source_id": 683,
+				"target_id": 798
+			},
+			{
+				"source_id": 696,
+				"target_id": 796
+			},
+			{
+				"source_id": 696,
+				"target_id": 849
+			},
+			{
+				"source_id": 697,
+				"target_id": 798
+			},
+			{
+				"source_id": 698,
+				"target_id": 734
+			},
+			{
+				"source_id": 700,
+				"target_id": 798
+			},
+			{
+				"source_id": 705,
+				"target_id": 832
+			},
+			{
+				"source_id": 705,
+				"target_id": 885
+			},
+			{
+				"source_id": 709,
+				"target_id": 824
+			},
+			{
+				"source_id": 718,
+				"target_id": 736
+			},
+			{
+				"source_id": 718,
+				"target_id": 824
+			},
+			{
+				"source_id": 726,
+				"target_id": 849
+			},
+			{
+				"source_id": 732,
+				"target_id": 768
+			},
+			{
+				"source_id": 734,
+				"target_id": 832
+			},
+			{
+				"source_id": 736,
+				"target_id": 755
+			},
+			{
+				"source_id": 736,
+				"target_id": 824
+			},
+			{
+				"source_id": 736,
+				"target_id": 832
+			},
+			{
+				"source_id": 738,
+				"target_id": 797
+			},
+			{
+				"source_id": 738,
+				"target_id": 798
+			},
+			{
+				"source_id": 740,
+				"target_id": 832
+			},
+			{
+				"source_id": 741,
+				"target_id": 763
+			},
+			{
+				"source_id": 741,
+				"target_id": 797
+			},
+			{
+				"source_id": 741,
+				"target_id": 849
+			},
+			{
+				"source_id": 751,
+				"target_id": 829
+			},
+			{
+				"source_id": 751,
+				"target_id": 849
+			},
+			{
+				"source_id": 752,
+				"target_id": 849
+			},
+			{
+				"source_id": 755,
+				"target_id": 824
+			},
+			{
+				"source_id": 763,
+				"target_id": 829
+			},
+			{
+				"source_id": 763,
+				"target_id": 849
+			},
+			{
+				"source_id": 763,
+				"target_id": 882
+			},
+			{
+				"source_id": 774,
+				"target_id": 798
+			},
+			{
+				"source_id": 774,
+				"target_id": 849
+			},
+			{
+				"source_id": 776,
+				"target_id": 849
+			},
+			{
+				"source_id": 796,
+				"target_id": 849
+			},
+			{
+				"source_id": 798,
+				"target_id": 829
+			},
+			{
+				"source_id": 798,
+				"target_id": 847
+			},
+			{
+				"source_id": 798,
+				"target_id": 849
+			},
+			{
+				"source_id": 829,
+				"target_id": 849
+			},
+			{
+				"source_id": 852,
+				"target_id": 854
+			},
+			{
+				"source_id": 875,
+				"target_id": 880
+			},
+			{
+				"source_id": 875,
+				"target_id": 898
+			}
+		]
+	}
+}
