@@ -28,6 +28,7 @@ def read_network(file_path):
     network = json.load(f)["network"]
     network_items = pd.DataFrame(network["items"])
     network_items["DOI"] = network_items["url"].apply(lambda x: x.replace("https://doi.org/", "").lower() if str(x) != "nan" else np.nan)
+    network_items["Citations"] = network_items["weights"].apply(lambda x: x["Citations"])
     return network_items
 
 def read_bibliography(file_path):
@@ -37,9 +38,10 @@ def read_bibliography(file_path):
 
 def get_docs(df_net, df_biblio):
     relevant_columns = {
-        "LSA": "Title  Abstract  Author Keywords  Index Keywords".split("  ")
+        "LSA": "Title  Abstract  Author Keywords  Index Keywords".split("  "),
+        "others": "Year  Authors".split("  ")
     }
-    df_docs = df_biblio[["id"]+relevant_columns["LSA"]]
+    df_docs = df_biblio[["id"]+relevant_columns["LSA"]+relevant_columns["others"]]
     df_docs = df_docs.merge(df_net, how="inner", on="id")
     df_docs["Abstract"] = df_docs["Abstract"].replace({"[No abstract available]": np.nan})
     df_docs = df_docs.fillna("")
