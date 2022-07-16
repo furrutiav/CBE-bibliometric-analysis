@@ -29,6 +29,7 @@ def read_network(file_path):
     network_items = pd.DataFrame(network["items"])
     network_items["DOI"] = network_items["url"].apply(lambda x: x.replace("https://doi.org/", "").lower() if str(x) != "nan" else np.nan)
     network_items["Citations"] = network_items["weights"].apply(lambda x: x["Citations"])
+    network_items["Links"] = network_items["weights"].apply(lambda x: x["Links"])
     return network_items
 
 def read_bibliography(file_path):
@@ -209,7 +210,7 @@ def plot_strength(strengths, relevant_topics, cluster_id):
     fig.show()
     
 def get_terms_table(df_topics, strengths):
-    df_terms = pd.DataFrame(strengths).drop(columns="Strength").groupby("Topic").aggregate(lambda x: ", ".join(x).replace("_", " ")).rename(columns={"Term": "#Term"}).reset_index()
+    df_terms = pd.DataFrame(strengths).drop(columns="Strength").groupby("Topic").aggregate(lambda x: ", ".join(x).replace("_", " ")).reset_index()
     df_frec_topics = pd.DataFrame(df_topics["Topic"].value_counts()).reset_index().rename(columns={"index": "Topic", "Topic": "#Docs"})
     df_table_terms = df_terms.merge(df_frec_topics, on="Topic", how="outer").set_index("Topic")
     df_table_terms["#Docs"] = df_table_terms["#Docs"].fillna(0).astype(int)
