@@ -1,0 +1,5006 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "alm k. (2022)",
+				"url": "https://doi.org/10.1108/ijshe-12-2020-0484",
+				"x": -0.9452,
+				"y": -0.0398,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8519
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8519
+				}
+			},
+			{
+				"id": 8,
+				"label": "škrinjarić b. (2022)",
+				"url": "https://doi.org/10.1057/s41599-022-01047-1",
+				"x": -0.5512,
+				"y": 0.2615,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 18,
+				"label": "leal m.s. (2022)",
+				"url": "https://doi.org/10.14201/teri.25394",
+				"x": 0.3116,
+				"y": 0.3746,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8519
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8519
+				}
+			},
+			{
+				"id": 19,
+				"label": "birdman j. (2022)",
+				"url": "https://doi.org/10.1108/ijshe-12-2020-0506",
+				"x": -0.7762,
+				"y": 0.0006,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8519
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 2.8519
+				}
+			},
+			{
+				"id": 20,
+				"label": "venn r. (2022)",
+				"url": "https://doi.org/10.3390/su14094916",
+				"x": -0.4255,
+				"y": -0.0787,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 22,
+				"label": "van der baan n. (2022)",
+				"url": "https://doi.org/10.1108/et-11-2020-0341",
+				"x": 0.2264,
+				"y": -0.0967,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 24,
+				"label": "ryan b. (2022)",
+				"url": "https://doi.org/10.1016/j.ijdrr.2022.102882",
+				"x": -0.9636,
+				"y": -0.0956,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 26,
+				"label": "nissilä s.-p. (2022)",
+				"url": "https://doi.org/10.12973/eu-jer.11.2.965",
+				"x": 1.2788,
+				"y": -0.1322,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 30,
+				"label": "zwolińska k. (2022)",
+				"url": "https://doi.org/10.3390/su14063398",
+				"x": -1.0741,
+				"y": -0.0352,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 33,
+				"label": "aleksić a. (2022)",
+				"url": "https://doi.org/10.3390/su14052686",
+				"x": -1.1108,
+				"y": 0.0783,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 41,
+				"label": "de la torre e.m. (2022)",
+				"url": "https://doi.org/10.3390/su14031349",
+				"x": -0.9924,
+				"y": 0.0539,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 8.5556
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 8.5556
+				}
+			},
+			{
+				"id": 48,
+				"label": "noguera-méndez p. (2022)",
+				"url": "https://doi.org/10.1080/13504622.2022.2069680",
+				"x": -0.9112,
+				"y": 0.0381,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 54,
+				"label": "ver steeg j. (2022)",
+				"url": "https://doi.org/10.1016/j.ijme.2022.100661",
+				"x": -0.9060,
+				"y": -0.0520,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 58,
+				"label": "platts e.j. (2022)",
+				"url": "https://doi.org/10.1007/s11191-022-00344-0",
+				"x": -0.8508,
+				"y": -0.2872,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 60,
+				"label": "tarekegne c. (2022)",
+				"url": "https://doi.org/10.1111/ijtd.12265",
+				"x": 0.7675,
+				"y": -0.1330,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 61,
+				"label": "xiang x. (2022)",
+				"url": "https://doi.org/10.1080/00221341.2022.2052936",
+				"x": -0.3746,
+				"y": 0.1604,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 77,
+				"label": "virkkula e. (2022)",
+				"url": "https://doi.org/10.1080/02619768.2020.1806229",
+				"x": 0.8652,
+				"y": -0.1250,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 83,
+				"label": "bükki e. (2021)",
+				"url": "https://doi.org/10.1186/s40461-020-00108-6",
+				"x": 1.2789,
+				"y": -0.1302,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 87,
+				"label": "redman a. (2021a)",
+				"url": "https://doi.org/10.3389/feduc.2021.785163",
+				"x": -0.6425,
+				"y": -0.1602,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				}
+			},
+			{
+				"id": 89,
+				"label": "imara k. (2021)",
+				"url": "https://doi.org/10.3390/su132212555",
+				"x": -0.7967,
+				"y": -0.2545,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				}
+			},
+			{
+				"id": 90,
+				"label": "brauer s. (2021)",
+				"url": "https://doi.org/10.1108/et-07-2020-0216",
+				"x": 0.6525,
+				"y": -0.0840,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 94,
+				"label": "redman a. (2021b)",
+				"url": "https://doi.org/10.1089/scc.2021.0024",
+				"x": -0.7940,
+				"y": -0.2088,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 95,
+				"label": "curtis h.l. (2021)",
+				"url": "https://doi.org/10.3390/su131910816",
+				"x": -0.2635,
+				"y": -0.0920,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 100,
+				"label": "konrad t. (2021)",
+				"url": "https://doi.org/10.3390/su13179884",
+				"x": -0.9043,
+				"y": -0.1508,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 105,
+				"label": "pálsdóttir a. (2021)",
+				"url": "https://doi.org/10.3390/su13168945",
+				"x": -0.9058,
+				"y": -0.0551,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				}
+			},
+			{
+				"id": 115,
+				"label": "teresa fuertes‐camacho m. (2021)",
+				"url": "https://doi.org/10.3390/su13116261",
+				"x": -0.9082,
+				"y": 0.0490,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.8576
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.8576
+				}
+			},
+			{
+				"id": 116,
+				"label": "kwon i.-s. (2021)",
+				"url": "https://doi.org/10.3390/su13115801",
+				"x": -0.8024,
+				"y": -0.3819,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7430
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7430
+				}
+			},
+			{
+				"id": 126,
+				"label": "guitert m. (2021)",
+				"url": "https://doi.org/10.1111/ejed.12430",
+				"x": 0.4438,
+				"y": 0.3708,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				}
+			},
+			{
+				"id": 136,
+				"label": "merma-molina g. (2021)",
+				"url": "https://doi.org/10.3390/su13031479",
+				"x": -0.9072,
+				"y": 0.0525,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				}
+			},
+			{
+				"id": 139,
+				"label": "birdman j. (2021)",
+				"url": "https://doi.org/10.1108/ijshe-08-2019-0242",
+				"x": -0.7680,
+				"y": -0.0086,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				}
+			},
+			{
+				"id": 142,
+				"label": "sumter d. (2021)",
+				"url": "https://doi.org/10.3390/su13020776",
+				"x": -0.9103,
+				"y": 0.0417,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 4.4582
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 4.4582
+				}
+			},
+			{
+				"id": 143,
+				"label": "mróz a. (2021)",
+				"url": "https://doi.org/10.3390/su13020571",
+				"x": -0.9005,
+				"y": -0.2510,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4861
+				}
+			},
+			{
+				"id": 152,
+				"label": "misbah z. (2021)",
+				"url": "https://doi.org/10.1007/s10984-021-09395-6",
+				"x": 1.0658,
+				"y": -0.2316,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 154,
+				"label": "lozano r. (2021)",
+				"url": "https://doi.org/10.1002/sd.2253",
+				"x": -0.8555,
+				"y": -0.1840,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				}
+			},
+			{
+				"id": 156,
+				"label": "kononiuk a. (2021)",
+				"url": "https://doi.org/10.17323/2500-2597.2021.3.105.121",
+				"x": -0.8812,
+				"y": 0.1024,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 157,
+				"label": "tahirsylaj a. (2021a)",
+				"url": "https://doi.org/10.1080/10564934.2021.1971541",
+				"x": 0.1816,
+				"y": 0.4826,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 159,
+				"label": "chen p. (2021)",
+				"url": "https://doi.org/10.13152/ijrvet.8.4.2",
+				"x": 0.8141,
+				"y": -0.0852,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 162,
+				"label": "alm k. (2021)",
+				"url": "https://doi.org/10.1108/ijshe-10-2020-0417",
+				"x": -0.8659,
+				"y": -0.1310,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				}
+			},
+			{
+				"id": 167,
+				"label": "wilson-daily a.e. (2021)",
+				"url": "https://doi.org/10.1080/13664530.2021.1930127",
+				"x": 0.8430,
+				"y": 0.2611,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 172,
+				"label": "ortiz-revilla j. (2021)",
+				"url": "https://doi.org/10.1080/02103702.2021.1925473",
+				"x": 0.8437,
+				"y": 0.4675,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3715
+				}
+			},
+			{
+				"id": 183,
+				"label": "diego-mantecón j.-m. (2021)",
+				"url": "https://doi.org/10.3916/c66-2021-03",
+				"x": 1.2866,
+				"y": -0.2741,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 2.6006
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 2.6006
+				}
+			},
+			{
+				"id": 184,
+				"label": "clément p. (2021)",
+				"url": "https://doi.org/10.1080/03050068.2020.1845062",
+				"x": -0.0535,
+				"y": 0.4755,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7430
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7430
+				}
+			},
+			{
+				"id": 185,
+				"label": "tahirsylaj a. (2021b)",
+				"url": "https://doi.org/10.1080/03050068.2020.1845066",
+				"x": 0.2673,
+				"y": 0.4526,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.1146
+				}
+			},
+			{
+				"id": 192,
+				"label": "brundiers k. (2021)",
+				"url": "https://doi.org/10.1007/s11625-020-00838-2",
+				"x": -0.6901,
+				"y": -0.2640,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Citations": 76.0000,
+					"Norm. citations": 28.2353
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 76.0000,
+					"Norm. citations": 28.2353
+				}
+			},
+			{
+				"id": 199,
+				"label": "gonzález‐salamanca j.c. (2020)",
+				"url": "https://doi.org/10.3390/su122410366",
+				"x": -0.9607,
+				"y": -0.1161,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 2.0783
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 2.0783
+				}
+			},
+			{
+				"id": 210,
+				"label": "lópez l.m.g. (2020)",
+				"url": "https://doi.org/10.30827/profesorado.v24i3.8236",
+				"x": 0.5131,
+				"y": 0.4378,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4618
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4618
+				}
+			},
+			{
+				"id": 224,
+				"label": "tahirsylaj a. (2020)",
+				"url": "https://doi.org/10.1007/s41297-020-00112-6",
+				"x": 0.2416,
+				"y": 0.2727,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 2.0783
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 2.0783
+				}
+			},
+			{
+				"id": 227,
+				"label": "fernández-martín f.-d. (2020)",
+				"url": "https://doi.org/10.3390/su12166653",
+				"x": 0.3304,
+				"y": 0.5259,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6928
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6928
+				}
+			},
+			{
+				"id": 230,
+				"label": "ravenscroft a. (2020)",
+				"url": "https://doi.org/10.1080/13603116.2018.1503739",
+				"x": 0.3338,
+				"y": 0.5242,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6928
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6928
+				}
+			},
+			{
+				"id": 234,
+				"label": "mishra d. (2020)",
+				"url": "https://doi.org/10.3390/su12145769",
+				"x": -0.7066,
+				"y": -0.2893,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4618
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4618
+				}
+			},
+			{
+				"id": 235,
+				"label": "ayers j. (2020)",
+				"url": "https://doi.org/10.3390/su12135389",
+				"x": -0.9952,
+				"y": -0.1504,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.3092
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.3092
+				}
+			},
+			{
+				"id": 240,
+				"label": "seo e. (2020)",
+				"url": "https://doi.org/10.1080/13504622.2020.1733493",
+				"x": -0.9125,
+				"y": 0.0307,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.1546
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.1546
+				}
+			},
+			{
+				"id": 241,
+				"label": "kepanen p. (2020)",
+				"url": "https://doi.org/10.1007/s42087-019-00080-y",
+				"x": 0.8836,
+				"y": -0.0905,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 249,
+				"label": "salovaara j.j. (2020)",
+				"url": "https://doi.org/10.1007/s11625-019-00745-1",
+				"x": -0.8240,
+				"y": -0.2475,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.8474
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.8474
+				}
+			},
+			{
+				"id": 253,
+				"label": "napal m. (2020)",
+				"url": "https://doi.org/10.3390/su12083366",
+				"x": -0.4057,
+				"y": -0.0904,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 3.2329
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 3.2329
+				}
+			},
+			{
+				"id": 257,
+				"label": "placklé i. (2020)",
+				"url": "https://doi.org/10.1080/02619768.2019.1681965",
+				"x": 1.3101,
+				"y": -0.2199,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9237
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9237
+				}
+			},
+			{
+				"id": 268,
+				"label": "konrad t. (2020)",
+				"url": "https://doi.org/10.1108/ijshe-06-2019-0190",
+				"x": -0.6609,
+				"y": -0.1025,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 3.6948
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 3.6948
+				}
+			},
+			{
+				"id": 269,
+				"label": "fokdal j. (2020)",
+				"url": "https://doi.org/10.1108/ijshe-01-2019-0045",
+				"x": -1.0764,
+				"y": -0.1197,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9237
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9237
+				}
+			},
+			{
+				"id": 276,
+				"label": "mahfud t. (2020)",
+				"url": "https://doi.org/10.30880/jtet.2020.12.04.003",
+				"x": -0.7596,
+				"y": 0.4603,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 281,
+				"label": "palsa l. (2020)",
+				"url": "https://doi.org/10.1080/20004508.2020.1855827",
+				"x": 0.3268,
+				"y": 0.5275,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9237
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9237
+				}
+			},
+			{
+				"id": 285,
+				"label": "van griethuijsen r.a.l.f. (2020)",
+				"url": "https://doi.org/10.1080/13636820.2019.1644364",
+				"x": 0.8812,
+				"y": -0.0934,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.1546
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.1546
+				}
+			},
+			{
+				"id": 311,
+				"label": "misbah z. (2020)",
+				"url": "https://doi.org/10.1080/13636820.2019.1635634",
+				"x": 0.9895,
+				"y": -0.1241,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.3855
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.3855
+				}
+			},
+			{
+				"id": 324,
+				"label": "soini k. (2019)",
+				"url": "https://doi.org/10.1108/ijshe-11-2018-0215",
+				"x": -0.8714,
+				"y": -0.0444,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.9276
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.9276
+				}
+			},
+			{
+				"id": 325,
+				"label": "frank p. (2019)",
+				"url": "https://doi.org/10.1108/ijshe-12-2018-0239",
+				"x": -1.0680,
+				"y": -0.2261,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.7793
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.7793
+				}
+			},
+			{
+				"id": 328,
+				"label": "tahirsylaj a. (2019)",
+				"url": "https://doi.org/10.1080/09585176.2019.1615523",
+				"x": 0.2657,
+				"y": 0.5562,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.3345
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.3345
+				}
+			},
+			{
+				"id": 335,
+				"label": "saadvandi m. (2019)",
+				"url": "https://doi.org/10.1080/1389224x.2019.1627225",
+				"x": 0.7483,
+				"y": -0.0950,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4448
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4448
+				}
+			},
+			{
+				"id": 337,
+				"label": "misbah z. (2019)",
+				"url": "https://doi.org/10.1007/s10984-018-9276-y",
+				"x": 0.7715,
+				"y": -0.2400,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.5931
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.5931
+				}
+			},
+			{
+				"id": 347,
+				"label": "escalié g. (2019)",
+				"url": "https://doi.org/10.1080/13573322.2017.1397507",
+				"x": 0.7013,
+				"y": -0.0217,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.7793
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.7793
+				}
+			},
+			{
+				"id": 349,
+				"label": "giangrande n. (2019)",
+				"url": "https://doi.org/10.3390/su11102832",
+				"x": -0.5576,
+				"y": -0.2005,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 8.4517
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 8.4517
+				}
+			},
+			{
+				"id": 350,
+				"label": "lópez-alcarria a. (2019)",
+				"url": "https://doi.org/10.3390/su11102915",
+				"x": -0.9242,
+				"y": -0.2003,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 3.8552
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 3.8552
+				}
+			},
+			{
+				"id": 353,
+				"label": "carrascal s. (2019)",
+				"url": "https://doi.org/10.3390/su11082317",
+				"x": -0.9118,
+				"y": 0.0344,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.0379
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.0379
+				}
+			},
+			{
+				"id": 354,
+				"label": "eizaguirre a. (2019)",
+				"url": "https://doi.org/10.3390/su11082303",
+				"x": -0.9225,
+				"y": -0.2044,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 4.8931
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 4.8931
+				}
+			},
+			{
+				"id": 356,
+				"label": "vare p. (2019)",
+				"url": "https://doi.org/10.3390/su11071890",
+				"x": -0.7520,
+				"y": -0.2310,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 5.4862
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 5.4862
+				}
+			},
+			{
+				"id": 381,
+				"label": "geitz g. (2019)",
+				"url": "https://doi.org/10.1080/2331186x.2019.1647919",
+				"x": 0.7183,
+				"y": -0.2207,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.8897
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.8897
+				}
+			},
+			{
+				"id": 382,
+				"label": "meroño l. (2019)",
+				"url": "https://doi.org/10.1080/11356405.2018.1561108",
+				"x": 0.1519,
+				"y": 0.4540,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2966
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2966
+				}
+			},
+			{
+				"id": 399,
+				"label": "singer-brodowski m. (2018)",
+				"url": "https://doi.org/10.1108/ijshe-12-2017-0223",
+				"x": -0.5785,
+				"y": 0.0106,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7794
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7794
+				}
+			},
+			{
+				"id": 401,
+				"label": "kater-wettstädt l. (2018)",
+				"url": "https://doi.org/10.1080/13504622.2017.1373068",
+				"x": -0.8357,
+				"y": -0.1238,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5567
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5567
+				}
+			},
+			{
+				"id": 402,
+				"label": "garrecht c. (2018)",
+				"url": "https://doi.org/10.3390/su10113876",
+				"x": -0.8341,
+				"y": -0.1303,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 2.1155
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 2.1155
+				}
+			},
+			{
+				"id": 403,
+				"label": "colás-bravo p. (2018)",
+				"url": "https://doi.org/10.3390/su10103700",
+				"x": -0.9058,
+				"y": -0.0582,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.4474
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.4474
+				}
+			},
+			{
+				"id": 405,
+				"label": "straková z. (2018)",
+				"url": "https://doi.org/10.3390/su10103366",
+				"x": -0.9258,
+				"y": -0.1962,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 39.0000,
+					"Norm. citations": 4.3423
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 39.0000,
+					"Norm. citations": 4.3423
+				}
+			},
+			{
+				"id": 410,
+				"label": "morselli d. (2018)",
+				"url": "https://doi.org/10.1108/et-03-2017-0046",
+				"x": 0.2893,
+				"y": 0.0188,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.1134
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.1134
+				}
+			},
+			{
+				"id": 418,
+				"label": "bautista-mesa r. (2018)",
+				"url": "https://doi.org/10.1080/09639284.2018.1476895",
+				"x": 0.0975,
+				"y": -0.1570,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.2247
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.2247
+				}
+			},
+			{
+				"id": 421,
+				"label": "maruna m. (2018)",
+				"url": "https://doi.org/10.1108/ijshe-07-2017-0102",
+				"x": -1.1859,
+				"y": -0.1338,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.5588
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.5588
+				}
+			},
+			{
+				"id": 422,
+				"label": "kudo s. (2018)",
+				"url": "https://doi.org/10.3390/su10041155",
+				"x": -0.3463,
+				"y": -0.0695,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4454
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4454
+				}
+			},
+			{
+				"id": 423,
+				"label": "schuler s. (2018)",
+				"url": "https://doi.org/10.1080/03098265.2017.1339264",
+				"x": -0.7904,
+				"y": -0.2879,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 3.8969
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 3.8969
+				}
+			},
+			{
+				"id": 452,
+				"label": "garcía-lópez l.m. (2018)",
+				"url": "https://doi.org/10.7821/naer.2018.1.255",
+				"x": 0.4127,
+				"y": 0.5050,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7794
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7794
+				}
+			},
+			{
+				"id": 456,
+				"label": "quiroz-niño c. (2017)",
+				"url": "https://doi.org/10.3390/su9122164",
+				"x": -1.1136,
+				"y": -0.0593,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.8268
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.8268
+				}
+			},
+			{
+				"id": 457,
+				"label": "ojala m. (2017)",
+				"url": "https://doi.org/10.1016/j.futures.2016.10.004",
+				"x": -0.6085,
+				"y": -0.2600,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 5.3728
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 5.3728
+				}
+			},
+			{
+				"id": 463,
+				"label": "keeler l.w. (2017)",
+				"url": "https://doi.org/10.1089/sus.2017.0011",
+				"x": -0.9629,
+				"y": -0.1023,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.8596
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.8596
+				}
+			},
+			{
+				"id": 468,
+				"label": "chang w.-h. (2017)",
+				"url": "https://doi.org/10.1111/jcal.12192",
+				"x": -0.3164,
+				"y": 0.3323,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.0746
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.0746
+				}
+			},
+			{
+				"id": 471,
+				"label": "jayakumar t. (2017)",
+				"url": "https://doi.org/10.1108/jwam-02-2017-0004",
+				"x": -0.9094,
+				"y": 0.0454,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3224
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3224
+				}
+			},
+			{
+				"id": 479,
+				"label": "buscà donet f. (2017)",
+				"url": "https://doi.org/10.1080/02619768.2017.1281908",
+				"x": -0.0138,
+				"y": 0.3432,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4298
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4298
+				}
+			},
+			{
+				"id": 491,
+				"label": "tziganuk a. (2017)",
+				"url": "https://doi.org/10.1108/ijshe-01-2016-0006",
+				"x": -0.9043,
+				"y": -0.1264,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5373
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5373
+				}
+			},
+			{
+				"id": 497,
+				"label": "meroño l. (2017)",
+				"url": "https://doi.org/10.1080/11356405.2017.1318470",
+				"x": 0.0152,
+				"y": 0.4211,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5373
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5373
+				}
+			},
+			{
+				"id": 507,
+				"label": "lleixà t. (2016)",
+				"url": "https://doi.org/10.1177/1356336x15621497",
+				"x": 0.3028,
+				"y": 0.4039,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.1977
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.1977
+				}
+			},
+			{
+				"id": 511,
+				"label": "cremers p.h.m. (2016)",
+				"url": "https://doi.org/10.1007/s10984-016-9209-6",
+				"x": 0.7012,
+				"y": -0.0281,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.8426
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.8426
+				}
+			},
+			{
+				"id": 517,
+				"label": "morselli d. (2016)",
+				"url": "https://doi.org/10.1108/et-02-2016-0038",
+				"x": -0.1011,
+				"y": -0.1784,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.7370
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.7370
+				}
+			},
+			{
+				"id": 524,
+				"label": "jerez o. (2016)",
+				"url": "https://doi.org/10.1080/13540602.2015.1082728",
+				"x": 0.7617,
+				"y": -0.1047,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3685
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3685
+				}
+			},
+			{
+				"id": 527,
+				"label": "wijnia l. (2016)",
+				"url": "https://doi.org/10.1016/j.tate.2016.02.006",
+				"x": 0.8505,
+				"y": -0.1612,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 2.1190
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 2.1190
+				}
+			},
+			{
+				"id": 538,
+				"label": "migliorini p. (2016)",
+				"url": "https://doi.org/10.3390/su8121243",
+				"x": -0.9619,
+				"y": -0.1091,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.0134
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.0134
+				}
+			},
+			{
+				"id": 540,
+				"label": "nikitina n.i. (2016)",
+				"x": 0.7844,
+				"y": -0.3585,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 548,
+				"label": "de-juanas oliva á. (2016)",
+				"url": "https://doi.org/10.1080/13664530.2015.1101390",
+				"x": 0.3229,
+				"y": 0.5580,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.1977
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.1977
+				}
+			},
+			{
+				"id": 556,
+				"label": "mcgibbon c. (2015)",
+				"url": "https://doi.org/10.1016/j.cosust.2015.07.013",
+				"x": -0.9953,
+				"y": -0.1332,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4104
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4104
+				}
+			},
+			{
+				"id": 560,
+				"label": "bergsmann e. (2015)",
+				"url": "https://doi.org/10.1016/j.evalprogplan.2015.03.001",
+				"x": 0.1151,
+				"y": -0.0791,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 4.0970
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 4.0970
+				}
+			},
+			{
+				"id": 566,
+				"label": "misbah z. (2015)",
+				"url": "https://doi.org/10.1016/j.tate.2015.04.007",
+				"x": 0.9245,
+				"y": -0.1489,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 2.3507
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 2.3507
+				}
+			},
+			{
+				"id": 567,
+				"label": "koenen a.-k. (2015)",
+				"url": "https://doi.org/10.1016/j.tate.2015.04.001",
+				"x": 0.5546,
+				"y": -0.1309,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 48.0000,
+					"Norm. citations": 3.2239
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 48.0000,
+					"Norm. citations": 3.2239
+				}
+			},
+			{
+				"id": 568,
+				"label": "hernandez-linares r. (2015)",
+				"url": "https://doi.org/10.15516/cje.v17i2.1062",
+				"x": 0.4545,
+				"y": 0.0767,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4030
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4030
+				}
+			},
+			{
+				"id": 570,
+				"label": "remington-doucette s. (2015)",
+				"url": "https://doi.org/10.1108/ijshe-01-2013-0005",
+				"x": -0.6250,
+				"y": 0.0419,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6119
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 1.6119
+				}
+			},
+			{
+				"id": 573,
+				"label": "gordon j. (2015)",
+				"url": "https://doi.org/10.1080/0305764x.2014.904275",
+				"x": 0.5240,
+				"y": 0.4828,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4701
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4701
+				}
+			},
+			{
+				"id": 575,
+				"label": "nissilä s.-p. (2015)",
+				"x": 1.0279,
+				"y": 0.0759,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8060
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8060
+				}
+			},
+			{
+				"id": 577,
+				"label": "van dinther m. (2015)",
+				"url": "https://doi.org/10.1016/j.tate.2015.02.013",
+				"x": 1.0833,
+				"y": 0.0551,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.2090
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.2090
+				}
+			},
+			{
+				"id": 583,
+				"label": "contreras l.e.v. (2015)",
+				"url": "https://doi.org/10.1007/s10668-015-9622-5",
+				"x": -0.1712,
+				"y": 0.1956,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 588,
+				"label": "soparat s. (2015)",
+				"url": "https://doi.org/10.21890/ijres.01778",
+				"x": -0.3758,
+				"y": 0.4462,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 0.9403
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 0.9403
+				}
+			},
+			{
+				"id": 589,
+				"label": "wesselink r. (2015)",
+				"url": "https://doi.org/10.6092/issn.1825-8670/5537",
+				"x": 1.1525,
+				"y": -0.2381,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1343
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1343
+				}
+			},
+			{
+				"id": 593,
+				"label": "ronchetti m. (2015)",
+				"url": "https://doi.org/10.6092/issn.1825-8670/5572",
+				"x": 1.1031,
+				"y": -0.2657,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2015
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2015
+				}
+			},
+			{
+				"id": 602,
+				"label": "gardiner s. (2015)",
+				"url": "https://doi.org/10.3390/su70810554",
+				"x": -0.3865,
+				"y": -0.1745,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.2090
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.2090
+				}
+			},
+			{
+				"id": 634,
+				"label": "caena f. (2014)",
+				"url": "https://doi.org/10.1111/ejed.12088",
+				"x": 0.6051,
+				"y": 0.5457,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 51.0000,
+					"Norm. citations": 3.0770
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 51.0000,
+					"Norm. citations": 3.0770
+				}
+			},
+			{
+				"id": 640,
+				"label": "khaled a.e. (2014)",
+				"url": "https://doi.org/10.1177/0734282914523913",
+				"x": 0.9301,
+				"y": -0.2887,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.7240
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.7240
+				}
+			},
+			{
+				"id": 641,
+				"label": "murga-menoyo m.a. (2014)",
+				"url": "https://doi.org/10.3390/su6052974",
+				"x": -0.9835,
+				"y": -0.0573,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.7497
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.7497
+				}
+			},
+			{
+				"id": 647,
+				"label": "van dinther m. (2014)",
+				"url": "https://doi.org/10.1080/03055698.2014.898577",
+				"x": 1.0830,
+				"y": -0.0337,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.3273
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.3273
+				}
+			},
+			{
+				"id": 651,
+				"label": "boahin p. (2014)",
+				"url": "https://doi.org/10.1016/j.ijedudev.2013.11.003",
+				"x": 1.0066,
+				"y": -0.3777,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 1.6290
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 1.6290
+				}
+			},
+			{
+				"id": 658,
+				"label": "gonzalez j.m.g. (2014)",
+				"url": "https://doi.org/10.1080/02671522.2012.745895",
+				"x": 0.1575,
+				"y": -0.1010,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.7843
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.7843
+				}
+			},
+			{
+				"id": 667,
+				"label": "cubero l.n. (2013)",
+				"x": 0.2907,
+				"y": 0.6234,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1382
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1382
+				}
+			},
+			{
+				"id": 670,
+				"label": "remington-doucette s.m. (2013)",
+				"url": "https://doi.org/10.1108/ijshe-01-2012-0001",
+				"x": -0.4058,
+				"y": 0.0740,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 5.1813
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 5.1813
+				}
+			},
+			{
+				"id": 671,
+				"label": "van dinther m. (2013)",
+				"url": "https://doi.org/10.1016/j.stueduc.2013.05.001",
+				"x": 1.0831,
+				"y": 0.0566,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1744
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.1744
+				}
+			},
+			{
+				"id": 672,
+				"label": "kamphorst j.c. (2013)",
+				"url": "https://doi.org/10.1080/02602938.2012.680015",
+				"x": 1.0885,
+				"y": -0.1758,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8290
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8290
+				}
+			},
+			{
+				"id": 675,
+				"label": "olmos rueda p. (2013)",
+				"x": 0.2936,
+				"y": 0.6226,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8290
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8290
+				}
+			},
+			{
+				"id": 676,
+				"label": "runhaar p. (2013)",
+				"url": "https://doi.org/10.1080/13636820.2013.783612",
+				"x": 1.0919,
+				"y": -0.3141,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.0363
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.0363
+				}
+			},
+			{
+				"id": 681,
+				"label": "takayama k. (2013)",
+				"url": "https://doi.org/10.1080/00220272.2012.755711",
+				"x": -0.0402,
+				"y": 0.3629,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7271
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7271
+				}
+			},
+			{
+				"id": 685,
+				"label": "valle j. (2013)",
+				"url": "https://doi.org/10.4438/1988-592x-re-2013-ext-255",
+				"x": 0.7511,
+				"y": 0.3965,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7271
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7271
+				}
+			},
+			{
+				"id": 687,
+				"label": "bentham h. (2013)",
+				"url": "https://doi.org/10.2478/jtes-2013-0009",
+				"x": -0.9098,
+				"y": -0.3372,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5527
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5527
+				}
+			},
+			{
+				"id": 689,
+				"label": "byrne j. (2013a)",
+				"url": "https://doi.org/10.1080/09585176.2012.731008",
+				"x": 0.3441,
+				"y": 0.2510,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1382
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1382
+				}
+			},
+			{
+				"id": 690,
+				"label": "downey c. (2013a)",
+				"url": "https://doi.org/10.1080/09585176.2012.731012",
+				"x": 0.1353,
+				"y": 0.4687,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2073
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2073
+				}
+			},
+			{
+				"id": 692,
+				"label": "byrne j. (2013b)",
+				"url": "https://doi.org/10.1080/09585176.2012.731007",
+				"x": 0.2965,
+				"y": 0.6217,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2763
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2763
+				}
+			},
+			{
+				"id": 696,
+				"label": "rieckmann m. (2013)",
+				"url": "https://doi.org/10.1080/13504622.2012.697547",
+				"x": -0.1339,
+				"y": 0.4063,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4836
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4836
+				}
+			},
+			{
+				"id": 699,
+				"label": "truijen k.j.p. (2013)",
+				"url": "https://doi.org/10.1108/13665621311288485",
+				"x": 1.0182,
+				"y": -0.2299,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4508
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4508
+				}
+			},
+			{
+				"id": 700,
+				"label": "leat d. (2012)",
+				"url": "https://doi.org/10.2304/eerj.2012.11.3.400",
+				"x": 0.2831,
+				"y": 0.4003,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.5289
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.5289
+				}
+			},
+			{
+				"id": 707,
+				"label": "de bruijn e. (2012)",
+				"url": "https://doi.org/10.1080/13540602.2012.746499",
+				"x": 1.1344,
+				"y": -0.1215,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 1.2611
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 1.2611
+				}
+			},
+			{
+				"id": 720,
+				"label": "winters a. (2012)",
+				"url": "https://doi.org/10.1080/13636820.2012.691536",
+				"x": 0.8662,
+				"y": -0.3509,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2441
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2441
+				}
+			},
+			{
+				"id": 721,
+				"label": "mulder m. (2012a)",
+				"url": "https://doi.org/10.1080/1389224x.2012.692527",
+				"x": 1.0465,
+				"y": -0.1536,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.2848
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.2848
+				}
+			},
+			{
+				"id": 722,
+				"label": "bronkhorst l.h. (2012)",
+				"url": "https://doi.org/10.1080/0969594x.2011.570731",
+				"x": -0.1063,
+				"y": -0.3400,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1220
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1220
+				}
+			},
+			{
+				"id": 724,
+				"label": "mulder m. (2012b)",
+				"url": "https://doi.org/10.1080/1389224x.2012.670048",
+				"x": 0.5860,
+				"y": -0.0620,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 1.2611
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 1.2611
+				}
+			},
+			{
+				"id": 728,
+				"label": "malone k. (2012)",
+				"url": "https://doi.org/10.1007/s10459-010-9247-2",
+				"x": 0.7104,
+				"y": -0.1666,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 2.4409
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 2.4409
+				}
+			},
+			{
+				"id": 729,
+				"label": "azevedo a. (2012)",
+				"url": "https://doi.org/10.1016/j.ijme.2012.02.002",
+				"x": -0.3466,
+				"y": 0.1239,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 109.0000,
+					"Norm. citations": 4.4342
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 109.0000,
+					"Norm. citations": 4.4342
+				}
+			},
+			{
+				"id": 733,
+				"label": "rieckmann m. (2012)",
+				"url": "https://doi.org/10.1016/j.futures.2011.09.005",
+				"x": -0.7016,
+				"y": 0.0263,
+				"cluster": 1,
+				"weights": {
+					"Links": 27.0000,
+					"Citations": 377.0000,
+					"Norm. citations": 15.3368
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 377.0000,
+					"Norm. citations": 15.3368
+				}
+			},
+			{
+				"id": 742,
+				"label": "wals a.e.j. (2012)",
+				"url": "https://doi.org/10.1108/09696471211190338",
+				"x": -0.7572,
+				"y": -0.3073,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 2.5629
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 2.5629
+				}
+			},
+			{
+				"id": 750,
+				"label": "koopman m. (2011)",
+				"url": "https://doi.org/10.1007/s10984-011-9092-0",
+				"x": 0.9038,
+				"y": -0.2147,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.2227
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.2227
+				}
+			},
+			{
+				"id": 753,
+				"label": "dabrowski m. (2011)",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01483.x",
+				"x": 0.0864,
+				"y": 0.3159,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 0.3712
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 0.3712
+				}
+			},
+			{
+				"id": 754,
+				"label": "tiana a. (2011)",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01482.x",
+				"x": 0.2481,
+				"y": 0.4761,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 0.6496
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 0.6496
+				}
+			},
+			{
+				"id": 755,
+				"label": "pepper d. (2011)",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01484.x",
+				"x": 0.2605,
+				"y": 0.3777,
+				"cluster": 3,
+				"weights": {
+					"Links": 15.0000,
+					"Citations": 65.0000,
+					"Norm. citations": 1.2063
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 65.0000,
+					"Norm. citations": 1.2063
+				}
+			},
+			{
+				"id": 756,
+				"label": "halász g. (2011)",
+				"url": "https://doi.org/10.1111/j.1465-3435.2011.01491.x",
+				"x": 0.4827,
+				"y": 0.2513,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 122.0000,
+					"Norm. citations": 2.2642
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 122.0000,
+					"Norm. citations": 2.2642
+				}
+			},
+			{
+				"id": 758,
+				"label": "baartman l.k.j. (2011)",
+				"url": "https://doi.org/10.1016/j.evalprogplan.2011.03.001",
+				"x": -0.1011,
+				"y": -0.2485,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.2784
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.2784
+				}
+			},
+			{
+				"id": 760,
+				"label": "wiek a. (2011)",
+				"url": "https://doi.org/10.1007/s11625-011-0132-6",
+				"x": -0.7245,
+				"y": -0.0736,
+				"cluster": 1,
+				"weights": {
+					"Links": 55.0000,
+					"Citations": 1033.0000,
+					"Norm. citations": 19.1714
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 1033.0000,
+					"Norm. citations": 19.1714
+				}
+			},
+			{
+				"id": 762,
+				"label": "de bruijn e. (2011)",
+				"url": "https://doi.org/10.1016/j.tate.2010.11.007",
+				"x": 1.1472,
+				"y": -0.1903,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 100.0000,
+					"Norm. citations": 1.8559
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 100.0000,
+					"Norm. citations": 1.8559
+				}
+			},
+			{
+				"id": 764,
+				"label": "gekara v.o. (2011)",
+				"url": "https://doi.org/10.1080/13636820.2010.536850",
+				"x": -0.0939,
+				"y": -0.1787,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.2413
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.2413
+				}
+			},
+			{
+				"id": 765,
+				"label": "seezink a. (2011)",
+				"url": "https://doi.org/10.1007/s12564-010-9115-z",
+				"x": 1.1670,
+				"y": -0.2932,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.2041
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.2041
+				}
+			},
+			{
+				"id": 778,
+				"label": "wesselink r. (2010a)",
+				"url": "https://doi.org/10.1080/00220271003759249",
+				"x": 0.5476,
+				"y": -0.0298,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 1.0256
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 1.0256
+				}
+			},
+			{
+				"id": 779,
+				"label": "struyven k. (2010)",
+				"url": "https://doi.org/10.1016/j.tate.2010.05.006",
+				"x": 0.8755,
+				"y": 0.0399,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 1.6077
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 1.6077
+				}
+			},
+			{
+				"id": 782,
+				"label": "brundiers k. (2010)",
+				"url": "https://doi.org/10.1108/14676371011077540",
+				"x": -0.6726,
+				"y": -0.0846,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Citations": 314.0000,
+					"Norm. citations": 8.7036
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 314.0000,
+					"Norm. citations": 8.7036
+				}
+			},
+			{
+				"id": 790,
+				"label": "seezink a. (2010)",
+				"url": "https://doi.org/10.1108/03090591011049819",
+				"x": 1.0406,
+				"y": -0.2855,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.4158
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.4158
+				}
+			},
+			{
+				"id": 795,
+				"label": "hoskins b. (2010)",
+				"url": "https://doi.org/10.1111/j.1465-3435.2009.01419.x",
+				"x": 0.4462,
+				"y": 0.3913,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 1.5245
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 55.0000,
+					"Norm. citations": 1.5245
+				}
+			},
+			{
+				"id": 801,
+				"label": "wesselink r. (2010b)",
+				"url": "https://doi.org/10.1007/s12186-009-9027-4",
+				"x": 0.8117,
+				"y": -0.2049,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.3582
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.3582
+				}
+			},
+			{
+				"id": 803,
+				"label": "mulder m. (2009)",
+				"url": "https://doi.org/10.1108/03090590910993616",
+				"x": 0.3843,
+				"y": -0.1259,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 96.0000,
+					"Norm. citations": 4.7816
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 96.0000,
+					"Norm. citations": 4.7816
+				}
+			},
+			{
+				"id": 810,
+				"label": "schaeper h. (2009)",
+				"url": "https://doi.org/10.1080/03075070802669207",
+				"x": -0.1068,
+				"y": -0.1696,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.4943
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.4943
+				}
+			},
+			{
+				"id": 822,
+				"label": "zehrer a. (2009)",
+				"url": "https://doi.org/10.1080/15313220903445215",
+				"x": -0.6834,
+				"y": 0.3888,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 74.0000,
+					"Norm. citations": 3.6858
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 74.0000,
+					"Norm. citations": 3.6858
+				}
+			},
+			{
+				"id": 823,
+				"label": "winters a. (2009)",
+				"url": "https://doi.org/10.1080/13636820903194690",
+				"x": 0.7571,
+				"y": -0.2753,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.4444
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.4444
+				}
+			},
+			{
+				"id": 824,
+				"label": "seezink a. (2009)",
+				"url": "https://doi.org/10.1080/13636820902904586",
+				"x": 1.2949,
+				"y": -0.2807,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.4981
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.4981
+				}
+			},
+			{
+				"id": 825,
+				"label": "biemans h. (2009)",
+				"url": "https://doi.org/10.1080/13636820903194682",
+				"x": 0.9395,
+				"y": -0.1642,
+				"cluster": 2,
+				"weights": {
+					"Links": 20.0000,
+					"Citations": 76.0000,
+					"Norm. citations": 3.7854
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 76.0000,
+					"Norm. citations": 3.7854
+				}
+			},
+			{
+				"id": 832,
+				"label": "crick r.d. (2008)",
+				"url": "https://doi.org/10.2304/eerj.2008.7.3.311",
+				"x": -0.7647,
+				"y": -0.2638,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 1.5961
+				},
+				"scores": {
+					"Pub. year": 2008.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 1.5961
+				}
+			},
+			{
+				"id": 835,
+				"label": "biesma r.g. (2008)",
+				"url": "https://doi.org/10.1007/s10459-006-9044-0",
+				"x": -0.6391,
+				"y": 0.3510,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 1.0022
+				},
+				"scores": {
+					"Pub. year": 2008.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 1.0022
+				}
+			},
+			{
+				"id": 850,
+				"label": "schleicher a. (2007)",
+				"url": "https://doi.org/10.1007/s10833-007-9042-x",
+				"x": -0.0562,
+				"y": 0.4752,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 0.6190
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 0.6190
+				}
+			},
+			{
+				"id": 851,
+				"label": "barth m. (2007)",
+				"url": "https://doi.org/10.1108/14676370710823582",
+				"x": -0.7249,
+				"y": -0.1507,
+				"cluster": 1,
+				"weights": {
+					"Links": 28.0000,
+					"Citations": 548.0000,
+					"Norm. citations": 7.2173
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 548.0000,
+					"Norm. citations": 7.2173
+				}
+			},
+			{
+				"id": 854,
+				"label": "moon y.-l. (2007)",
+				"url": "https://doi.org/10.1007/bf03029267",
+				"x": -0.2135,
+				"y": 0.2511,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 0.3951
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 0.3951
+				}
+			},
+			{
+				"id": 855,
+				"label": "biesma r.g. (2007)",
+				"url": "https://doi.org/10.1016/j.econedurev.2006.01.004",
+				"x": -0.6409,
+				"y": 0.3491,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 0.5927
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 0.5927
+				}
+			},
+			{
+				"id": 856,
+				"label": "mulder m. (2007)",
+				"url": "https://doi.org/10.1080/13636820601145630",
+				"x": 0.9365,
+				"y": -0.1497,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Citations": 87.0000,
+					"Norm. citations": 1.1458
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 87.0000,
+					"Norm. citations": 1.1458
+				}
+			},
+			{
+				"id": 859,
+				"label": "baartman l.k.j. (2007)",
+				"url": "https://doi.org/10.1016/j.edurev.2007.06.001",
+				"x": -0.0896,
+				"y": -0.0555,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 151.0000,
+					"Norm. citations": 1.9887
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 151.0000,
+					"Norm. citations": 1.9887
+				}
+			},
+			{
+				"id": 874,
+				"label": "mansfield b. (2004)",
+				"url": "https://doi.org/10.1108/03090590410527672",
+				"x": 1.1256,
+				"y": -0.2048,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.1807
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 49.0000,
+					"Norm. citations": 1.1807
+				}
+			},
+			{
+				"id": 876,
+				"label": "biemans h. (2004)",
+				"url": "https://doi.org/10.1080/13636820400200268",
+				"x": 0.8660,
+				"y": -0.2190,
+				"cluster": 2,
+				"weights": {
+					"Links": 26.0000,
+					"Citations": 169.0000,
+					"Norm. citations": 4.0723
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 169.0000,
+					"Norm. citations": 4.0723
+				}
+			},
+			{
+				"id": 879,
+				"label": "kosbab d.j. (2003)",
+				"url": "https://doi.org/10.1108/00400910310508919",
+				"x": 1.2469,
+				"y": -0.5256,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.5455
+				},
+				"scores": {
+					"Pub. year": 2003.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.5455
+				}
+			},
+			{
+				"id": 881,
+				"label": "matlay h. (2002)",
+				"url": "https://doi.org/10.1108/00400910210441383",
+				"x": 1.1527,
+				"y": -0.4684,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7143
+				},
+				"scores": {
+					"Pub. year": 2002.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7143
+				}
+			},
+			{
+				"id": 887,
+				"label": "thompson t. (2001)",
+				"url": "https://doi.org/10.1080/03124070108414345",
+				"x": -0.3781,
+				"y": 0.4450,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4565
+				},
+				"scores": {
+					"Pub. year": 2001.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4565
+				}
+			},
+			{
+				"id": 899,
+				"label": "lum g. (1999)",
+				"url": "https://doi.org/10.1111/1467-9752.00145",
+				"x": 0.9369,
+				"y": -0.2543,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 3.5000
+				},
+				"scores": {
+					"Pub. year": 1999.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 3.5000
+				}
+			},
+			{
+				"id": 900,
+				"label": "hattam r. (1998)",
+				"url": "https://doi.org/10.1080/13596749800200032",
+				"x": -0.3733,
+				"y": 0.4475,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2500
+				},
+				"scores": {
+					"Pub. year": 1998.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2500
+				}
+			},
+			{
+				"id": 902,
+				"label": "hyland t. (1998)",
+				"url": "https://doi.org/10.1080/0305569980240309",
+				"x": -1.4043,
+				"y": -0.3244,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.5000
+				},
+				"scores": {
+					"Pub. year": 1998.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.5000
+				}
+			},
+			{
+				"id": 907,
+				"label": "hyland t. (1997)",
+				"url": "https://doi.org/10.1111/1467-9752.00070",
+				"x": -1.2528,
+				"y": -0.2807,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 2.3729
+				},
+				"scores": {
+					"Pub. year": 1997.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 2.3729
+				}
+			},
+			{
+				"id": 909,
+				"label": "foot s. (1996)",
+				"url": "https://doi.org/10.1108/00400919610117380",
+				"x": 1.1770,
+				"y": -0.3466,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2569
+				},
+				"scores": {
+					"Pub. year": 1996.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2569
+				}
+			},
+			{
+				"id": 912,
+				"label": "bridges d. (1996)",
+				"url": "https://doi.org/10.1111/j.1467-9752.1996.tb00406.x",
+				"x": -0.4164,
+				"y": 0.1890,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.1560
+				},
+				"scores": {
+					"Pub. year": 1996.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 1.1560
+				}
+			},
+			{
+				"id": 925,
+				"label": "hyland t. (1994b)",
+				"url": "https://doi.org/10.1080/0305569940200208",
+				"x": -1.5119,
+				"y": -0.3552,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4286
+				},
+				"scores": {
+					"Pub. year": 1994.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4286
+				}
+			},
+			{
+				"id": 928,
+				"label": "everwijn s.e.m. (1993)",
+				"url": "https://doi.org/10.1007/bf01383845",
+				"x": 0.7133,
+				"y": -0.2873,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 0.7937
+				},
+				"scores": {
+					"Pub. year": 1993.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 0.7937
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 30
+			},
+			{
+				"source_id": 1,
+				"target_id": 733
+			},
+			{
+				"source_id": 1,
+				"target_id": 760
+			},
+			{
+				"source_id": 1,
+				"target_id": 782
+			},
+			{
+				"source_id": 8,
+				"target_id": 729
+			},
+			{
+				"source_id": 8,
+				"target_id": 733
+			},
+			{
+				"source_id": 8,
+				"target_id": 822
+			},
+			{
+				"source_id": 8,
+				"target_id": 835
+			},
+			{
+				"source_id": 8,
+				"target_id": 855
+			},
+			{
+				"source_id": 18,
+				"target_id": 224
+			},
+			{
+				"source_id": 19,
+				"target_id": 268
+			},
+			{
+				"source_id": 19,
+				"target_id": 570
+			},
+			{
+				"source_id": 19,
+				"target_id": 733
+			},
+			{
+				"source_id": 19,
+				"target_id": 760
+			},
+			{
+				"source_id": 19,
+				"target_id": 782
+			},
+			{
+				"source_id": 20,
+				"target_id": 95
+			},
+			{
+				"source_id": 20,
+				"target_id": 268
+			},
+			{
+				"source_id": 20,
+				"target_id": 733
+			},
+			{
+				"source_id": 20,
+				"target_id": 760
+			},
+			{
+				"source_id": 20,
+				"target_id": 851
+			},
+			{
+				"source_id": 20,
+				"target_id": 859
+			},
+			{
+				"source_id": 22,
+				"target_id": 567
+			},
+			{
+				"source_id": 22,
+				"target_id": 859
+			},
+			{
+				"source_id": 24,
+				"target_id": 760
+			},
+			{
+				"source_id": 26,
+				"target_id": 707
+			},
+			{
+				"source_id": 33,
+				"target_id": 41
+			},
+			{
+				"source_id": 41,
+				"target_id": 733
+			},
+			{
+				"source_id": 41,
+				"target_id": 760
+			},
+			{
+				"source_id": 48,
+				"target_id": 733
+			},
+			{
+				"source_id": 48,
+				"target_id": 760
+			},
+			{
+				"source_id": 54,
+				"target_id": 733
+			},
+			{
+				"source_id": 54,
+				"target_id": 760
+			},
+			{
+				"source_id": 54,
+				"target_id": 851
+			},
+			{
+				"source_id": 58,
+				"target_id": 192
+			},
+			{
+				"source_id": 58,
+				"target_id": 760
+			},
+			{
+				"source_id": 60,
+				"target_id": 724
+			},
+			{
+				"source_id": 60,
+				"target_id": 750
+			},
+			{
+				"source_id": 60,
+				"target_id": 778
+			},
+			{
+				"source_id": 60,
+				"target_id": 825
+			},
+			{
+				"source_id": 60,
+				"target_id": 876
+			},
+			{
+				"source_id": 61,
+				"target_id": 760
+			},
+			{
+				"source_id": 61,
+				"target_id": 854
+			},
+			{
+				"source_id": 77,
+				"target_id": 527
+			},
+			{
+				"source_id": 77,
+				"target_id": 566
+			},
+			{
+				"source_id": 77,
+				"target_id": 721
+			},
+			{
+				"source_id": 77,
+				"target_id": 724
+			},
+			{
+				"source_id": 77,
+				"target_id": 762
+			},
+			{
+				"source_id": 77,
+				"target_id": 778
+			},
+			{
+				"source_id": 77,
+				"target_id": 779
+			},
+			{
+				"source_id": 77,
+				"target_id": 825
+			},
+			{
+				"source_id": 77,
+				"target_id": 876
+			},
+			{
+				"source_id": 77,
+				"target_id": 899
+			},
+			{
+				"source_id": 83,
+				"target_id": 707
+			},
+			{
+				"source_id": 87,
+				"target_id": 94
+			},
+			{
+				"source_id": 87,
+				"target_id": 192
+			},
+			{
+				"source_id": 87,
+				"target_id": 249
+			},
+			{
+				"source_id": 87,
+				"target_id": 268
+			},
+			{
+				"source_id": 87,
+				"target_id": 349
+			},
+			{
+				"source_id": 87,
+				"target_id": 423
+			},
+			{
+				"source_id": 87,
+				"target_id": 457
+			},
+			{
+				"source_id": 87,
+				"target_id": 602
+			},
+			{
+				"source_id": 87,
+				"target_id": 670
+			},
+			{
+				"source_id": 87,
+				"target_id": 733
+			},
+			{
+				"source_id": 87,
+				"target_id": 760
+			},
+			{
+				"source_id": 87,
+				"target_id": 782
+			},
+			{
+				"source_id": 87,
+				"target_id": 832
+			},
+			{
+				"source_id": 87,
+				"target_id": 851
+			},
+			{
+				"source_id": 89,
+				"target_id": 349
+			},
+			{
+				"source_id": 89,
+				"target_id": 423
+			},
+			{
+				"source_id": 89,
+				"target_id": 687
+			},
+			{
+				"source_id": 89,
+				"target_id": 733
+			},
+			{
+				"source_id": 89,
+				"target_id": 760
+			},
+			{
+				"source_id": 89,
+				"target_id": 851
+			},
+			{
+				"source_id": 90,
+				"target_id": 524
+			},
+			{
+				"source_id": 90,
+				"target_id": 728
+			},
+			{
+				"source_id": 90,
+				"target_id": 779
+			},
+			{
+				"source_id": 90,
+				"target_id": 803
+			},
+			{
+				"source_id": 94,
+				"target_id": 192
+			},
+			{
+				"source_id": 94,
+				"target_id": 268
+			},
+			{
+				"source_id": 94,
+				"target_id": 760
+			},
+			{
+				"source_id": 95,
+				"target_id": 349
+			},
+			{
+				"source_id": 95,
+				"target_id": 560
+			},
+			{
+				"source_id": 95,
+				"target_id": 733
+			},
+			{
+				"source_id": 95,
+				"target_id": 760
+			},
+			{
+				"source_id": 95,
+				"target_id": 782
+			},
+			{
+				"source_id": 95,
+				"target_id": 851
+			},
+			{
+				"source_id": 100,
+				"target_id": 235
+			},
+			{
+				"source_id": 100,
+				"target_id": 760
+			},
+			{
+				"source_id": 100,
+				"target_id": 782
+			},
+			{
+				"source_id": 100,
+				"target_id": 851
+			},
+			{
+				"source_id": 105,
+				"target_id": 733
+			},
+			{
+				"source_id": 105,
+				"target_id": 760
+			},
+			{
+				"source_id": 105,
+				"target_id": 851
+			},
+			{
+				"source_id": 115,
+				"target_id": 733
+			},
+			{
+				"source_id": 115,
+				"target_id": 760
+			},
+			{
+				"source_id": 116,
+				"target_id": 192
+			},
+			{
+				"source_id": 126,
+				"target_id": 755
+			},
+			{
+				"source_id": 126,
+				"target_id": 756
+			},
+			{
+				"source_id": 136,
+				"target_id": 733
+			},
+			{
+				"source_id": 136,
+				"target_id": 760
+			},
+			{
+				"source_id": 139,
+				"target_id": 268
+			},
+			{
+				"source_id": 139,
+				"target_id": 570
+			},
+			{
+				"source_id": 139,
+				"target_id": 760
+			},
+			{
+				"source_id": 139,
+				"target_id": 851
+			},
+			{
+				"source_id": 142,
+				"target_id": 733
+			},
+			{
+				"source_id": 142,
+				"target_id": 760
+			},
+			{
+				"source_id": 143,
+				"target_id": 851
+			},
+			{
+				"source_id": 152,
+				"target_id": 566
+			},
+			{
+				"source_id": 152,
+				"target_id": 876
+			},
+			{
+				"source_id": 154,
+				"target_id": 192
+			},
+			{
+				"source_id": 154,
+				"target_id": 356
+			},
+			{
+				"source_id": 154,
+				"target_id": 733
+			},
+			{
+				"source_id": 154,
+				"target_id": 760
+			},
+			{
+				"source_id": 154,
+				"target_id": 851
+			},
+			{
+				"source_id": 156,
+				"target_id": 733
+			},
+			{
+				"source_id": 157,
+				"target_id": 185
+			},
+			{
+				"source_id": 157,
+				"target_id": 328
+			},
+			{
+				"source_id": 157,
+				"target_id": 753
+			},
+			{
+				"source_id": 159,
+				"target_id": 311
+			},
+			{
+				"source_id": 159,
+				"target_id": 778
+			},
+			{
+				"source_id": 159,
+				"target_id": 876
+			},
+			{
+				"source_id": 162,
+				"target_id": 760
+			},
+			{
+				"source_id": 162,
+				"target_id": 782
+			},
+			{
+				"source_id": 167,
+				"target_id": 685
+			},
+			{
+				"source_id": 167,
+				"target_id": 779
+			},
+			{
+				"source_id": 172,
+				"target_id": 685
+			},
+			{
+				"source_id": 183,
+				"target_id": 589
+			},
+			{
+				"source_id": 184,
+				"target_id": 681
+			},
+			{
+				"source_id": 185,
+				"target_id": 224
+			},
+			{
+				"source_id": 185,
+				"target_id": 328
+			},
+			{
+				"source_id": 192,
+				"target_id": 349
+			},
+			{
+				"source_id": 192,
+				"target_id": 356
+			},
+			{
+				"source_id": 192,
+				"target_id": 602
+			},
+			{
+				"source_id": 192,
+				"target_id": 733
+			},
+			{
+				"source_id": 192,
+				"target_id": 760
+			},
+			{
+				"source_id": 192,
+				"target_id": 782
+			},
+			{
+				"source_id": 192,
+				"target_id": 851
+			},
+			{
+				"source_id": 199,
+				"target_id": 760
+			},
+			{
+				"source_id": 210,
+				"target_id": 452
+			},
+			{
+				"source_id": 210,
+				"target_id": 507
+			},
+			{
+				"source_id": 210,
+				"target_id": 634
+			},
+			{
+				"source_id": 210,
+				"target_id": 685
+			},
+			{
+				"source_id": 210,
+				"target_id": 754
+			},
+			{
+				"source_id": 210,
+				"target_id": 755
+			},
+			{
+				"source_id": 210,
+				"target_id": 756
+			},
+			{
+				"source_id": 224,
+				"target_id": 681
+			},
+			{
+				"source_id": 224,
+				"target_id": 700
+			},
+			{
+				"source_id": 224,
+				"target_id": 754
+			},
+			{
+				"source_id": 224,
+				"target_id": 755
+			},
+			{
+				"source_id": 224,
+				"target_id": 778
+			},
+			{
+				"source_id": 227,
+				"target_id": 755
+			},
+			{
+				"source_id": 230,
+				"target_id": 755
+			},
+			{
+				"source_id": 234,
+				"target_id": 349
+			},
+			{
+				"source_id": 234,
+				"target_id": 356
+			},
+			{
+				"source_id": 234,
+				"target_id": 760
+			},
+			{
+				"source_id": 235,
+				"target_id": 760
+			},
+			{
+				"source_id": 240,
+				"target_id": 733
+			},
+			{
+				"source_id": 240,
+				"target_id": 760
+			},
+			{
+				"source_id": 241,
+				"target_id": 707
+			},
+			{
+				"source_id": 241,
+				"target_id": 778
+			},
+			{
+				"source_id": 241,
+				"target_id": 801
+			},
+			{
+				"source_id": 241,
+				"target_id": 825
+			},
+			{
+				"source_id": 249,
+				"target_id": 760
+			},
+			{
+				"source_id": 249,
+				"target_id": 851
+			},
+			{
+				"source_id": 253,
+				"target_id": 760
+			},
+			{
+				"source_id": 253,
+				"target_id": 782
+			},
+			{
+				"source_id": 253,
+				"target_id": 851
+			},
+			{
+				"source_id": 253,
+				"target_id": 859
+			},
+			{
+				"source_id": 257,
+				"target_id": 762
+			},
+			{
+				"source_id": 268,
+				"target_id": 760
+			},
+			{
+				"source_id": 268,
+				"target_id": 782
+			},
+			{
+				"source_id": 269,
+				"target_id": 421
+			},
+			{
+				"source_id": 269,
+				"target_id": 760
+			},
+			{
+				"source_id": 276,
+				"target_id": 822
+			},
+			{
+				"source_id": 281,
+				"target_id": 755
+			},
+			{
+				"source_id": 285,
+				"target_id": 527
+			},
+			{
+				"source_id": 285,
+				"target_id": 566
+			},
+			{
+				"source_id": 285,
+				"target_id": 567
+			},
+			{
+				"source_id": 285,
+				"target_id": 647
+			},
+			{
+				"source_id": 285,
+				"target_id": 762
+			},
+			{
+				"source_id": 285,
+				"target_id": 778
+			},
+			{
+				"source_id": 285,
+				"target_id": 779
+			},
+			{
+				"source_id": 285,
+				"target_id": 825
+			},
+			{
+				"source_id": 285,
+				"target_id": 856
+			},
+			{
+				"source_id": 285,
+				"target_id": 876
+			},
+			{
+				"source_id": 311,
+				"target_id": 762
+			},
+			{
+				"source_id": 311,
+				"target_id": 825
+			},
+			{
+				"source_id": 311,
+				"target_id": 856
+			},
+			{
+				"source_id": 311,
+				"target_id": 876
+			},
+			{
+				"source_id": 324,
+				"target_id": 733
+			},
+			{
+				"source_id": 324,
+				"target_id": 760
+			},
+			{
+				"source_id": 324,
+				"target_id": 782
+			},
+			{
+				"source_id": 325,
+				"target_id": 760
+			},
+			{
+				"source_id": 325,
+				"target_id": 851
+			},
+			{
+				"source_id": 325,
+				"target_id": 907
+			},
+			{
+				"source_id": 328,
+				"target_id": 755
+			},
+			{
+				"source_id": 335,
+				"target_id": 527
+			},
+			{
+				"source_id": 335,
+				"target_id": 724
+			},
+			{
+				"source_id": 335,
+				"target_id": 778
+			},
+			{
+				"source_id": 335,
+				"target_id": 825
+			},
+			{
+				"source_id": 337,
+				"target_id": 566
+			},
+			{
+				"source_id": 337,
+				"target_id": 640
+			},
+			{
+				"source_id": 337,
+				"target_id": 651
+			},
+			{
+				"source_id": 337,
+				"target_id": 750
+			},
+			{
+				"source_id": 337,
+				"target_id": 778
+			},
+			{
+				"source_id": 337,
+				"target_id": 790
+			},
+			{
+				"source_id": 337,
+				"target_id": 803
+			},
+			{
+				"source_id": 337,
+				"target_id": 825
+			},
+			{
+				"source_id": 337,
+				"target_id": 876
+			},
+			{
+				"source_id": 337,
+				"target_id": 899
+			},
+			{
+				"source_id": 347,
+				"target_id": 778
+			},
+			{
+				"source_id": 349,
+				"target_id": 356
+			},
+			{
+				"source_id": 349,
+				"target_id": 760
+			},
+			{
+				"source_id": 349,
+				"target_id": 851
+			},
+			{
+				"source_id": 350,
+				"target_id": 760
+			},
+			{
+				"source_id": 350,
+				"target_id": 851
+			},
+			{
+				"source_id": 353,
+				"target_id": 733
+			},
+			{
+				"source_id": 353,
+				"target_id": 760
+			},
+			{
+				"source_id": 354,
+				"target_id": 760
+			},
+			{
+				"source_id": 354,
+				"target_id": 851
+			},
+			{
+				"source_id": 356,
+				"target_id": 457
+			},
+			{
+				"source_id": 356,
+				"target_id": 733
+			},
+			{
+				"source_id": 356,
+				"target_id": 760
+			},
+			{
+				"source_id": 356,
+				"target_id": 851
+			},
+			{
+				"source_id": 381,
+				"target_id": 567
+			},
+			{
+				"source_id": 381,
+				"target_id": 876
+			},
+			{
+				"source_id": 382,
+				"target_id": 753
+			},
+			{
+				"source_id": 382,
+				"target_id": 755
+			},
+			{
+				"source_id": 399,
+				"target_id": 670
+			},
+			{
+				"source_id": 399,
+				"target_id": 760
+			},
+			{
+				"source_id": 399,
+				"target_id": 782
+			},
+			{
+				"source_id": 399,
+				"target_id": 851
+			},
+			{
+				"source_id": 401,
+				"target_id": 782
+			},
+			{
+				"source_id": 402,
+				"target_id": 782
+			},
+			{
+				"source_id": 403,
+				"target_id": 733
+			},
+			{
+				"source_id": 403,
+				"target_id": 760
+			},
+			{
+				"source_id": 403,
+				"target_id": 851
+			},
+			{
+				"source_id": 405,
+				"target_id": 760
+			},
+			{
+				"source_id": 405,
+				"target_id": 851
+			},
+			{
+				"source_id": 410,
+				"target_id": 567
+			},
+			{
+				"source_id": 410,
+				"target_id": 724
+			},
+			{
+				"source_id": 410,
+				"target_id": 755
+			},
+			{
+				"source_id": 410,
+				"target_id": 859
+			},
+			{
+				"source_id": 418,
+				"target_id": 803
+			},
+			{
+				"source_id": 418,
+				"target_id": 810
+			},
+			{
+				"source_id": 422,
+				"target_id": 760
+			},
+			{
+				"source_id": 422,
+				"target_id": 859
+			},
+			{
+				"source_id": 452,
+				"target_id": 755
+			},
+			{
+				"source_id": 456,
+				"target_id": 641
+			},
+			{
+				"source_id": 457,
+				"target_id": 602
+			},
+			{
+				"source_id": 457,
+				"target_id": 742
+			},
+			{
+				"source_id": 457,
+				"target_id": 760
+			},
+			{
+				"source_id": 457,
+				"target_id": 851
+			},
+			{
+				"source_id": 463,
+				"target_id": 760
+			},
+			{
+				"source_id": 468,
+				"target_id": 588
+			},
+			{
+				"source_id": 468,
+				"target_id": 681
+			},
+			{
+				"source_id": 468,
+				"target_id": 696
+			},
+			{
+				"source_id": 468,
+				"target_id": 733
+			},
+			{
+				"source_id": 468,
+				"target_id": 887
+			},
+			{
+				"source_id": 468,
+				"target_id": 900
+			},
+			{
+				"source_id": 471,
+				"target_id": 733
+			},
+			{
+				"source_id": 471,
+				"target_id": 760
+			},
+			{
+				"source_id": 479,
+				"target_id": 753
+			},
+			{
+				"source_id": 479,
+				"target_id": 754
+			},
+			{
+				"source_id": 479,
+				"target_id": 755
+			},
+			{
+				"source_id": 479,
+				"target_id": 854
+			},
+			{
+				"source_id": 491,
+				"target_id": 556
+			},
+			{
+				"source_id": 491,
+				"target_id": 760
+			},
+			{
+				"source_id": 491,
+				"target_id": 782
+			},
+			{
+				"source_id": 497,
+				"target_id": 696
+			},
+			{
+				"source_id": 497,
+				"target_id": 755
+			},
+			{
+				"source_id": 507,
+				"target_id": 753
+			},
+			{
+				"source_id": 507,
+				"target_id": 755
+			},
+			{
+				"source_id": 511,
+				"target_id": 778
+			},
+			{
+				"source_id": 517,
+				"target_id": 859
+			},
+			{
+				"source_id": 527,
+				"target_id": 566
+			},
+			{
+				"source_id": 527,
+				"target_id": 567
+			},
+			{
+				"source_id": 527,
+				"target_id": 699
+			},
+			{
+				"source_id": 527,
+				"target_id": 778
+			},
+			{
+				"source_id": 527,
+				"target_id": 779
+			},
+			{
+				"source_id": 527,
+				"target_id": 790
+			},
+			{
+				"source_id": 527,
+				"target_id": 825
+			},
+			{
+				"source_id": 527,
+				"target_id": 856
+			},
+			{
+				"source_id": 538,
+				"target_id": 760
+			},
+			{
+				"source_id": 540,
+				"target_id": 928
+			},
+			{
+				"source_id": 548,
+				"target_id": 754
+			},
+			{
+				"source_id": 548,
+				"target_id": 755
+			},
+			{
+				"source_id": 556,
+				"target_id": 760
+			},
+			{
+				"source_id": 560,
+				"target_id": 778
+			},
+			{
+				"source_id": 560,
+				"target_id": 803
+			},
+			{
+				"source_id": 566,
+				"target_id": 707
+			},
+			{
+				"source_id": 566,
+				"target_id": 762
+			},
+			{
+				"source_id": 566,
+				"target_id": 778
+			},
+			{
+				"source_id": 566,
+				"target_id": 790
+			},
+			{
+				"source_id": 566,
+				"target_id": 825
+			},
+			{
+				"source_id": 566,
+				"target_id": 876
+			},
+			{
+				"source_id": 567,
+				"target_id": 724
+			},
+			{
+				"source_id": 567,
+				"target_id": 728
+			},
+			{
+				"source_id": 567,
+				"target_id": 779
+			},
+			{
+				"source_id": 567,
+				"target_id": 801
+			},
+			{
+				"source_id": 567,
+				"target_id": 803
+			},
+			{
+				"source_id": 567,
+				"target_id": 823
+			},
+			{
+				"source_id": 567,
+				"target_id": 876
+			},
+			{
+				"source_id": 567,
+				"target_id": 928
+			},
+			{
+				"source_id": 568,
+				"target_id": 756
+			},
+			{
+				"source_id": 568,
+				"target_id": 803
+			},
+			{
+				"source_id": 570,
+				"target_id": 670
+			},
+			{
+				"source_id": 570,
+				"target_id": 760
+			},
+			{
+				"source_id": 570,
+				"target_id": 782
+			},
+			{
+				"source_id": 573,
+				"target_id": 795
+			},
+			{
+				"source_id": 575,
+				"target_id": 779
+			},
+			{
+				"source_id": 577,
+				"target_id": 647
+			},
+			{
+				"source_id": 577,
+				"target_id": 671
+			},
+			{
+				"source_id": 577,
+				"target_id": 779
+			},
+			{
+				"source_id": 583,
+				"target_id": 670
+			},
+			{
+				"source_id": 583,
+				"target_id": 753
+			},
+			{
+				"source_id": 589,
+				"target_id": 762
+			},
+			{
+				"source_id": 589,
+				"target_id": 825
+			},
+			{
+				"source_id": 589,
+				"target_id": 856
+			},
+			{
+				"source_id": 589,
+				"target_id": 876
+			},
+			{
+				"source_id": 593,
+				"target_id": 762
+			},
+			{
+				"source_id": 593,
+				"target_id": 825
+			},
+			{
+				"source_id": 593,
+				"target_id": 876
+			},
+			{
+				"source_id": 602,
+				"target_id": 733
+			},
+			{
+				"source_id": 602,
+				"target_id": 760
+			},
+			{
+				"source_id": 602,
+				"target_id": 810
+			},
+			{
+				"source_id": 602,
+				"target_id": 851
+			},
+			{
+				"source_id": 640,
+				"target_id": 801
+			},
+			{
+				"source_id": 640,
+				"target_id": 825
+			},
+			{
+				"source_id": 641,
+				"target_id": 733
+			},
+			{
+				"source_id": 641,
+				"target_id": 760
+			},
+			{
+				"source_id": 641,
+				"target_id": 851
+			},
+			{
+				"source_id": 647,
+				"target_id": 671
+			},
+			{
+				"source_id": 651,
+				"target_id": 876
+			},
+			{
+				"source_id": 651,
+				"target_id": 881
+			},
+			{
+				"source_id": 658,
+				"target_id": 803
+			},
+			{
+				"source_id": 658,
+				"target_id": 859
+			},
+			{
+				"source_id": 667,
+				"target_id": 754
+			},
+			{
+				"source_id": 670,
+				"target_id": 760
+			},
+			{
+				"source_id": 670,
+				"target_id": 782
+			},
+			{
+				"source_id": 671,
+				"target_id": 779
+			},
+			{
+				"source_id": 672,
+				"target_id": 856
+			},
+			{
+				"source_id": 675,
+				"target_id": 754
+			},
+			{
+				"source_id": 676,
+				"target_id": 765
+			},
+			{
+				"source_id": 676,
+				"target_id": 876
+			},
+			{
+				"source_id": 681,
+				"target_id": 850
+			},
+			{
+				"source_id": 689,
+				"target_id": 753
+			},
+			{
+				"source_id": 689,
+				"target_id": 754
+			},
+			{
+				"source_id": 689,
+				"target_id": 778
+			},
+			{
+				"source_id": 689,
+				"target_id": 795
+			},
+			{
+				"source_id": 690,
+				"target_id": 753
+			},
+			{
+				"source_id": 690,
+				"target_id": 754
+			},
+			{
+				"source_id": 692,
+				"target_id": 754
+			},
+			{
+				"source_id": 699,
+				"target_id": 876
+			},
+			{
+				"source_id": 700,
+				"target_id": 753
+			},
+			{
+				"source_id": 700,
+				"target_id": 754
+			},
+			{
+				"source_id": 700,
+				"target_id": 755
+			},
+			{
+				"source_id": 700,
+				"target_id": 795
+			},
+			{
+				"source_id": 707,
+				"target_id": 762
+			},
+			{
+				"source_id": 707,
+				"target_id": 825
+			},
+			{
+				"source_id": 720,
+				"target_id": 823
+			},
+			{
+				"source_id": 720,
+				"target_id": 876
+			},
+			{
+				"source_id": 721,
+				"target_id": 825
+			},
+			{
+				"source_id": 722,
+				"target_id": 758
+			},
+			{
+				"source_id": 724,
+				"target_id": 825
+			},
+			{
+				"source_id": 729,
+				"target_id": 859
+			},
+			{
+				"source_id": 729,
+				"target_id": 912
+			},
+			{
+				"source_id": 733,
+				"target_id": 851
+			},
+			{
+				"source_id": 742,
+				"target_id": 760
+			},
+			{
+				"source_id": 742,
+				"target_id": 851
+			},
+			{
+				"source_id": 750,
+				"target_id": 876
+			},
+			{
+				"source_id": 756,
+				"target_id": 795
+			},
+			{
+				"source_id": 758,
+				"target_id": 859
+			},
+			{
+				"source_id": 760,
+				"target_id": 782
+			},
+			{
+				"source_id": 760,
+				"target_id": 851
+			},
+			{
+				"source_id": 760,
+				"target_id": 859
+			},
+			{
+				"source_id": 762,
+				"target_id": 824
+			},
+			{
+				"source_id": 762,
+				"target_id": 825
+			},
+			{
+				"source_id": 764,
+				"target_id": 859
+			},
+			{
+				"source_id": 765,
+				"target_id": 790
+			},
+			{
+				"source_id": 765,
+				"target_id": 824
+			},
+			{
+				"source_id": 765,
+				"target_id": 876
+			},
+			{
+				"source_id": 778,
+				"target_id": 856
+			},
+			{
+				"source_id": 778,
+				"target_id": 876
+			},
+			{
+				"source_id": 779,
+				"target_id": 876
+			},
+			{
+				"source_id": 782,
+				"target_id": 851
+			},
+			{
+				"source_id": 790,
+				"target_id": 856
+			},
+			{
+				"source_id": 790,
+				"target_id": 876
+			},
+			{
+				"source_id": 790,
+				"target_id": 909
+			},
+			{
+				"source_id": 801,
+				"target_id": 825
+			},
+			{
+				"source_id": 801,
+				"target_id": 876
+			},
+			{
+				"source_id": 803,
+				"target_id": 876
+			},
+			{
+				"source_id": 823,
+				"target_id": 876
+			},
+			{
+				"source_id": 825,
+				"target_id": 856
+			},
+			{
+				"source_id": 825,
+				"target_id": 874
+			},
+			{
+				"source_id": 825,
+				"target_id": 876
+			},
+			{
+				"source_id": 856,
+				"target_id": 876
+			},
+			{
+				"source_id": 879,
+				"target_id": 881
+			},
+			{
+				"source_id": 902,
+				"target_id": 907
+			},
+			{
+				"source_id": 902,
+				"target_id": 925
+			}
+		]
+	}
+}

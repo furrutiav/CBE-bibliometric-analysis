@@ -28,6 +28,8 @@ from gensim.matutils import corpus2csc
 
 pd.set_option('max_colwidth', 200)
 
+from collections import defaultdict
+
 def read_network(file_path):
     f = open(file_path, encoding='utf-8-sig') # delete descripcion:
     network = json.load(f)["network"]
@@ -35,6 +37,7 @@ def read_network(file_path):
     network_items["DOI"] = network_items["url"].apply(lambda x: x.replace("https://doi.org/", "").lower() if str(x) != "nan" else np.nan)
     network_items["Citations"] = network_items["weights"].apply(lambda x: x["Citations"])
     network_items["Links"] = network_items["weights"].apply(lambda x: x["Links"])
+    network_items["id"] = network_items["id"]-1
     return network_items
 
 def read_bibliography(file_path):
@@ -95,12 +98,43 @@ def plot_docs_per_source(df_biblio):
     
 def preprocess(text):
     tokens = []
+    if "m-learning" in text.lower():
+        text = text.replace("M-learning", "mlearning").replace("m-learning", "mlearning") 
     for token in nlp(text):
         val = token.text
         if val not in string.punctuation+"'":
             if not token.is_stop:
                 if "x" in token.shape_.lower():
-                    tokens.append(token.lemma_.lower())
+                    p_token = token.lemma_.lower()
+                    if p_token not in ["sustainability", "de"]:
+                        if p_token == "cbe":
+                            tokens+=["competence", "base", "education"]
+                        elif p_token == "esd":
+                            tokens+=["education", "sustainable", "development"]
+                        elif p_token in ["cap", "caps"]:
+                            tokens+=["competence", "assessment", "program"]
+                        elif p_token in ["nvq", "nvqs"]:
+                            tokens+=["national", "vocational", "qualification"]
+                        elif p_token in ["sdg", "sdgs"]:
+                            tokens+=["sustainable", "development", "goal"]
+                        elif p_token in ["cbc"]:
+                            tokens+=["competence", "base", "curriculum"]
+                        elif p_token in ["kc", "kcs"]:
+                            tokens+=["key", "competence"]
+                        elif p_token in ["cbt"]:
+                            tokens+=["competency", "base", "training"]
+                        elif p_token in ["cbve"]:
+                            tokens+=["competence", "base", "vocational", "education"]
+                        elif p_token in ["vet"]:
+                            tokens+=["vocational", "education", "training"]
+                        elif p_token in ["hr"]:
+                            tokens+=["human", "resource"]
+                        elif p_token in ["wil"]:
+                            tokens+=["work", "integrate", "learning"]
+                        elif p_token in ["hrm"]:
+                            tokens+=["human", "resource", "management"]
+                        else:
+                            tokens.append(p_token)
     bi_tokens = [f"{tokens[i]}_{tokens[i+1]}" for i in range(len(tokens)-1)]
     return tokens+bi_tokens
 
@@ -290,12 +324,43 @@ def get_links_stats_table(network_items):
     table_stats.index.name = "Docs"
     return table_stats
 
-def get_top_cited_table(df_docs, network_items, min_citations=31):
-    id_top_cited = network_items[network_items["Citations"] >= 31]["id"]
-    top_cited = df_docs[df_docs["id"].isin(id_top_cited)]
-    table_top_cited = top_cited[top_cited["cluster"] == 1].sort_values("Year")
-    table_top_cited = pd.concat([table_top_cited, top_cited[top_cited["cluster"] == 2].sort_values("Year")])
-    table_top_cited = pd.concat([table_top_cited, top_cited[top_cited["cluster"] == 3].sort_values("Year")])
-    table_top_cited = table_top_cited["cluster Year Authors Title Citations".split()].rename(columns={"cluster": "Cluster"})
-    table_top_cited["Citations"] = table_top_cited["Citations"].astype(int)
-    return table_top_cited
+def get_top_table_clusters(df_docs, network_items, num_clusters, by, min_val):
+    id_top = network_items[network_items[by] >= min_val]["id"]
+    top = df_docs[df_docs["id"].isin(id_top)]
+    table_top = top[top["cluster"] == 1].sort_values("Year")
+    for t in range(1, num_clusters+1):
+        table_top = pd.concat([table_top, top[top["cluster"] == t].sort_values("Year")])
+    table_top = table_top[f"cluster Year Authors Title {by}".split()].rename(columns={"cluster": "Cluster"})
+    table_top[by] = table_top[by].astype(int)
+    return table_top
+
+def get_weighted_cluster(lsa, topics):
+    index_per_factor = topics["index_per_factor"]
+    doc_per_factor = topics["doc_per_factor"]
+    doc_topics = []
+    last_ix = ""
+    for ix, t in zip(*index_per_factor["v"]):
+        if last_ix != ix:
+            o = {"id": lsa["df_cluster"].id.iloc[ix], f"topic_{t}": doc_per_factor[ix, t]}
+            doc_topics.append(o)
+        else:
+            o = doc_topics.pop()
+            o[f"topic_{t}"] = doc_per_factor[ix, t]
+            doc_topics.append(o)
+        last_ix = ix
+    return lsa["df_cluster"].merge(pd.DataFrame(doc_topics), on="id", how="outer").fillna(0)
+
+def get_top_table_topics(weighted_cluster, num_topics, by, min_val):
+    id_top = weighted_cluster[weighted_cluster[by] >= min_val]["id"]
+    top = weighted_cluster[weighted_cluster["id"].isin(id_top.values)]
+    table_top = top[top["topic_0"] > 0].sort_values("Year")
+    table_top = table_top.rename(columns={"topic_0": "Strenght"})
+    table_top["Topic"] = "0"
+    for t in range(1, num_topics):
+        sub_table_top = top[top[f"topic_{t}"] > 0].sort_values("Year")
+        sub_table_top = sub_table_top.rename(columns={f"topic_{t}": "Strenght"})
+        sub_table_top["Topic"] = str(t)
+        table_top = pd.concat([table_top, sub_table_top])
+        table_top = table_top[f"Topic Strenght Year Authors Title {by}".split()]
+    table_top[by] = table_top[by].astype(int)
+    return table_top
