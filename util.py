@@ -328,7 +328,7 @@ def get_top_table_clusters(df_docs, network_items, num_clusters, by, min_val):
     id_top = network_items[network_items[by] >= min_val]["id"]
     top = df_docs[df_docs["id"].isin(id_top)]
     table_top = top[top["cluster"] == 1].sort_values("Year")
-    for t in range(1, num_clusters+1):
+    for t in range(2, num_clusters+1):
         table_top = pd.concat([table_top, top[top["cluster"] == t].sort_values("Year")])
     table_top = table_top[f"cluster Year Authors Title {by}".split()].rename(columns={"cluster": "Cluster"})
     table_top[by] = table_top[by].astype(int)
