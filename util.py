@@ -267,7 +267,7 @@ def get_strengths(lsa, term_per_factor, num_terms=10):
             strengths.append(o)
     return strengths
 
-def plot_strength_per_topic(strengths, cluster_id):
+def plot_strength_term_per_topic(strengths, cluster_id):
     table_strength = pd.DataFrame(strengths)
     table_strength = table_strength.sort_values(["Topic", "Strength"], ascending=[True, False])
 
@@ -282,9 +282,48 @@ def plot_strength_per_topic(strengths, cluster_id):
         font=dict(
             size=10
         ),
-        height=700,
+        height=800,
         width=600
     )
+    fig.show()
+    
+def plot_strength_doc_per_topic(weighted_cluster, cluster_id):
+    
+    topic_colnames = [c for c in weighted_cluster.columns if "topic_" in c]
+    num_topics = len(topic_colnames)
+    
+    weighted_cluster = weighted_cluster.sort_values("Year")
+    
+    df = weighted_cluster[["label"]+topic_colnames]
+    table_strength = pd.melt(
+        df, 
+        id_vars=['label'], 
+        value_vars=topic_colnames, 
+        var_name="Topic", 
+        value_name="Strength"
+    ).rename(columns={"label": "Doc"})
+    
+    table_strength["Topic"] = table_strength["Topic"].apply(lambda x: x.replace("topic_", ""))
+    color_map = {
+        str(t): px.colors.qualitative.Plotly[t]
+        for t in range(num_topics)
+    }
+    magic_number = 16.85
+    fig = px.bar(
+            table_strength, 
+            color="Topic", 
+            x="Doc", 
+            y="Strength", 
+            title=f"Strength of topics docs (Cluster {cluster_id})",
+            color_discrete_map=color_map
+        )
+    fig.update_layout(
+            font=dict(
+                size=10
+            ),
+            height=600,
+            width=int(magic_number*df.shape[0])
+        )
     fig.show()
     
 def get_terms_table(table_hist_per_topic, strengths):
