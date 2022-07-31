@@ -53,7 +53,7 @@ def get_docs(df_net, df_biblio):
     df_docs = df_biblio[["id"]+relevant_columns["LSA"]+relevant_columns["others"]]
     df_docs = df_docs.merge(df_net, how="inner", on="id")
     df_docs["Abstract"] = df_docs["Abstract"].replace({"[No abstract available]": np.nan})
-    df_docs = df_docs.fillna("")
+    df_docs = df_docs.fillna(" ")
     df_docs["doc"] = df_docs.apply(lambda x: ". ".join(x[relevant_columns["LSA"]].values), axis=1)
     return df_docs
 
@@ -95,52 +95,71 @@ def plot_docs_per_source(df_biblio):
         title="Histogram of #Docs per source"
     )
     fig.show(renderer="notebook")
+
+replace_acronyms = {
+    "cbe": ["competence", "base", "education"],
+    "esd": ["education", "sustainable", "development"],
+    "cap": ["competence", "assessment", "program"],
+    "caps": ["competence", "assessment", "program"], 
+    "nvq": ["national", "vocational", "qualification"],
+    "nvqs": ["national", "vocational", "qualification"],
+    "sdg": ["sustainable", "development", "goal"],
+    "sdgs": ["sustainable", "development", "goal"],
+    "cbc": ["competence", "base", "curriculum"],
+    "kc": ["key", "competence"],
+    "kcs": ["key", "competence"],
+    "cbt": ["competency", "base", "training"],
+    "cbve": ["competence", "base", "vocational", "education"],
+    "vet": ["vocational", "education", "training"],
+    "hr": ["human", "resource"],
+    "wil": ["work", "integrate", "learning"],
+    "hrm": ["human", "resource", "management"]
+}
+replace_tokens = {
+#     "m-learning": "mlearning",
+#     "M-learning": "mlearning"
+}
+ignore_tokens = ["sustainability", "de"]
+
+def preprocess(text, n_gram_range = (1, 2)):
+    tokens, matching = [], []    
     
-def preprocess(text):
-    tokens = []
-    if "m-learning" in text.lower():
-        text = text.replace("M-learning", "mlearning").replace("m-learning", "mlearning") 
+    for k, v in replace_tokens.items():
+        if k in text: text.replace(k, v)
+            
+    i, j = 0, 0
     for token in nlp(text):
         val = token.text
         if val not in string.punctuation+"'":
             if not token.is_stop:
                 if "x" in token.shape_.lower():
                     p_token = token.lemma_.lower()
-                    if p_token not in ["sustainability", "de"]:
-                        if p_token == "cbe":
-                            tokens+=["competence", "base", "education"]
-                        elif p_token == "esd":
-                            tokens+=["education", "sustainable", "development"]
-                        elif p_token in ["cap", "caps"]:
-                            tokens+=["competence", "assessment", "program"]
-                        elif p_token in ["nvq", "nvqs"]:
-                            tokens+=["national", "vocational", "qualification"]
-                        elif p_token in ["sdg", "sdgs"]:
-                            tokens+=["sustainable", "development", "goal"]
-                        elif p_token in ["cbc"]:
-                            tokens+=["competence", "base", "curriculum"]
-                        elif p_token in ["kc", "kcs"]:
-                            tokens+=["key", "competence"]
-                        elif p_token in ["cbt"]:
-                            tokens+=["competency", "base", "training"]
-                        elif p_token in ["cbve"]:
-                            tokens+=["competence", "base", "vocational", "education"]
-                        elif p_token in ["vet"]:
-                            tokens+=["vocational", "education", "training"]
-                        elif p_token in ["hr"]:
-                            tokens+=["human", "resource"]
-                        elif p_token in ["wil"]:
-                            tokens+=["work", "integrate", "learning"]
-                        elif p_token in ["hrm"]:
-                            tokens+=["human", "resource", "management"]
+                    if p_token not in ignore_tokens:
+                        if p_token in replace_acronyms.keys():
+                            new_tokens = replace_acronyms[p_token]
+                            tokens += new_tokens
+                            matching += [(i, j+k) for k in range(len(new_tokens))]
+                            j += len(new_tokens)
                         else:
                             tokens.append(p_token)
-    bi_tokens = [f"{tokens[i]}_{tokens[i+1]}" for i in range(len(tokens)-1)]
-    return tokens+bi_tokens
+                            matching.append((i, j))
+                            j += 1
+        i += 1
+    if 2 in n_gram_range:     
+        num_tokens = len(tokens)  
+        bi_tokens = []
+        for k in range(len(tokens)-1):
+            bi_tokens.append(f"{tokens[k]}_{tokens[k+1]}")
+            matching.append(((matching[k][0], matching[k+1][0]), num_tokens+k))
+        return {"doc_clean": tokens+bi_tokens, "matching": matching}
+    else:
+        return {"doc_clean": tokens, "matching": matching}
 
 def add_preprocess(df_docs):
     if "doc_clean" not in df_docs:
-        df_docs['doc_clean'] = df_docs['doc'].apply(lambda x: preprocess(x))
+        df_docs['preprocess'] = df_docs['doc'].apply(lambda x: preprocess(x))
+        df_docs['doc_clean'] = df_docs['preprocess'].apply(lambda x: x["doc_clean"])
+        df_docs['matching'] = df_docs['preprocess'].apply(lambda x: x["matching"])
     pass
 
 def LSA(df_docs, cluster_id, num_topics):
@@ -190,7 +209,7 @@ def plot_top_eigenvalues(lsa, cluster_id=1, k=25):
     )
     fig.show(renderer="notebook")
     
-def get_topics(lsa, num_std_u=1, num_std_v=1):
+def get_topics(lsa, num_std_u=1, num_std_v=1): #u: terms, v: document
     abs_u = abs(lsa["lsi"].projection.u)
     tresh_u = np.mean(abs_u, axis=0) + num_std_u * np.std(abs_u, axis=0)
 
@@ -403,3 +422,128 @@ def get_top_table_topics(weighted_cluster, num_topics, by, min_val):
         table_top = table_top[f"Topic Strenght Year Authors Title {by}".split()]
     table_top[by] = table_top[by].astype(int)
     return table_top
+
+from IPython.core.display import HTML, display
+
+def display_topics(lsa, topics, label):
+    label_docs = list(lsa["df_cluster"]["label"])
+    ix_doc = label_docs.index(label)
+
+    rgb_topics = [
+        '0,0,255', 
+        "255,0,0", 
+        "0,255,0", 
+        "204,0,204", 
+        "255,204,0", 
+        "0,204,255"
+    ]
+
+    corpus_csc = corpus2csc(lsa["corpus_tfidf"])
+    term_per_factor = topics["term_per_factor"]
+
+    tfidf_doc = corpus_csc[:, ix_doc]
+    doc = lsa["df_cluster"].iloc[ix_doc]["doc"]
+    doc_clean = lsa["df_cluster"].iloc[ix_doc]["doc_clean"]
+    matching = lsa["df_cluster"].iloc[ix_doc]["matching"]
+
+    token2id = lsa["lsi"].id2word.token2id
+
+    token_ids = [
+        token2id[token]
+        for token in doc_clean
+    ]
+    doc_words = nlp(doc)
+
+    title = lsa["df_cluster"].iloc[ix_doc]["Title"]
+    abstract = lsa["df_cluster"].iloc[ix_doc]["Abstract"]
+    authkwds = lsa["df_cluster"].iloc[ix_doc]["Author Keywords"]
+    indexkwds = lsa["df_cluster"].iloc[ix_doc]["Index Keywords"]
+
+    title_words = nlp(title)
+    abstract_words = nlp(abstract)
+    authkwds_words = nlp(authkwds)
+    indexkwds_words = nlp(indexkwds)
+
+    num_topics = term_per_factor.shape[1]
+    tokens_ids_importance = {}
+    for ix_pos_topic in range(num_topics):
+        term_pos_per_factor = term_per_factor[:, ix_pos_topic].A
+        tfidf_pos_factor = (tfidf_doc.A * term_pos_per_factor).ravel()
+        tokens_ids_pos = np.where(tfidf_pos_factor>0)[0]
+        for k in tokens_ids_pos:
+            if k not in tokens_ids_importance.keys():
+                tokens_ids_importance[k] = np.zeros(num_topics)
+            tokens_ids_importance[k][ix_pos_topic] = tfidf_pos_factor[k]
+
+    tokens_importance = [
+        tokens_ids_importance[token_id] 
+        if token_id in tokens_ids_importance.keys() 
+        else np.zeros(num_topics) for token_id in token_ids
+    ]
+
+    grams_importance = {}
+    for pair in matching:
+        i, j = pair[0], pair[1]
+        if type(i) != tuple:
+            if i not in grams_importance.keys():
+                grams_importance[i] = np.zeros(num_topics)
+            grams_importance[i] += tokens_importance[j]
+        else:
+            for ik in i:
+                if ik not in grams_importance.keys():
+                    grams_importance[ik] = np.zeros(num_topics)
+                grams_importance[ik] += tokens_importance[j]
+
+    word_importance = []
+    for k, w in enumerate(doc_words):
+        if k in grams_importance.keys():
+            most_important_topic = np.argmax(grams_importance[k])
+            word_importance.append(
+                (
+                    w, 
+                    most_important_topic, 
+                    grams_importance[k][most_important_topic]
+                )
+            )
+        else:
+            word_importance.append((w, -1, 0))
+
+    tresh = 0.001
+    rgb = lambda x: rgb_topics[x]
+    alpha = lambda x: abs(x) * 10 if abs(x)>tresh else 0
+
+#     doc_word_marks = [
+#             f'<mark style="background-color:rgba({rgb(colour)},{alpha(attr)})">{word}</mark>'
+#             for word, colour, attr in word_importance
+#         ]
+
+#     return display(HTML('<p>' + ' '.join(doc_word_marks) + '</p>'))
+
+    title_word_marks = [
+            f'<mark style="background-color:rgba({rgb(colour)},{alpha(attr)})">{word}</mark>'
+            for word, colour, attr in word_importance[:len(title_words)]
+        ]
+
+    abstract_word_marks = [
+            f'<mark style="background-color:rgba({rgb(colour)},{alpha(attr)})">{word}</mark>'
+            for word, colour, attr in word_importance[len(title_words)+1:len(title_words)+len(abstract_words)+1]
+        ]
+
+    authkwds_word_marks = [
+            f'<mark style="background-color:rgba({rgb(colour)},{alpha(attr)})">{word}</mark>'
+            for word, colour, attr in word_importance[len(title_words)+len(abstract_words)+1+int(len(abstract_words)==1):len(title_words)+len(abstract_words)+len(authkwds_words)+1]
+        ] 
+
+    indexkwds_word_marks = [
+            f'<mark style="background-color:rgba({rgb(colour)},{alpha(attr)})">{word}</mark>'
+            for word, colour, attr in word_importance[len(title_words)+len(abstract_words)+len(authkwds_words)+int(len(abstract_words)==1)+2:]
+        ]
+
+    return display(
+        HTML(
+            "<b> Title: </b>"+'<p>' + ' '.join(title_word_marks) + '</p>'+ 
+            "<b> Abstract: </b>"+'<p>'+' '.join(abstract_word_marks) + '</p>'+
+            "<b> Author keywords: </b>"+'<p>'+' '.join(authkwds_word_marks) + '</p>'+
+            "<b> Index keywords: </b>"+'<p>'+' '.join(indexkwds_word_marks) + '</p>'
+        )
+    )
