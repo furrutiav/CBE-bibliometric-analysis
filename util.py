@@ -163,7 +163,9 @@ def add_preprocess(df_docs):
     pass
 
 def LSA(df_docs, cluster_id, num_topics):
-    df_cluster = df_docs[df_docs["cluster"] == cluster_id]
+    df_cluster = df_docs
+    if cluster_id != "all":
+        df_cluster = df_docs[df_docs["cluster"] == cluster_id]
     corpus = df_cluster['doc_clean']
     dictionary = corpora.Dictionary(corpus)
 
@@ -421,6 +423,7 @@ def get_top_table_topics(weighted_cluster, num_topics, by, min_val):
         table_top = pd.concat([table_top, sub_table_top])
         table_top = table_top[f"Topic Strenght Year Authors Title {by}".split()]
     table_top[by] = table_top[by].astype(int)
+    table_top["Strenght"] = table_top["Strenght"].apply(lambda x: np.round(x, 2))
     return table_top
 
 from IPython.core.display import HTML, display
