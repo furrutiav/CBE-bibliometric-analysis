@@ -163,15 +163,21 @@ def add_preprocess(df_docs):
     pass
 
 def LSA(df_docs, cluster_id, num_topics):
-    df_cluster = df_docs[df_docs["cluster"] == cluster_id]
+    if cluster_id == "all":
+        df_cluster = df_docs
+    else:
+        df_cluster = df_docs[df_docs["cluster"] == cluster_id]
+        
     corpus = df_cluster['doc_clean']
+    
     dictionary = corpora.Dictionary(corpus)
 
     bow = [dictionary.doc2bow(text) for text in corpus]
-
+    
     tfidf = models.TfidfModel(bow)
+    
     corpus_tfidf = tfidf[bow]
-
+    
     lsi = LsiModel(
         corpus_tfidf, 
         num_topics=num_topics, 
@@ -183,7 +189,9 @@ def LSA(df_docs, cluster_id, num_topics):
         "corpus_tfidf": corpus_tfidf,
         "num_topics": num_topics, 
         "df_cluster": df_cluster, 
-        "cluster_id": cluster_id
+        "cluster_id": cluster_id,
+        "dictionary": dictionary,
+        "tfidf": tfidf
     }
 
 def plot_top_eigenvalues(lsa, cluster_id=1, k=25):
@@ -225,19 +233,36 @@ def get_topics(lsa, num_std_u=1, num_std_v=1): #u: terms, v: document
     num_terms = int(lsa["lsi"].num_terms)
     num_docs = int(lsa["lsi"].docs_processed)
     corpus_csc = corpus2csc(lsa["corpus_tfidf"], num_terms=num_terms, num_docs=num_docs)
-
-    doc_per_factor = corpus_csc.T @ term_per_factor
-    doc_per_factor = doc_per_factor / np.sum(doc_per_factor, axis=1)
+    
+    sigma = lsa["lsi"].projection.s
+    sigma_1 = 1/sigma
+    Sigma_1 = np.diag(sigma_1)
+    
+    doc_per_factor = (corpus_csc.T @ term_per_factor) @ Sigma_1
+    doc_per_factor = doc_per_factor / np.array([np.sum(doc_per_factor, axis=1)]).T 
     doc_per_factor = np.asarray(doc_per_factor)
 
     tresh_v = np.mean(doc_per_factor, axis=0) + num_std_v * np.std(doc_per_factor, axis=0)
     index_v_per_factor = np.where(doc_per_factor>tresh_v)
+    
+    rel_term_per_factor = term_per_factor.copy()
+
+    for topic in range(rel_term_per_factor.shape[1]):
+        index_v_per_factor_topic = index_v_per_factor[0][index_v_per_factor[1] == topic]
+        index_u_per_factor_topic = index_u_per_factor[0][index_u_per_factor[1] == topic]
+
+        rel_corpus_csc = corpus_csc[index_u_per_factor_topic, :][:, index_v_per_factor_topic]
+        not_rel_index_u_per_factor_topic = index_u_per_factor_topic[np.ravel(np.sum(rel_corpus_csc, axis=1))==0]
+        rel_term_per_factor = rel_term_per_factor.todense()
+        rel_term_per_factor[not_rel_index_u_per_factor_topic, topic] = 0
+        rel_term_per_factor = csr_matrix(rel_term_per_factor)
 
     index_per_factor = {
         "u": index_u_per_factor, 
         "v": index_v_per_factor
     }
     return {
+        "rel_term_per_factor": rel_term_per_factor,
         "term_per_factor": term_per_factor, 
         "doc_per_factor": doc_per_factor, 
         "index_per_factor": index_per_factor
@@ -306,6 +331,47 @@ def plot_strength_term_per_topic(strengths, cluster_id):
     )
     fig.show()
     
+    pass
+
+def get_topics_outside(df, topics, LSA):
+    doc_per_factor = topics["doc_per_factor"]
+    term_per_factor = topics["term_per_factor"]
+
+    corpus_outside = df["doc_clean"]
+
+    dictionary = LSA["dictionary"]
+
+    bow = [dictionary.doc2bow(text) for text in corpus_outside]
+
+    tfidf = LSA["tfidf"]
+
+    corpus_outside_tfidf = tfidf[bow]
+
+    corpus_csc = corpus2csc(corpus_outside_tfidf, num_terms=term_per_factor.shape[0], num_docs=corpus_outside.shape[0])
+
+    num_std_v=1
+    tresh_v = np.mean(doc_per_factor, axis=0) + num_std_v * np.std(doc_per_factor, axis=0)
+    
+    sigma = LSA["lsi"].projection.s
+    sigma_1 = 1/sigma
+    Sigma_1 = np.diag(sigma_1)
+
+    doc_outside_per_factor = (corpus_csc.T @ term_per_factor) @ Sigma_1
+    doc_outside_per_factor = doc_outside_per_factor / np.array([np.sum(doc_outside_per_factor, axis=1)]).T 
+    doc_outside_per_factor = np.asarray(doc_outside_per_factor)
+
+    index_v_per_factor = np.where(doc_outside_per_factor>tresh_v)
+
+    index_per_factor = {
+            "u": topics["index_per_factor"]["u"], 
+            "v": index_v_per_factor
+        }
+    topics_outside = {
+        "index_per_factor": index_per_factor,
+        "doc_outside_per_factor": doc_outside_per_factor,
+    }
+    return topics_outside
+
 def plot_strength_doc_per_topic(weighted_cluster, cluster_id):
     
     topic_colnames = [c for c in weighted_cluster.columns if "topic_" in c]
@@ -328,6 +394,7 @@ def plot_strength_doc_per_topic(weighted_cluster, cluster_id):
         for t in range(num_topics)
     }
     magic_number = 16.85
+    table_strength["Doc"] = table_strength["Doc"].apply(lambda x: str(x)[:30])
     fig = px.bar(
             table_strength, 
             color="Topic", 
@@ -346,12 +413,15 @@ def plot_strength_doc_per_topic(weighted_cluster, cluster_id):
     fig.show()
     
 def get_terms_table(table_hist_per_topic, strengths):
-    df_terms = pd.DataFrame(strengths).drop(columns="Strength").groupby("Topic").aggregate(
+    df = pd.DataFrame(strengths).drop(columns="Strength")
+    df_terms = df.groupby("Topic").aggregate(
         lambda x: ", ".join(x).replace("_", " ")
     )
-    df_terms = df_terms.reset_index().rename(columns={"Term": "Top 10 terms"})
+    num_terms = df[df["Topic"] == "0"].shape[0]
+    
+    df_terms = df_terms.reset_index().rename(columns={"Term": f"Top {num_terms} terms"})
     df_terms = df_terms.merge(table_hist_per_topic, on="Topic", how="left")
-    df_terms = df_terms["Topic  Top 10 terms  #Terms  #Docs".split("  ")]
+    df_terms = df_terms[f"Topic  Top {num_terms} terms  #Terms  #Docs".split("  ")]
     return df_terms.set_index("Topic")
 
 def get_group_table(network_items):
@@ -392,21 +462,19 @@ def get_top_table_clusters(df_docs, network_items, num_clusters, by, min_val):
     table_top[by] = table_top[by].astype(int)
     return table_top
 
-def get_weighted_cluster(lsa, topics):
-    index_per_factor = topics["index_per_factor"]
-    doc_per_factor = topics["doc_per_factor"]
+def get_weighted_cluster(df, index_per_factor, doc_per_factor):
     doc_topics = []
     last_ix = ""
     for ix, t in zip(*index_per_factor["v"]):
         if last_ix != ix:
-            o = {"id": lsa["df_cluster"].id.iloc[ix], f"topic_{t}": doc_per_factor[ix, t]}
+            o = {"id": df.id.iloc[ix], f"topic_{t}": doc_per_factor[ix, t]}
             doc_topics.append(o)
         else:
             o = doc_topics.pop()
             o[f"topic_{t}"] = doc_per_factor[ix, t]
             doc_topics.append(o)
         last_ix = ix
-    return lsa["df_cluster"].merge(pd.DataFrame(doc_topics), on="id", how="outer").fillna(0)
+    return df.merge(pd.DataFrame(doc_topics), on="id", how="outer").fillna(0)
 
 def get_top_table_topics(weighted_cluster, num_topics, by, min_val):
     id_top = weighted_cluster[weighted_cluster[by] >= min_val]["id"]
