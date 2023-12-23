@@ -1,0 +1,2841 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "advanced innovation center for future education, faculty of education, beijing normal university, beijing, china",
+				"x": -0.1976,
+				"y": -0.1481,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "andalusian institute of earth sciences, csic-university of granada, armilla, granada, 18100, spain",
+				"x": -0.1492,
+				"y": 0.1245,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 3,
+				"label": "calle oquendo 11 urb. acacias 12, radazul bajo, el rosario, cp 38019, santa cruz de tenerife, spain",
+				"x": -0.1980,
+				"y": -0.0903,
+				"cluster": 1,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 21.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 4,
+				"label": "cass school of education and communities, university of east london, london, united kingdom",
+				"x": -0.1815,
+				"y": 0.1361,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "center for educational science and technology, beijing normal university, zhuhai, china",
+				"x": -0.1968,
+				"y": -0.1480,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "center for the development of universal competencies, ural federal university named after the first president of russia b.n. yeltsin, ekaterinburg, russian federation",
+				"x": -0.1818,
+				"y": -0.5721,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 7,
+				"label": "centro universitario de mérida, university of extremadura, avenida santa teresa de jornet, 38, mérida, badajoz, spain",
+				"x": 0.2991,
+				"y": -0.0721,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 8,
+				"label": "college of education, zhejiang university366121, china",
+				"x": -0.1905,
+				"y": -0.3978,
+				"cluster": 9,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 9,
+				"label": "communication dept, universidade católica portuguesa, lisbon, portugal",
+				"x": -0.1134,
+				"y": 0.1307,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 10,
+				"label": "communication sciences dept, universidade lusófona do porto, porto, portugal",
+				"x": -0.1788,
+				"y": 0.1504,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 11,
+				"label": "department for media education and audiovisual media, national audiovisual institute, helsinki, finland",
+				"x": -0.1487,
+				"y": 0.1595,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 12,
+				"label": "department of business finance, faculty of business management, university of economics in bratislava, dolnozemská cesta 1, bratislava, 852 35, slovakia",
+				"x": 3.1569,
+				"y": 0.1371,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 13,
+				"label": "department of curriculum & teaching methods, college of education, kuwait university, p.o. box 25944 safat 1320, alshdadyia, kuwait",
+				"x": -0.4128,
+				"y": -0.5571,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 14,
+				"label": "department of developmental and educational psychology, university of granada, granada, 18071, spain",
+				"x": -0.1169,
+				"y": 0.1444,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 15,
+				"label": "department of didactics of experimental sciences, university of granada, granada, 18071, spain",
+				"x": -0.1666,
+				"y": 0.1305,
+				"cluster": 16,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 16,
+				"label": "department of didactics of mathematics, university of granada, granada, 18071, spain",
+				"x": -0.1647,
+				"y": 0.1558,
+				"cluster": 17,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 17,
+				"label": "department of didactics of musical expression, plastic arts and self-expression through movement, university of castilla-la mancha, spain",
+				"x": -0.1017,
+				"y": -0.0312,
+				"cluster": 18,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 18,
+				"label": "department of econometrics and statistics, faculty of management university of technology, dabrowskiego 49, czestochowa, 42-200, poland",
+				"x": 3.1559,
+				"y": 0.1506,
+				"cluster": 19,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 19,
+				"label": "department of education and professional studies, king's college, london, united kingdom",
+				"x": -0.1731,
+				"y": 0.0328,
+				"cluster": 2,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 36.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 20,
+				"label": "department of education and teachers’ practice, linnaeus university, växjö, sweden",
+				"x": -0.3539,
+				"y": -0.0060,
+				"cluster": 3,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 13.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 21,
+				"label": "department of education, college of education, seoul national university, gwanak-gu, seoul 151-742, south korea",
+				"x": -0.3492,
+				"y": -0.3903,
+				"cluster": 20,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 22,
+				"label": "department of education, communication, and learning, university of gothenburg, gothenburg, 405 30, sweden",
+				"x": 2.1482,
+				"y": 0.0946,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 23,
+				"label": "department of education, university of taipei, taiwan",
+				"x": -1.1566,
+				"y": 0.3696,
+				"cluster": 22,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 24,
+				"label": "department of english, manchester university, north manchester, in, united states",
+				"x": -0.7615,
+				"y": -0.0355,
+				"cluster": 23,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 25,
+				"label": "department of leisure and recreation management, chihlee university of technology, #313 wenhua road, section 1, new taipei city, taiwan",
+				"x": -0.2054,
+				"y": -0.1080,
+				"cluster": 24,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 26,
+				"label": "department of psychology, university of belgrade, cika ljubina 18-20, belgrade, 11000, serbia",
+				"x": 2.0551,
+				"y": 0.0893,
+				"cluster": 25,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 27,
+				"label": "department of special didactics, university of vigo, spain",
+				"x": -0.1007,
+				"y": -0.0307,
+				"cluster": 26,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 28,
+				"label": "department of teacher education and school research, university of oslo, oslo, norway",
+				"x": 2.4156,
+				"y": 0.1085,
+				"cluster": 27,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 29,
+				"label": "department of teacher education, faculty of social and educational sciences, ntnu-norwegian university of science and technology, trondheim, norway",
+				"x": -0.3250,
+				"y": 0.0061,
+				"cluster": 28,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 30,
+				"label": "department of teacher education, norwegian university of science and technology (ntnu), trondheim, norway",
+				"x": -0.3663,
+				"y": -0.0053,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 31,
+				"label": "department of teacher education, norwegian university of science and technology, trondheim, norway",
+				"x": -0.3768,
+				"y": -0.0091,
+				"cluster": 29,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 32,
+				"label": "development of universal competencies, ural federal university named after the first president of russia b.n. yeltsin, ekaterinburg, russian federation",
+				"x": -0.1885,
+				"y": -0.5725,
+				"cluster": 30,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 33,
+				"label": "dragon hall trust, london, united kingdom",
+				"x": -0.1289,
+				"y": 0.1258,
+				"cluster": 31,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 34,
+				"label": "elte university budapest, faculty of pedagogy and psychology, centre for higher education management, budapest, hungary",
+				"x": 0.1396,
+				"y": -0.0594,
+				"cluster": 32,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 35,
+				"label": "european institute of education and social policy, paris, france",
+				"x": 0.0647,
+				"y": -0.1492,
+				"cluster": 33,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 36,
+				"label": "faculty of education and psychology, university of jyväskylä, jyväskylä, finland",
+				"x": -0.1299,
+				"y": 0.1541,
+				"cluster": 34,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 37,
+				"label": "faculty of education, department of teaching in languages and literature, university of barcelona, barcelona, spain",
+				"x": -0.2331,
+				"y": -0.1261,
+				"cluster": 35,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 38,
+				"label": "faculty of education, department of teaching in music and corporal expression, university of barcelona, barcelona, spain",
+				"x": -0.2337,
+				"y": -0.1272,
+				"cluster": 36,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 39,
+				"label": "faculty of education, department of teaching in visual and arts, university of barcelona, barcelona, spain",
+				"x": -0.2324,
+				"y": -0.1274,
+				"cluster": 37,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 40,
+				"label": "faculty of education, universitat de barcelona, barcelona, spain",
+				"x": 0.0182,
+				"y": -0.0662,
+				"cluster": 38,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 41,
+				"label": "faculty of education, university of barcelona, spain",
+				"x": -0.1283,
+				"y": -0.0384,
+				"cluster": 39,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 42,
+				"label": "faculty of education, university of lapland, rovaniemi, finland",
+				"x": -0.1444,
+				"y": 0.1418,
+				"cluster": 40,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 43,
+				"label": "faculty of mathematics, informatics and mechanics, university of warsaw, ul. banacha 2, 02-097 warszawa, poland",
+				"x": -0.2367,
+				"y": -0.0610,
+				"cluster": 41,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 15.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 44,
+				"label": "faculty of mining, ecology, process control and geotechnologies, technical university of kosice, letná 9, košice, 04 001, slovakia",
+				"x": 3.1619,
+				"y": 0.1443,
+				"cluster": 42,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 45,
+				"label": "faculty of psychology and education sciences, edul@b research group, universitat oberta de catalunya (uoc), barcelona, spain",
+				"x": 1.0617,
+				"y": 0.0407,
+				"cluster": 43,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 46,
+				"label": "flinders university of south australia, adelaide, australia",
+				"x": -1.2561,
+				"y": 0.4081,
+				"cluster": 44,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1998.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 47,
+				"label": "graduate institute of applied science and technology, national taiwan university of science and technology (tr930), #43 keelung road, section 4, taipei, taiwan",
+				"x": -0.2035,
+				"y": -0.1115,
+				"cluster": 45,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 48,
+				"label": "graduate school of curriculum and instructional communications technology, national taipei university of education, taiwan",
+				"x": -1.1569,
+				"y": 0.3689,
+				"cluster": 46,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 49,
+				"label": "indicators and analysis division, directorate for education, oecd, 2, rue andré pascal, paris cedex 16 75775, france",
+				"x": -1.0984,
+				"y": 0.2943,
+				"cluster": 47,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 50,
+				"label": "inefc, university of barcelona, spain",
+				"x": -0.1282,
+				"y": -0.0374,
+				"cluster": 48,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 51,
+				"label": "institute of education, university of tartu, jakobi 5, tartu, 51005, estonia",
+				"x": 2.0550,
+				"y": 0.0906,
+				"cluster": 49,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 52,
+				"label": "institute of information management systems, faculty of management university of technology, dabrowskiego 69, czestochowa, 42-200, poland",
+				"x": 3.1509,
+				"y": 0.1434,
+				"cluster": 50,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 53,
+				"label": "institute of international and comparative education, faculty of education, east china normal university, shanghai, china",
+				"x": -0.7622,
+				"y": -0.0425,
+				"cluster": 51,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 54,
+				"label": "kwansei gakuin university, school of international studies, toshokan, japan",
+				"x": -1.1048,
+				"y": 0.2833,
+				"cluster": 52,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 55,
+				"label": "leuphana university of lüneburg, germany",
+				"x": -0.7325,
+				"y": 0.2268,
+				"cluster": 53,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 56,
+				"label": "miami university, italy",
+				"x": -0.3426,
+				"y": -0.0162,
+				"cluster": 54,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 57,
+				"label": "national electronics and computer technology center (nectec), thailand",
+				"x": -1.2542,
+				"y": 0.4127,
+				"cluster": 55,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 58,
+				"label": "norwegian centre for ict in education, norway",
+				"x": 2.9430,
+				"y": 0.1335,
+				"cluster": 56,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 59,
+				"label": "norwegian centre for ict in education, oslo, norway",
+				"x": 2.4157,
+				"y": 0.1068,
+				"cluster": 57,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 60,
+				"label": "norwegian university of science and technology, norway",
+				"x": -0.3421,
+				"y": -0.0147,
+				"cluster": 58,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 61,
+				"label": "phranakhon rajabhat university, thailand",
+				"x": -1.2497,
+				"y": 0.4133,
+				"cluster": 59,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 62,
+				"label": "professor emerita of anthropology, university of michigan-dearborn, dearborn, mi, united states",
+				"x": -0.5996,
+				"y": -0.0245,
+				"cluster": 60,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 63,
+				"label": "school of education, communication and language science, newcastle university, united kingdom",
+				"x": -0.1929,
+				"y": -0.0610,
+				"cluster": 61,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 64,
+				"label": "school of education, university of new england, australia",
+				"x": -0.9289,
+				"y": 0.2348,
+				"cluster": 62,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 65,
+				"label": "school of education, university of southampton, southampton, united kingdom",
+				"x": -0.1776,
+				"y": -0.1060,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 17.0000,
+					"Documents": 3.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 66,
+				"label": "school of geographic sciences, east china normal university, shanghai, china",
+				"x": -0.4232,
+				"y": -0.5580,
+				"cluster": 63,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 67,
+				"label": "school of psychology, university of tasmania, gpo box 252-30, hobart, tas, 7001, australia",
+				"x": -1.2493,
+				"y": 0.4085,
+				"cluster": 64,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2001.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 68,
+				"label": "school of sociology and social work, university of tasmania, box 1214, launceston, tas, 7250, australia",
+				"x": -1.2529,
+				"y": 0.4051,
+				"cluster": 65,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2001.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 69,
+				"label": "shanghai cao yang no. 2 high school, shanghai, china",
+				"x": -0.4187,
+				"y": -0.5487,
+				"cluster": 66,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 70,
+				"label": "shanghai fengxian high school, shanghai, china",
+				"x": -0.4291,
+				"y": -0.5494,
+				"cluster": 67,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 71,
+				"label": "ucam universidad católica de murcia, campus de los jerónimos, murcia, spain",
+				"x": -0.3498,
+				"y": 0.0756,
+				"cluster": 68,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 72,
+				"label": "ucm, madrid, spain",
+				"x": -0.1939,
+				"y": -0.0591,
+				"cluster": 69,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 73,
+				"label": "uned, madrid, spain",
+				"x": -0.1968,
+				"y": -0.0848,
+				"cluster": 1,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 23.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 74,
+				"label": "universal education foundation, brussels, belgium",
+				"x": 0.0662,
+				"y": -0.1462,
+				"cluster": 70,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 75,
+				"label": "universidad autónoma de barcelona, fac. ciencias de la educación, departamento de pedagogía aplicada, edificio g6, 08193, bellaterra (cerdanyola vallès), spain",
+				"x": -0.1996,
+				"y": -0.1114,
+				"cluster": 71,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 76,
+				"label": "universidad autónoma de madrid, departamento de política y teoría de la educación, madrid, spain",
+				"x": -0.0430,
+				"y": -0.0575,
+				"cluster": 72,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 77,
+				"label": "universidad castilla-la mancha, spain",
+				"x": -0.0987,
+				"y": -0.0517,
+				"cluster": 73,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 78,
+				"label": "universidad de burgos, spain",
+				"x": 0.0187,
+				"y": -0.0627,
+				"cluster": 74,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 79,
+				"label": "universidad de granada, spain",
+				"x": -0.0993,
+				"y": -0.0513,
+				"cluster": 75,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 80,
+				"label": "universidad de las palmas de gran canaria, c/juan de quesada, n 30, las palmas de gran canaria - 35001, spain",
+				"x": -0.1978,
+				"y": -0.0904,
+				"cluster": 1,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 21.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 81,
+				"label": "universidad de limerick, spain",
+				"x": -0.5102,
+				"y": 0.1717,
+				"cluster": 76,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 82,
+				"label": "universidad de oviedo, spain",
+				"x": -0.3506,
+				"y": 0.0745,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 83,
+				"label": "universidad de santiago de compostela, spain",
+				"x": -0.0989,
+				"y": -0.0507,
+				"cluster": 77,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 84,
+				"label": "universidad de vigo, spain",
+				"x": -0.0983,
+				"y": -0.0511,
+				"cluster": 78,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 85,
+				"label": "universidad nebrija, madrid, spain",
+				"x": -0.0432,
+				"y": -0.0584,
+				"cluster": 79,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 86,
+				"label": "university of bristol, united kingdom",
+				"x": 0.0015,
+				"y": -0.1160,
+				"cluster": 80,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 87,
+				"label": "university of burgos, burgos, spain",
+				"x": -0.4270,
+				"y": -0.0014,
+				"cluster": 81,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 88,
+				"label": "university of limerick, ireland",
+				"x": -0.2182,
+				"y": 0.0037,
+				"cluster": 82,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 89,
+				"label": "university of london, united kingdom",
+				"x": 0.0020,
+				"y": -0.1150,
+				"cluster": 83,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 90,
+				"label": "university of rouen normandie, mont saint aignan cedex, france",
+				"x": -1.0983,
+				"y": 0.2868,
+				"cluster": 84,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 91,
+				"label": "university of sevilla, spain",
+				"x": -0.2014,
+				"y": -0.1081,
+				"cluster": 85,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 92,
+				"label": "università cáfoscari venezia, dorsoduro 3246, 30123 venezia, italy",
+				"x": -0.0779,
+				"y": -0.0553,
+				"cluster": 86,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 3,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 65,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 65,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 65,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 71,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 65,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 73,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 92,
+				"strength": 1.0000
+			}
+		]
+	}
+}

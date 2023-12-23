@@ -1,0 +1,5711 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "african center of excellence for innovative teaching and learning mathematics and science (aceitlms), university of rwanda college of education (urce), rwanda",
+				"x": -2.0505,
+				"y": 0.9014,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "amsterdam university of applied sciences, amsterdam, netherlands",
+				"x": -0.1001,
+				"y": 0.0112,
+				"cluster": 6,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 24.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 3,
+				"label": "bibb, bonn, germany",
+				"x": -0.2849,
+				"y": 0.0510,
+				"cluster": 7,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 26.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 4,
+				"label": "center of excellence for positive organizational psychology, department of psychology, education and child studies, erasmus university rotterdam, rotterdam, netherlands",
+				"x": -0.0999,
+				"y": 0.0106,
+				"cluster": 8,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 24.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "centre for educational measurement oslo (cemo), university of oslo, oslo, norway",
+				"x": -0.0444,
+				"y": 0.1323,
+				"cluster": 9,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "centre for research on lifelong learning and participation, katholieke universiteit leuven, leuven, belgium",
+				"x": 0.0350,
+				"y": -0.0900,
+				"cluster": 10,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 7,
+				"label": "centro de educación stem, johannes kepler university, linz, austria",
+				"x": -0.4739,
+				"y": -0.0540,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 8,
+				"label": "chair group of education and competence studies, wageningen university, netherlands",
+				"x": -0.0719,
+				"y": -0.1508,
+				"cluster": 12,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 9,
+				"label": "chairgroup of education and learning sciences, wageningen university research, wageningen, netherlands",
+				"x": -0.0996,
+				"y": 0.0110,
+				"cluster": 13,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 24.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 10,
+				"label": "competence studies, wageningen university, netherlands",
+				"x": -0.1157,
+				"y": -0.0273,
+				"cluster": 2,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 34.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 11,
+				"label": "council for scientific and industrial research (csir), institute for scientific and technological information (insti), pmb, accra, ghana",
+				"x": -0.2485,
+				"y": 0.0783,
+				"cluster": 14,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 12,
+				"label": "cps education development and advice, p.o. box 1592, 3800 bn amersfoort, netherlands",
+				"x": -0.0542,
+				"y": -0.0745,
+				"cluster": 15,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 13,
+				"label": "departamento de didácticas aplicadas, universidad de santiago de compostela, spain",
+				"x": -0.4734,
+				"y": -0.0462,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 14,
+				"label": "departamento de matemáticas, estadística y computación, universidad de cantabria, spain",
+				"x": -0.4738,
+				"y": -0.0620,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 15,
+				"label": "department of agricultural extension and education, college of agriculture, razi university, kermanshah, iran",
+				"x": -0.0691,
+				"y": -0.0233,
+				"cluster": 18,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 16,
+				"label": "department of agricultural extension and education, college of agriculture, tarbiat modares university (tmu), tehran, iran",
+				"x": -0.0695,
+				"y": -0.0225,
+				"cluster": 19,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 17,
+				"label": "department of agricultural extension and education, razi university, kermanshah, iran",
+				"x": -0.1045,
+				"y": -0.0136,
+				"cluster": 20,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 18,
+				"label": "department of agricultural extension and education, tarbiat modares university, tehran, iran",
+				"x": -0.1032,
+				"y": -0.0138,
+				"cluster": 21,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 19,
+				"label": "department of agricultural extension, school of agriculture, college of basic and applied sciences (cbas), university of ghana, accra, ghana",
+				"x": -0.2503,
+				"y": 0.0757,
+				"cluster": 22,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 20,
+				"label": "department of business administration, economics and business school, university of chile, santiago, chile",
+				"x": 0.3722,
+				"y": 0.1742,
+				"cluster": 23,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 21,
+				"label": "department of educational sciences, katholieke universiteit leuven, leuven, belgium",
+				"x": -0.0453,
+				"y": 0.1309,
+				"cluster": 24,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 22,
+				"label": "department of educational sciences, katholieke universiteit leuven, p.o. box 03772, b-3000 leuven, belgium",
+				"x": -0.0114,
+				"y": 0.1743,
+				"cluster": 25,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 23,
+				"label": "department of educational sciences, katholieke universiteit leuven, p.o. box 03772, leuven, b-3000, belgium",
+				"x": -0.0137,
+				"y": 0.1746,
+				"cluster": 26,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 24,
+				"label": "department of educational sciences, utrecht university, netherlands",
+				"x": -0.1157,
+				"y": -0.0269,
+				"cluster": 27,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 34.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 25,
+				"label": "department of human resource studies, tilburg university, po box 90153, 5000 le, tilburg, netherlands",
+				"x": -0.1134,
+				"y": -0.1175,
+				"cluster": 28,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 26,
+				"label": "department of human resource studies, tilburg university, po box 90153, tilburg, 5000 le, netherlands",
+				"x": -0.1109,
+				"y": 0.0016,
+				"cluster": 29,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 25.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 27,
+				"label": "department of human resource studies, tilburg university, tilburg, netherlands",
+				"x": -0.1185,
+				"y": -0.0080,
+				"cluster": 1,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 41.0000,
+					"Documents": 3.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 28,
+				"label": "department of human resources studies, tilburg university, netherlands",
+				"x": -0.0886,
+				"y": -0.0727,
+				"cluster": 1,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 52.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 29,
+				"label": "department of information technology, faculty of information technology, russian state social university, moscow, russian federation",
+				"x": 4.1780,
+				"y": 0.5127,
+				"cluster": 30,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 30,
+				"label": "department of management control and information systems, economics and business school, university of chile, santiago, chile",
+				"x": 0.3764,
+				"y": 0.1679,
+				"cluster": 31,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 31,
+				"label": "department of mathematics and computer science, faculty of information technology, russian state social university, moscow, russian federation",
+				"x": 4.1811,
+				"y": 0.4983,
+				"cluster": 32,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 32,
+				"label": "department of methodology and statistics, tilburg university, p.o. box 90153, 5000le tilburg, netherlands",
+				"x": -0.0154,
+				"y": 0.1754,
+				"cluster": 33,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 33,
+				"label": "department of pedagogical studies, fontys university of applied sciences, tilburg, netherlands",
+				"x": -0.0425,
+				"y": 0.1318,
+				"cluster": 34,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 34,
+				"label": "department of psychology and pedagogy, dean of the faculty of pedagogy and psychology, kuban state university, krasnodar, russian federation",
+				"x": 4.1659,
+				"y": 0.4929,
+				"cluster": 35,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 35,
+				"label": "department of psychology, education, and child studies, erasmus university rotterdam, po box 1738, rotterdam, 3000 dr, netherlands",
+				"x": -0.1114,
+				"y": 0.0016,
+				"cluster": 36,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 25.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 36,
+				"label": "department of social pedagogy, faculty of social work, russian state social university, moscow, russian federation",
+				"x": 4.1747,
+				"y": 0.4754,
+				"cluster": 37,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 37,
+				"label": "department of teacher education, university of groningen, netherlands",
+				"x": -0.1097,
+				"y": -0.0515,
+				"cluster": 38,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 27.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 38,
+				"label": "department social sciences, wageningen university, p.o. box 8130, 6700 ew wageningen, netherlands",
+				"x": -0.0548,
+				"y": -0.0759,
+				"cluster": 39,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 39,
+				"label": "dipsco, università degli studi di trento, italy",
+				"x": -0.1611,
+				"y": -0.1081,
+				"cluster": 40,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 40,
+				"label": "directorate general of secondary education, ministry of education and culture, indonesia",
+				"x": -0.1095,
+				"y": -0.0513,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 27.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 41,
+				"label": "directorate general of teacher and educational personnel, ministry of education and culture, jakarta, indonesia",
+				"x": -0.1741,
+				"y": -0.0498,
+				"cluster": 41,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 42,
+				"label": "directorate general of teachers and educational personnel, ministry of education and culture, jakarta, indonesia",
+				"x": -0.0837,
+				"y": -0.0995,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 24.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 43,
+				"label": "disi, dipartimento di ingegneria e scienza dell'informazione, università di trento, italy",
+				"x": -0.2818,
+				"y": -0.0494,
+				"cluster": 42,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 44,
+				"label": "disi, università degli studi di trento, italy",
+				"x": -0.1607,
+				"y": -0.1104,
+				"cluster": 43,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 45,
+				"label": "doctoral school of education, institute of education, elte eötvös loránd tudományegyetem, budapest, hungary",
+				"x": -0.5024,
+				"y": -0.6317,
+				"cluster": 44,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 46,
+				"label": "east china normal university, institute of vocational and adult education, n. zhongshan rd.3663, shanghai, 200062, china",
+				"x": -0.1291,
+				"y": -0.0511,
+				"cluster": 45,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 47,
+				"label": "ecs/wur, education and competence studies, wageningen university, netherlands",
+				"x": -0.2818,
+				"y": -0.0502,
+				"cluster": 46,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 48,
+				"label": "education & competence studies group, wageningen university and research centre, wageningen, netherlands",
+				"x": -0.1529,
+				"y": -0.0585,
+				"cluster": 3,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 38.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 49,
+				"label": "education and competence studies chair group, wageningen university, netherlands",
+				"x": -0.1153,
+				"y": -0.0273,
+				"cluster": 47,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 34.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 50,
+				"label": "education and competence studies chair group, wageningen university, po box 8130, 6700 ew, netherlands",
+				"x": -0.1153,
+				"y": -0.0268,
+				"cluster": 48,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 34.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 51,
+				"label": "education and competence studies group, wageningen university and research centre, netherlands",
+				"x": -0.0886,
+				"y": -0.0729,
+				"cluster": 49,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 52.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 52,
+				"label": "education and competence studies, social sciences group, wageningen university and research center, p.o. box 8130, wageningen, 6700 ew, netherlands",
+				"x": -0.0784,
+				"y": -0.1131,
+				"cluster": 123,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 18.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 53,
+				"label": "education and competence studies, wageningen university and research center, wageningen, netherlands",
+				"x": -0.1741,
+				"y": -0.0490,
+				"cluster": 50,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 54,
+				"label": "education and competence studies, wageningen university, p.o. box 8130, wageningen, 6700 ew, netherlands",
+				"x": -0.1343,
+				"y": 0.0192,
+				"cluster": 51,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 55,
+				"label": "education and learning sciences (els), wageningen university & research, wageningen, netherlands",
+				"x": -0.0899,
+				"y": -0.0232,
+				"cluster": 2,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 19.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 56,
+				"label": "education and learning sciences group, wageningen university and research, wageningen, netherlands",
+				"x": -0.0995,
+				"y": -0.0726,
+				"cluster": 52,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 57,
+				"label": "education and learning sciences, wageningen university and research center, wageningen, netherlands",
+				"x": -0.0877,
+				"y": -0.0876,
+				"cluster": 53,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 58,
+				"label": "education and research, nhl stenden university of applied sciences, leeuwarden, netherlands",
+				"x": 0.0543,
+				"y": -0.0635,
+				"cluster": 54,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 59,
+				"label": "education, university college pxl, hasselt, belgium",
+				"x": -0.3589,
+				"y": -0.2045,
+				"cluster": 55,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 60,
+				"label": "educational sciences, edwe, teacher education, milo, brussels, belgium",
+				"x": -0.3452,
+				"y": -0.2181,
+				"cluster": 56,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 61,
+				"label": "educational sciences, edwe, teacher education, milo, vrije universiteit brussel, brussels, belgium",
+				"x": -0.3564,
+				"y": -0.1934,
+				"cluster": 57,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 62,
+				"label": "educational sciences, edwe, vrije universiteit, brussels, belgium",
+				"x": -0.3664,
+				"y": -0.1889,
+				"cluster": 58,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 63,
+				"label": "eindhoven school of education, eindhoven university of technology, po box 513, 5600 mb eindhoven, netherlands",
+				"x": -0.0704,
+				"y": -0.1204,
+				"cluster": 59,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 64,
+				"label": "faculty of behavioral sciences, university of twente, enschede, netherlands",
+				"x": -0.0715,
+				"y": -0.0439,
+				"cluster": 60,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 65,
+				"label": "faculty of education, school of social and cultural studies education, deakin university, geelong, australia",
+				"x": 0.1836,
+				"y": -0.9693,
+				"cluster": 61,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 66,
+				"label": "faculty of education, university of cambridge, 184 hills road, cambridge, cb2 8pq, united kingdom",
+				"x": -2.0701,
+				"y": 0.8604,
+				"cluster": 62,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 67,
+				"label": "faculty of education, university of cambridge, united kingdom",
+				"x": 0.1971,
+				"y": -1.1394,
+				"cluster": 63,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 68,
+				"label": "faculty of educational sciences, university of helsinki, helsinki, finland",
+				"x": 0.6267,
+				"y": 0.0452,
+				"cluster": 64,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 69,
+				"label": "faculty of psychology, gadjah mada university, yogyakarta, indonesia",
+				"x": -0.0843,
+				"y": -0.0863,
+				"cluster": 65,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 70,
+				"label": "faculty of social and behavioural sciences, department of education, utrecht university, utrecht, netherlands",
+				"x": -0.2638,
+				"y": -0.2503,
+				"cluster": 66,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 71,
+				"label": "fontys university of applied sciences, po box 347, 5600 ah eindhoven, netherlands",
+				"x": -0.0683,
+				"y": -0.1190,
+				"cluster": 67,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 72,
+				"label": "foreign languages department, moscow regional institute for humanities, podolsk, moscow, russian federation",
+				"x": 4.1960,
+				"y": 0.4958,
+				"cluster": 68,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 73,
+				"label": "hammerton associates ltd, kirk hammerton, united kingdom",
+				"x": -0.5050,
+				"y": -0.2827,
+				"cluster": 69,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 74,
+				"label": "hanze university groningen, groningen, netherlands",
+				"x": -0.4455,
+				"y": 0.1447,
+				"cluster": 70,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 75,
+				"label": "higher school of economics, institute of education, centre for vocational education and skills development, potapovsky pereulok 16, moscow, 101000, russian federation",
+				"x": -0.1288,
+				"y": -0.0491,
+				"cluster": 71,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 76,
+				"label": "institute of education, elte eötvös loránd tudományegyetem, budapest, hungary",
+				"x": -0.5190,
+				"y": -0.6215,
+				"cluster": 72,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 77,
+				"label": "ku leuven, centre for research on professional learning and development, corporate training and lifelong learning, leuven, belgium",
+				"x": 0.0078,
+				"y": -0.1111,
+				"cluster": 73,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 78,
+				"label": "kuleuven, centre for research on teaching and training, belgium",
+				"x": 0.0025,
+				"y": 0.0784,
+				"cluster": 4,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 19.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 79,
+				"label": "learning and educational technology research unit, university of oulu, oulu, finland",
+				"x": 0.3563,
+				"y": 0.1524,
+				"cluster": 74,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 80,
+				"label": "look scientific centre for teacher research, open universiteit heerlen, heerlen, netherlands",
+				"x": -0.0690,
+				"y": -0.0419,
+				"cluster": 75,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 81,
+				"label": "medical school, college of medical, veterinary and life sciences, university of glasgow, glasgow, united kingdom",
+				"x": 0.3816,
+				"y": 0.1532,
+				"cluster": 76,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 82,
+				"label": "moscow regional institute for humanities, podolsk, moscow, russian federation",
+				"x": 4.1905,
+				"y": 0.4765,
+				"cluster": 77,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 83,
+				"label": "naruto university of education, graduate school of education, tokushima, japan",
+				"x": -1.8229,
+				"y": 0.7836,
+				"cluster": 78,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 84,
+				"label": "naruto university of education, japan",
+				"x": -1.3790,
+				"y": 0.5641,
+				"cluster": 79,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 85,
+				"label": "national board for professional and technician examinations (nabptex), ghana",
+				"x": 0.0159,
+				"y": -0.4302,
+				"cluster": 80,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 86,
+				"label": "natl. coll. of elec. and mech. eng., cudham hall, cudham, kent, tn14 7qb, united kingdom",
+				"x": 0.0419,
+				"y": -0.1229,
+				"cluster": 81,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1999.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 87,
+				"label": "netherlands laboratory for lifelong learning (nelll), open university of the netherlands, heerlen, netherlands",
+				"x": -0.2418,
+				"y": -0.1842,
+				"cluster": 82,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 88,
+				"label": "osnabrück university chair of vocational and business education, katharinenstr. 24, osnabrück, 49078, germany",
+				"x": -0.1272,
+				"y": -0.0520,
+				"cluster": 83,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 89,
+				"label": "oulu university of applied sciences, finland",
+				"x": -0.5351,
+				"y": -0.6105,
+				"cluster": 84,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 90,
+				"label": "oulu university of applied sciences, oulu, finland",
+				"x": -0.1320,
+				"y": -0.0897,
+				"cluster": 85,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 91,
+				"label": "oulu university of applied sciences, school of vocational teacher education, oulu, finland",
+				"x": 0.2566,
+				"y": 0.4301,
+				"cluster": 86,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 92,
+				"label": "pedagogiek van de beroepsvorming, the hague university of professional education, the hague, netherlands",
+				"x": 0.0350,
+				"y": -0.0881,
+				"cluster": 87,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 93,
+				"label": "physical education and sport faculty, university of bordeaux, bordeaux, france",
+				"x": -0.1433,
+				"y": 0.0128,
+				"cluster": 88,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 94,
+				"label": "professorship sustainable educational concepts in higher education, nhl stenden university of applied sciences, noord-sleen, leeuwarden, netherlands",
+				"x": 0.0547,
+				"y": -0.0670,
+				"cluster": 89,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 95,
+				"label": "research methodology group, wageningen university and research centre, wageningen, netherlands",
+				"x": -0.0419,
+				"y": 0.1300,
+				"cluster": 90,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 96,
+				"label": "rwanda education board (reb), rwanda",
+				"x": -2.0530,
+				"y": 0.8968,
+				"cluster": 91,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 97,
+				"label": "saxion university enschede, enschede, netherlands",
+				"x": -0.4374,
+				"y": 0.1576,
+				"cluster": 92,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 98,
+				"label": "school for educational studies, university of hasselt, belgium",
+				"x": -0.3489,
+				"y": -0.2090,
+				"cluster": 93,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 99,
+				"label": "school of business and economics, maastricht university, maastricht, netherlands",
+				"x": -0.0438,
+				"y": 0.1297,
+				"cluster": 94,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 100,
+				"label": "school of business and economics, maastricht university, p.o. box 616, 6200md maastricht, netherlands",
+				"x": -0.0143,
+				"y": 0.1772,
+				"cluster": 95,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 101,
+				"label": "school of business and economics, maastricht university, p.o. box 616, md maastricht, 6200, netherlands",
+				"x": -0.0127,
+				"y": 0.1762,
+				"cluster": 96,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 102,
+				"label": "school of computing, university of central england, birmingham, united kingdom",
+				"x": 0.1140,
+				"y": -0.7499,
+				"cluster": 97,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 103,
+				"label": "school of education and african centre of excellence for innovative teaching mathematics and science (aceitlms) college of education, university of rwanda, kigali, rwanda",
+				"x": -1.8336,
+				"y": 0.7619,
+				"cluster": 98,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 104,
+				"label": "school of graduate, naruto university of education, tokushima, japan",
+				"x": -1.8346,
+				"y": 0.7600,
+				"cluster": 99,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 105,
+				"label": "school of health professions education, department of educational development & research, maastricht university, maastricht, netherlands",
+				"x": -0.3679,
+				"y": -0.1787,
+				"cluster": 100,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 106,
+				"label": "school of organisation and management, asb, unsw, sydney, australia",
+				"x": -0.0763,
+				"y": -0.1518,
+				"cluster": 101,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 107,
+				"label": "school of professional teacher education, oulu university of applied sciences, oulu, finland",
+				"x": 0.0119,
+				"y": 0.0110,
+				"cluster": 4,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 25.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 108,
+				"label": "sheffield business school, sheffield, united kingdom",
+				"x": -0.2076,
+				"y": 0.3920,
+				"cluster": 102,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1996.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 109,
+				"label": "sme development, enterprise research and development centre, university of central england, birmingham, united kingdom",
+				"x": 0.1172,
+				"y": -0.7489,
+				"cluster": 103,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 110,
+				"label": "staff office education and applied research, hanze university of applied sciences groningen, p.o. box 30030, groningen, 9700 rm, netherlands",
+				"x": -0.1390,
+				"y": 0.0163,
+				"cluster": 104,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 111,
+				"label": "stoas research, netherlands",
+				"x": -0.0888,
+				"y": -0.0728,
+				"cluster": 1,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 52.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 112,
+				"label": "teaching and learning centre, economics and business school, university of chile, santiago, chile",
+				"x": 0.3797,
+				"y": 0.1608,
+				"cluster": 105,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 113,
+				"label": "telecom italia, italy",
+				"x": -0.1632,
+				"y": -0.1071,
+				"cluster": 106,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 114,
+				"label": "the hague university of professional education, pedagogy of vocational and professional development, the hague, netherlands",
+				"x": 0.0086,
+				"y": -0.1085,
+				"cluster": 107,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 115,
+				"label": "the netherlands business school, nijenrode university, straatweg 25, breukelen, 3621 bg, netherlands",
+				"x": 3.6777,
+				"y": 0.4303,
+				"cluster": 108,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1993.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 116,
+				"label": "university for humanistics, netherlands",
+				"x": -0.2105,
+				"y": -0.0984,
+				"cluster": 109,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 25.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 117,
+				"label": "university institute of teacher training, university of toulouse jean jaurès, toulouse, france",
+				"x": -0.1465,
+				"y": 0.0086,
+				"cluster": 110,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 118,
+				"label": "university of amsterdam, department of child development and education, p.o. box 15780, amsterdam, ng 1001, netherlands",
+				"x": 0.3235,
+				"y": -1.6180,
+				"cluster": 111,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 119,
+				"label": "university of cologne chair of economics and business education, herbert-lewin-str. 2, cologne, 50931, germany",
+				"x": -0.1268,
+				"y": -0.0499,
+				"cluster": 112,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 120,
+				"label": "university of groningen, groningen, netherlands",
+				"x": -0.4416,
+				"y": 0.1513,
+				"cluster": 113,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 121,
+				"label": "university of groningen, netherlands",
+				"x": 0.0149,
+				"y": -0.4305,
+				"cluster": 114,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 122,
+				"label": "university of lapland, rovaniemi, finland",
+				"x": -0.1331,
+				"y": -0.0887,
+				"cluster": 115,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 123,
+				"label": "university of leuven, vesaliusstraat 2, leuven, 3000, belgium",
+				"x": 0.1829,
+				"y": 0.0023,
+				"cluster": 116,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 23.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 124,
+				"label": "university of medicine and dentistry of new jersey, 65 bergen st., 160, newark, nj 07107-1709, united states",
+				"x": 0.3060,
+				"y": 0.0917,
+				"cluster": 117,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 125,
+				"label": "university of rwanda, college of education, school of education and african centre of excellence for innovative teaching and learning mathematics and science (aceitlms), kigali, rwanda",
+				"x": -1.8226,
+				"y": 0.7858,
+				"cluster": 118,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 126,
+				"label": "university of rwanda, college of education, school of education, p.o. box 5039, kigali, rwanda",
+				"x": 0.3125,
+				"y": -1.6212,
+				"cluster": 119,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 127,
+				"label": "university of rwanda, rwanda",
+				"x": -1.3796,
+				"y": 0.5628,
+				"cluster": 120,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 128,
+				"label": "university of rwanda-college of education, rwanda",
+				"x": -2.0684,
+				"y": 0.8648,
+				"cluster": 121,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 129,
+				"label": "utrecht university, netherlands",
+				"x": -0.2104,
+				"y": -0.0988,
+				"cluster": 122,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 25.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 130,
+				"label": "wageningen university and research center, netherlands",
+				"x": -0.1052,
+				"y": -0.0573,
+				"cluster": 1,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 32.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 131,
+				"label": "wageningen university, netherlands",
+				"x": -0.2690,
+				"y": 0.0455,
+				"cluster": 3,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 28.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 132,
+				"label": "änderung consulting, new york, ny, united states",
+				"x": 0.3075,
+				"y": 0.0878,
+				"cluster": 124,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 3,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 4,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 55,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 55,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 111,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 129,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 130,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 131,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 111,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 130,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 130,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 131,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 55,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 55,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 130,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 126,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 107,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 96,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 120,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 129,
+				"target_id": 130,
+				"strength": 1.0000
+			}
+		]
+	}
+}
